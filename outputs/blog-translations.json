@@ -18,5 +18,13 @@
     "ar": "المصادر وحدود التغطية: منشورا أبو علي إكسبرس الأصليان في 10 و21 أكتوبر 2026. نعيد صياغة مواضيع المصدر، ونضيف أسئلة متابعة وإرشادات بشأن الأدلة من عندنا. لا نقيّم في هذا المقال ردود الأحزاب أو أداءها.",
     "en": "Sources and scope: Abu Ali Express’s original posts of 10 and 21 October 2026. Source topics are paraphrased; follow-up questions and evidence guidance are Torekh’s. This post does not assess party responses or performance.",
     "he": "מקורות והיקף: פרסומי אבו עלי אקספרס המקוריים מ־10 ומ־21 באוקטובר 2026. נושאי המקור מנוסחים כאן מחדש; שאלות ההמשך וההסבר על ראיות הם של תורך. הכתבה אינה בוחנת תשובות מפלגות או ביצועים."
+  },
+  "blogNames": {
+    "ar": "يلّا، نصوّت!",
+    "en": "Yalla, Let’s Vote!"
+  },
+  "blogSubtitles": {
+    "ar": "أسئلة واضحة. مصادر متاحة. والقرار لكم.",
+    "en": "Clear questions. Visible sources. Your own decision."
   }
 }
