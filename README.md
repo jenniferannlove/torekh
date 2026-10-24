@@ -60,7 +60,9 @@ The Abu Ali article is unpublished on Odoo and no longer promoted on the homepag
 
 ## What to expect
 
-The [site introduction](https://www.torekh.org/en/what-to-expect) restores the original project outline: safety and security, economic opportunity, family planning and women’s health, a first-vote walkthrough, voting history, and the journey from ballot to government. Available features are separated from planned research. Arabic, Hebrew and English copy is included in `outputs/torekh-what-to-expect-copy.json`; `outputs/torekh-what-to-expect.html` is a standalone version. The homepage links to the introduction in the selected language, with English fallback for Russian and Amharic. The author’s separate, unpublished TOI draft is not part of this repository.
+The [first-time voter page](https://www.torekh.org/en/what-to-expect) is a straightforward guide to the ordinary assigned polling-station process: check the location and ID requirements, check in, go behind the screen, choose one slip and cast the envelope. It includes three illustrations and short FAQs, in Arabic, Hebrew and English. It contains no project roadmap, research-status commentary or development notices.
+
+`outputs/torekh-what-to-expect-copy.json` holds the current reader-facing text. `work/build-first-voter-page.py` builds the standalone HTML and Odoo template; `work/build-expect-page.py` is its compatibility entry point. Voting procedure, identification, hours, envelope sealing, photography and assistance were checked against the Central Elections Committee’s 26th-Knesset FAQ, updated 12 October 2026, and the Ministry of Interior’s 2026 polling-station information, updated 20 October 2026. The page links directly to the official polling-station lookup and FAQ. The author’s unpublished TOI draft is separate from this repository.
 
 ## Voting illustrations
 

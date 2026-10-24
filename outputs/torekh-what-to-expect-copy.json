@@ -1,197 +1,107 @@
 {
   "en": {
-    "title": "What to expect",
-    "strap": "Torekh · Your Turn",
-    "intro": "Start with the cards. See the bigger picture.",
-    "lead": "A conversational, visual civic guide built to make a complicated election easier to understand. It begins with identifying the lists on the ballot, and is growing toward the everyday questions behind them.",
-    "now": "Available now · Public beta",
-    "nowTitle": "Meet the parties",
-    "nowText": "Explore 37 election-list cards with official Hebrew names, ballot letters, candidate lists and source links. Arabic and English reading aids sit alongside the official identifiers. Policy summaries, identity notes and coalition statements are partial; the guide marks gaps rather than filling them with assumptions.",
-    "guide": "Open the party cards ↗",
-    "pillars": "Three questions at the heart of the project",
-    "pillarIntro": "These are shared subjects, not assumed shared opinions. Women have different lives, priorities and political views. The same questions and evidence standards should be available to everyone.",
-    "planned": "Planned · Research incomplete",
-    "items": [
-      [
-        "Safety and security",
-        "What does safety look like in daily life? We plan to examine national and community security, violence in the home, emergency preparedness and the effects of military service on families."
-      ],
-      [
-        "Work and economic opportunity",
-        "What helps someone find work, advance, build a business or remain financially independent? Planned coverage includes pay, childcare, parental leave, training and barriers to advancement."
-      ],
-      [
-        "Family planning and women’s health",
-        "What care is available, affordable and accessible? Planned coverage includes reproductive and maternal health, fertility care, contraception, menopause and mental health, with attention to geography, income and personal choice."
-      ]
+    "title": "What to expect at the polling station",
+    "heading": "Voting for the first time?",
+    "intro": "Here’s what happens, one step at a time. This is the ordinary process at your assigned polling station.",
+    "navigation": "Voting guide navigation",
+    "back": "Ballot letters and list names ↗",
+    "beforeTitle": "Before you go",
+    "before": [
+      "Check your assigned polling station’s address and number using the official lookup. Special voting arrangements have separate rules.",
+      "Bring your Israeli identity card, a valid Israeli passport or a valid Israeli driving licence. Some official service IDs are also accepted; see the official FAQ.",
+      "Most stations open from 07:00 to 22:00. Some have shorter hours, so check your own station.",
+      "Look up your chosen list’s official ballot letters before you arrive."
     ],
-    "beyond": "Beyond the party cards",
-    "more": [
-      [
-        "Your first vote",
-        "An illustrated walkthrough of the polling place: finding the right location, checking in, recognizing ballot slips, privacy, accessibility and questions to ask if something goes wrong. The current election’s official rules will be checked before practical instructions are published."
-      ],
-      [
-        "Where does one ballot go?",
-        "A visual explanation of how votes become Knesset seats and how government formation works. The guide already includes a partial coalition-statement map and a seat-count exercise using one dated poll; these are not predictions or current polling averages."
-      ],
-      [
-        "Women and the vote",
-        "A sourced look at the history of women’s voting rights and representation, including the different experiences behind that history. This section is planned; the historical research is not yet published."
-      ]
+    "findStation": "Find your polling station — official information ↗",
+    "officialFaq": "Central Elections Committee: voting FAQs ↗",
+    "steps": [
+      ["Check in", "Show your ID to the polling committee. They check your details and give you an official voting envelope.", ""],
+      ["Go behind the screen", "Take the envelope into the private voting booth. You will find the ballot slips there. If you need physical assistance, speak to the polling secretary before entering.", "Pencil illustration of a privacy screen around a table with trays of ballot slips."],
+      ["Choose one slip", "Choose one printed slip for the list you want and put it inside the official envelope. There is no box to tick: you choose a slip. Keep your choice hidden.", "Pencil illustration of six compartments containing ballot slips marked אמת, ב, בד, בי, בקר and ג. These are examples, not the full set of lists."],
+      ["Put the envelope in the ballot box", "Leave the booth and place the envelope in the ballot box in front of the polling committee. That completes the voting process.", "Pencil illustration of a hand placing a closed envelope in a ballot box."]
     ],
-    "method": "Promises. Actions. Outcomes. Different kinds of evidence.",
-    "evidence": [
-      [
-        "Promises",
-        "What a party says it intends to do."
-      ],
-      [
-        "Actions",
-        "What records show it has done, such as a vote, budget decision or implemented policy."
-      ],
-      [
-        "Outcomes",
-        "What changed in people’s lives—and what evidence can, or cannot, establish about the causes."
-      ]
+    "illustrationNote": "Illustrations only. The six ballot-letter examples are a selection, not official ballot papers or the full set of lists. Equipment and layouts can vary.",
+    "questionsTitle": "A few common questions",
+    "questions": [
+      ["Do I need the voter notice that came in the mail?", "No. The notice helps you find your station, but you do not need it to vote. You do need an accepted identification document."],
+      ["Do I have to glue the envelope shut?", "No. The official FAQ says there is no obligation to glue it shut. Keep your choice out of sight."],
+      ["Can I take a photograph?", "Do not take photographs in the polling station or behind the voting screen."],
+      ["What if a slip is missing, damaged or something is unclear?", "Speak to the polling secretary before casting your envelope. Ask for an explanation rather than guessing."],
+      ["What if I need accessibility arrangements or assistance?", "Check the official FAQ before setting out. Special accessible polling stations and assistance behind the screen have eligibility rules; the polling secretary can explain them."],
+      ["Do I have to tell anyone how I voted?", "Your vote is secret. Choose your slip behind the screen and keep it inside the envelope. You do not have to tell other people which list you chose."]
     ],
-    "methodNote": "An announcement is not an outcome. A missing source is not proof of opposition. Every comparison should show its source, date and limits. Research into actions and outcomes remains incomplete.",
-    "honest": "An honest work in progress",
-    "honestText": "Torekh is independent civic information, with no party rankings or voting recommendations. AI has helped with research, writing, translation and development; it can make mistakes. Translations remain drafts pending fluent human review. The public beta is useful to explore, but it is not a completed audit of every party or a substitute for official election instructions.",
-    "next": "Next: deeper sourcing, review of actions and outcomes, the first-vote walkthrough and historical explainers. Community discussion spaces may follow later; they are not open yet.",
-    "sources": "Sources and project notices",
-    "sourceLink": "Read the guide’s sources and notices",
-    "github": "Open-source project / suggest a correction",
-    "footer": "Code: MIT · Original text: CC BY 4.0 · Third-party materials retain their own rights."
+    "sourcesTitle": "Official information",
+    "sourcesNote": "For special voting arrangements and the latest instructions, use the official links below.",
+    "checked": "Checked against the Central Elections Committee’s 26th-Knesset election FAQ on 23 October 2026."
   },
   "ar": {
-    "title": "ماذا ينتظركم؟",
-    "strap": "دورك · תורך",
-    "intro": "ابدؤوا بالبطاقات. وتعرّفوا على الصورة الأوسع.",
-    "lead": "دليل مدني بصري، بلغة قريبة وواضحة، لفهم انتخابات معقّدة. يبدأ بالتعرّف على القوائم في ورقة الاقتراع، ويتوسّع نحو الأسئلة المرتبطة بالحياة اليومية.",
-    "now": "متاح الآن · نسخة تجريبية عامة",
-    "nowTitle": "تعرّفوا على القوائم",
-    "nowText": "استكشفوا 37 بطاقة للقوائم الانتخابية، تضم الأسماء الرسمية بالعبرية وحروف الاقتراع وقوائم المرشحين وروابط المصادر. تظهر أسماء مساعدة بالعربية والإنجليزية إلى جانب المعرّفات الرسمية. ملخصات البرامج وملاحظات الهوية والتصريحات الائتلافية جزئية؛ ونوضّح النقص بدل ملئه بالافتراضات.",
-    "guide": "افتحوا بطاقات القوائم ↗",
-    "pillars": "ثلاثة أسئلة في صميم المشروع",
-    "pillarIntro": "هذه موضوعات مشتركة، وليست افتراضًا بوجود آراء مشتركة. تختلف حياة النساء وأولوياتهن ومواقفهن السياسية. ينبغي أن تكون الأسئلة نفسها ومعايير الأدلة نفسها متاحة للجميع.",
-    "planned": "مخطّط له · البحث غير مكتمل",
-    "items": [
-      [
-        "السلامة والأمن",
-        "كيف يبدو الأمان في الحياة اليومية؟ نخطط لبحث الأمن على مستوى الدولة والمجتمع، والعنف داخل الأسرة، والاستعداد للطوارئ، وتأثير الخدمة العسكرية على العائلات."
-      ],
-      [
-        "العمل والفرص الاقتصادية",
-        "ما الذي يساعد على إيجاد عمل، أو التقدّم المهني، أو إنشاء مشروع، أو الحفاظ على الاستقلال المالي؟ تشمل التغطية المخططة الأجور ورعاية الأطفال وإجازات الوالدية والتدريب وعوائق التقدّم."
-      ],
-      [
-        "تنظيم الأسرة وصحة النساء",
-        "ما الرعاية المتاحة والميسورة والتي يمكن الوصول إليها؟ تشمل التغطية المخططة الصحة الإنجابية ورعاية الأمومة وعلاجات الخصوبة ووسائل منع الحمل وسن انقطاع الطمث والصحة النفسية، مع مراعاة المكان والدخل والاختيار الشخصي."
-      ]
+    "title": "ماذا تتوقعون في مكان الاقتراع؟",
+    "heading": "تصوّتون للمرة الأولى؟",
+    "intro": "إليكم ما يحدث، خطوة بخطوة. هذا هو الإجراء العادي في مركز الاقتراع المخصّص لكم.",
+    "navigation": "التنقل في دليل التصويت",
+    "back": "حروف الاقتراع وأسماء القوائم ↗",
+    "beforeTitle": "قبل الخروج",
+    "before": [
+      "تحقّقوا من عنوان مركز الاقتراع المخصّص لكم ورقمه عبر المعلومات الرسمية. لترتيبات التصويت الخاصة قواعد منفصلة.",
+      "أحضروا بطاقة الهوية الإسرائيلية، أو جواز سفر إسرائيليًا ساريًا، أو رخصة قيادة إسرائيلية سارية. تُقبل أيضًا بعض بطاقات الخدمة الرسمية؛ راجعوا الأسئلة الرسمية.",
+      "تفتح معظم المراكز من 07:00 حتى 22:00. تعمل بعض المراكز لساعات أقصر، لذا تحقّقوا من ساعات مركزكم.",
+      "تعرّفوا على حروف الاقتراع الرسمية للقائمة التي اخترتموها قبل الوصول."
     ],
-    "beyond": "ما وراء بطاقات القوائم",
-    "more": [
-      [
-        "التصويت للمرة الأولى",
-        "دليل مصوّر لمكان الاقتراع: العثور على المكان الصحيح، والتحقق من الهوية، والتعرّف على الأوراق، والخصوصية، وإتاحة الوصول، والأسئلة عند حدوث مشكلة. سنراجع التعليمات الرسمية للانتخابات الحالية قبل نشر الإرشادات العملية."
-      ],
-      [
-        "إلى أين تذهب ورقة اقتراع واحدة؟",
-        "شرح بصري لكيفية تحوّل الأصوات إلى مقاعد في الكنيست وتشكيل الحكومة. يتضمن الدليل بالفعل خريطة جزئية للتصريحات الائتلافية وتمرينًا لعدّ المقاعد استنادًا إلى استطلاع واحد مؤرّخ؛ وهما ليسا توقعًا أو متوسطًا للاستطلاعات الحالية."
-      ],
-      [
-        "النساء وحق التصويت",
-        "نظرة موثّقة إلى تاريخ حق النساء في التصويت والتمثيل السياسي، مع مراعاة اختلاف التجارب وراء هذا التاريخ. هذا القسم مخطّط له؛ ولم يُنشر البحث التاريخي بعد."
-      ]
+    "findStation": "العثور على مركز الاقتراع — معلومات رسمية ↗",
+    "officialFaq": "لجنة الانتخابات المركزية: أسئلة التصويت ↗",
+    "steps": [
+      ["التحقّق من الهوية", "قدّموا وثيقة الهوية للجنة صندوق الاقتراع. تتحقّق اللجنة من بياناتكم وتعطيكم مظروف اقتراع رسميًا.", ""],
+      ["خلف ساتر الاقتراع", "خذوا المظروف إلى حجرة الاقتراع الخاصة خلف الساتر. ستجدون أوراق الاقتراع هناك. إذا احتجتم إلى مساعدة جسدية، تحدّثوا مع سكرتير لجنة الصندوق قبل الدخول.", "رسم بالقلم لساتر خصوصية حول طاولة عليها صوانٍ لأوراق الاقتراع."],
+      ["اختاروا ورقة واحدة", "اختاروا ورقة مطبوعة واحدة للقائمة التي تريدونها، وضعوها داخل المظروف الرسمي. لا توجد خانة لوضع علامة: تختارون ورقة. حافظوا على سرية اختياركم.", "رسم لست خانات فيها أوراق تحمل אמת وב وבד وבי وבקר وג. هذه أمثلة وليست جميع القوائم."],
+      ["ضعوا المظروف في الصندوق", "اخرجوا من خلف الساتر وضعوا المظروف في صندوق الاقتراع أمام أعضاء اللجنة. بذلك تكون عملية التصويت قد اكتملت.", "رسم بالقلم ليد تضع مظروفًا مغلقًا في صندوق اقتراع."]
     ],
-    "method": "وعود. إجراءات. نتائج. أنواع مختلفة من الأدلة.",
-    "evidence": [
-      [
-        "الوعود",
-        "ما تقول القائمة إنها تنوي القيام به."
-      ],
-      [
-        "الإجراءات",
-        "ما تُظهر السجلات أنها قامت به، مثل تصويت أو قرار موازنة أو سياسة نُفّذت."
-      ],
-      [
-        "النتائج",
-        "ما تغيّر في حياة الناس، وما تستطيع الأدلة إثباته عن الأسباب وما لا تستطيع إثباته."
-      ]
+    "illustrationNote": "رسوم توضيحية فقط. أمثلة الحروف الستة عيّنة، وليست أوراق اقتراع رسمية أو جميع القوائم. قد تختلف التجهيزات وطريقة ترتيبها.",
+    "questionsTitle": "أسئلة شائعة",
+    "questions": [
+      ["هل أحتاج إلى إشعار الناخب الذي وصل بالبريد؟", "لا. يساعد الإشعار على معرفة مركز الاقتراع، لكن لا يلزم إحضاره للتصويت. يلزم إحضار وثيقة هوية مقبولة."],
+      ["هل يجب إلصاق المظروف؟", "لا. توضح الأسئلة الرسمية أنه لا يوجد إلزام بإلصاقه. أبقوا اختياركم بعيدًا عن الأنظار."],
+      ["هل يمكنني التصوير؟", "لا تلتقطوا صورًا داخل مركز الاقتراع أو خلف ساتر التصويت."],
+      ["ماذا لو كانت ورقة ناقصة أو تالفة، أو كان شيء غير واضح؟", "تحدّثوا مع سكرتير لجنة الصندوق قبل وضع المظروف في الصندوق. اطلبوا شرحًا بدل التخمين."],
+      ["ماذا لو احتجت إلى ترتيبات إتاحة الوصول أو المساعدة؟", "راجعوا الأسئلة الرسمية قبل الخروج. توجد شروط استحقاق للتصويت في المراكز الخاصة الميسّرة وللمساعدة خلف الساتر؛ ويمكن لسكرتير لجنة الصندوق شرحها."],
+      ["هل يجب أن أخبر أحدًا كيف صوّتُّ؟", "تصويتكم سري. اختاروا الورقة خلف الساتر وأبقوها داخل المظروف. لستم ملزمين بإخبار الآخرين بالقائمة التي اخترتموها."]
     ],
-    "methodNote": "الإعلان ليس نتيجة. وغياب المصدر لا يثبت المعارضة. ينبغي أن تُظهر كل مقارنة مصدرها وتاريخها وحدودها. ما زال البحث في الإجراءات والنتائج غير مكتمل.",
-    "honest": "مشروع قيد التطوير، بشفافية",
-    "honestText": "دورك معلومات مدنية مستقلة، دون ترتيب تفضيلي للقوائم أو توصية بالتصويت. ساعد الذكاء الاصطناعي في البحث والكتابة والترجمة والتطوير، وقد يخطئ. تبقى الترجمات مسودات تحتاج إلى مراجعة بشرية متخصصة. النسخة التجريبية مفيدة للاستكشاف، لكنها ليست تدقيقًا مكتملًا لكل القوائم أو بديلًا عن تعليمات الانتخابات الرسمية.",
-    "next": "الخطوات التالية: توثيق أعمق، ومراجعة الإجراءات والنتائج، ودليل التصويت الأول، وشروحات تاريخية. قد تأتي مساحات النقاش المجتمعي لاحقًا؛ وهي غير مفتوحة بعد.",
-    "sources": "المصادر وإشعارات المشروع",
-    "sourceLink": "اقرؤوا مصادر الدليل وإشعاراته",
-    "github": "المشروع مفتوح المصدر / اقترحوا تصحيحًا",
-    "footer": "الكود: MIT · النص الأصلي: CC BY 4.0 · تبقى مواد الجهات الأخرى خاضعة لحقوق أصحابها."
+    "sourcesTitle": "المعلومات الرسمية",
+    "sourcesNote": "لترتيبات التصويت الخاصة وأحدث التعليمات، استخدموا الروابط الرسمية أدناه.",
+    "checked": "رُوجع الدليل مقابل الأسئلة الرسمية للجنة الانتخابات المركزية لانتخابات الكنيست الـ26 في 23 أكتوبر 2026."
   },
   "he": {
-    "title": "מה מחכה כאן?",
-    "strap": "תורך · دورك",
-    "intro": "מתחילים בקלפים. מבינים את התמונה הרחבה.",
-    "lead": "מדריך אזרחי חזותי, בשפה פשוטה ושיחתית, שנועד להקל על הבנת בחירות מורכבות. הוא מתחיל בזיהוי הרשימות שבקלפי, ומתרחב לשאלות שמאחוריהן בחיי היום־יום.",
-    "now": "זמין עכשיו · גרסת בטא ציבורית",
-    "nowTitle": "מכירים את הרשימות",
-    "nowText": "37 כרטיסי רשימות עם השמות הרשמיים בעברית, אותיות ההצבעה, רשימות המועמדים וקישורים למקורות. שמות עזר בערבית ובאנגלית מופיעים לצד המזהים הרשמיים. סיכומי המצע, הערות הזהות והצהרות השותפות חלקיים; אנחנו מסמנים פערים במקום למלא אותם בהנחות.",
-    "guide": "לכרטיסי הרשימות ↗",
-    "pillars": "שלוש שאלות בלב הפרויקט",
-    "pillarIntro": "אלה נושאים משותפים, ולא הנחה שיש דעות משותפות. לנשים יש חיים, סדרי עדיפויות ועמדות פוליטיות שונים. אותן שאלות ואותם כללי ראיות צריכים להיות זמינים לכולם.",
-    "planned": "בתכנון · המחקר טרם הושלם",
-    "items": [
-      [
-        "ביטחון ומוגנות",
-        "איך נראה ביטחון בחיי היום־יום? נבחן ביטחון לאומי וקהילתי, אלימות במשפחה, מוכנות לחירום והשפעות השירות הצבאי על משפחות."
-      ],
-      [
-        "עבודה והזדמנויות כלכליות",
-        "מה מאפשר למצוא עבודה, להתקדם, להקים עסק או לשמור על עצמאות כלכלית? התכנון כולל שכר, מסגרות לילדים, חופשות הורות, הכשרה וחסמים לקידום."
-      ],
-      [
-        "תכנון משפחה ובריאות נשים",
-        "אילו שירותים זמינים, נגישים ואפשריים מבחינה כלכלית? התכנון כולל בריאות הפריון, היריון ולידה, טיפולי פוריות, אמצעי מניעה, גיל המעבר ובריאות הנפש, תוך התייחסות למקום מגורים, להכנסה ולבחירה אישית."
-      ]
+    "title": "למה לצפות במקום הקלפי?",
+    "heading": "מצביעים בפעם הראשונה?",
+    "intro": "זה מה שקורה, צעד אחר צעד. זהו הליך ההצבעה הרגיל בקלפי שאליה אתם משויכים.",
+    "navigation": "ניווט במדריך ההצבעה",
+    "back": "אותיות ההצבעה ושמות הרשימות ↗",
+    "beforeTitle": "לפני שיוצאים",
+    "before": [
+      "בדקו במידע הרשמי את הכתובת ומספר הקלפי שאליה אתם משויכים. להסדרי הצבעה מיוחדים יש כללים נפרדים.",
+      "הביאו תעודת זהות ישראלית, דרכון ישראלי בתוקף או רישיון נהיגה ישראלי בתוקף. מתקבלות גם תעודות שירות רשמיות מסוימות; ראו בשאלות הרשמיות.",
+      "רוב הקלפיות פתוחות בין 07:00 ל־22:00. יש קלפיות שפועלות בשעות קצרות יותר, לכן בדקו את שעות הקלפי שלכם.",
+      "בדקו מראש את אותיות ההצבעה הרשמיות של הרשימה שבחרתם."
     ],
-    "beyond": "מעבר לכרטיסי הרשימות",
-    "more": [
-      [
-        "ההצבעה הראשונה",
-        "מדריך מאויר למקום הקלפי: איתור המקום הנכון, הזדהות, זיהוי פתקי ההצבעה, פרטיות, נגישות ושאלות כשמשהו משתבש. ההנחיות הרשמיות לבחירות הנוכחיות ייבדקו לפני פרסום הוראות מעשיות."
-      ],
-      [
-        "לאן מגיע פתק אחד?",
-        "הסבר חזותי על הדרך מקולות למושבים בכנסת ולהרכבת ממשלה. במדריך כבר יש מפת הצהרות שותפות חלקית ותרגיל ספירת מושבים לפי סקר אחד מתוארך; אלה אינם תחזית או ממוצע סקרים עדכני."
-      ],
-      [
-        "נשים וזכות הבחירה",
-        "מבט מבוסס מקורות על תולדות זכות ההצבעה והייצוג של נשים, ועל החוויות השונות שמאחורי ההיסטוריה הזאת. הפרק בתכנון; המחקר ההיסטורי טרם פורסם."
-      ]
+    "findStation": "איתור הקלפי — מידע רשמי ↗",
+    "officialFaq": "ועדת הבחירות המרכזית: שאלות ותשובות ↗",
+    "steps": [
+      ["מזדהים", "מציגים את התעודה המזהה לוועדת הקלפי. הוועדה בודקת את הפרטים ונותנת לכם מעטפת הצבעה רשמית.", ""],
+      ["נכנסים מאחורי הפרגוד", "לוקחים את המעטפה לתא ההצבעה הפרטי שמאחורי הפרגוד. שם נמצאים פתקי ההצבעה. אם דרושה עזרה פיזית, דברו עם מזכיר ועדת הקלפי לפני הכניסה.", "איור בעיפרון של פרגוד סביב שולחן ועליו מגשים לפתקי הצבעה."],
+      ["בוחרים פתק אחד", "בוחרים פתק מודפס אחד של הרשימה שרוצים ומכניסים אותו למעטפה הרשמית. אין משבצת לסמן: בוחרים פתק. שומרים על חשאיות הבחירה.", "איור של שישה תאים ובהם פתקים עם האותיות אמת, ב, בד, בי, בקר וג. אלו דוגמאות ולא כל הרשימות."],
+      ["מכניסים את המעטפה לתיבה", "יוצאים מאחורי הפרגוד ומכניסים את המעטפה לתיבת הקלפי לעיני חברי הוועדה. בכך הושלם הליך ההצבעה.", "איור בעיפרון של יד המכניסה מעטפה סגורה לתיבת קלפי."]
     ],
-    "method": "הבטחות. פעולות. תוצאות. סוגים שונים של ראיות.",
-    "evidence": [
-      [
-        "הבטחות",
-        "מה שהרשימה אומרת שבכוונתה לעשות."
-      ],
-      [
-        "פעולות",
-        "מה שהרישומים מראים שנעשה: למשל הצבעה, החלטת תקציב או מדיניות שיושמה."
-      ],
-      [
-        "תוצאות",
-        "מה השתנה בחיי אנשים, ומה הראיות מאפשרות או לא מאפשרות לקבוע לגבי הסיבות."
-      ]
+    "illustrationNote": "איורים להמחשה בלבד. שש דוגמאות האותיות הן מבחר, ולא פתקי הצבעה רשמיים או כל הרשימות. הציוד והסידור עשויים להשתנות.",
+    "questionsTitle": "כמה שאלות נפוצות",
+    "questions": [
+      ["צריך להביא את ההודעה לבוחר שהגיעה בדואר?", "לא. ההודעה עוזרת למצוא את הקלפי, אבל אין חובה להביא אותה כדי להצביע. כן צריך להביא מסמך זיהוי שמתקבל בקלפי."],
+      ["חייבים להדביק את המעטפה?", "לא. לפי השאלות והתשובות הרשמיות, אין חובה להדביק אותה. שמרו על הבחירה מוסתרת."],
+      ["אפשר לצלם?", "אין לצלם במקום הקלפי או מאחורי הפרגוד."],
+      ["מה אם חסר פתק, הפתק פגום או שמשהו לא ברור?", "דברו עם מזכיר ועדת הקלפי לפני שמכניסים את המעטפה לתיבה. בקשו הסבר במקום לנחש."],
+      ["מה אם דרושים הסדרי נגישות או עזרה?", "בדקו בשאלות הרשמיות לפני היציאה. להצבעה בקלפי נגישה מיוחדת ולסיוע מאחורי הפרגוד יש תנאי זכאות; מזכיר ועדת הקלפי יכול להסביר אותם."],
+      ["חייבים לספר למישהו איך הצבעתי?", "ההצבעה חשאית. בוחרים פתק מאחורי הפרגוד ושומרים אותו בתוך המעטפה. אין חובה לספר לאחרים באיזו רשימה בחרתם."]
     ],
-    "methodNote": "הכרזה אינה תוצאה. היעדר מקור אינו הוכחה להתנגדות. כל השוואה צריכה להציג מקור, תאריך ומגבלות. המחקר על פעולות ותוצאות טרם הושלם.",
-    "honest": "פרויקט בתהליך, בשקיפות",
-    "honestText": "תורך מציג מידע אזרחי עצמאי, ללא דירוג רשימות או המלצת הצבעה. בינה מלאכותית סייעה במחקר, בכתיבה, בתרגום ובפיתוח, והיא עלולה לטעות. התרגומים הם טיוטות הממתינות לבדיקת אדם השולט בשפה. גרסת הבטא שימושית לעיון, אך אינה בדיקה מלאה של כל רשימה או תחליף להנחיות הבחירות הרשמיות.",
-    "next": "בהמשך: העמקת המקורות, בדיקת פעולות ותוצאות, מדריך להצבעה ראשונה והסברים היסטוריים. מרחבי שיחה קהילתיים עשויים להתווסף בהמשך; הם עדיין אינם פתוחים.",
-    "sources": "מקורות והודעות הפרויקט",
-    "sourceLink": "למקורות ולהודעות שבמדריך",
-    "github": "הפרויקט בקוד פתוח / הצעת תיקון",
-    "footer": "קוד: MIT · טקסט מקורי: CC BY 4.0 · חומרים של צד שלישי כפופים לזכויות בעליהם."
+    "sourcesTitle": "מידע רשמי",
+    "sourcesNote": "להסדרי הצבעה מיוחדים ולהנחיות העדכניות, השתמשו בקישורים הרשמיים למטה.",
+    "checked": "נבדק מול השאלות והתשובות של ועדת הבחירות המרכזית לבחירות לכנסת ה־26 ב־23 באוקטובר 2026."
   }
 }
