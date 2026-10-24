@@ -9,9 +9,12 @@ vm.createContext(ctx);vm.runInContext(code,ctx);
 for(const lang of ['ar','en']){
  vm.runInContext(`lang='${lang}';render()`,ctx);
  assert.equal(doc.documentElement.dir,lang==='ar'?'rtl':'ltr');
- assert.equal((nodes['#cards'].innerHTML.match(/<article class="card"/g)||[]).length,37);
+ assert.equal((nodes['#cards'].innerHTML.match(/<article class="card"/g)||[]).length,36);
+ assert(nodes['#lead'].textContent.includes('36'));
+ assert(nodes['#withdrawal-update'].innerHTML.includes('https://www.inn.co.il/news/709199'));
+ assert(!nodes['#cards'].innerHTML.includes('id="chozrim-leshorashim_list32"'),'Withdrawn Ahi must not be active');
  assert(!nodes['#cards'].innerHTML.includes('role="tab"'),'Incomplete categories must not appear on cards');
- assert.equal((nodes['#cards'].innerHTML.match(/role="region"/g)||[]).length,37);
+ assert.equal((nodes['#cards'].innerHTML.match(/role="region"/g)||[]).length,36);
  const checks=vm.runInContext(`active.map(p=>({id:p.id,letters:p.letters,description:PARTY_TRANSLATIONS.descriptions[p.letters][lang],name:aliases[p.letters][lang==='ar'?1:0]}))`,ctx);
  for(const p of checks){
   assert(p.description&&p.name,'Missing list translation: '+p.letters);
@@ -38,6 +41,8 @@ for(const language of ['he','ar','en','ru','am']){
 assert.equal(Object.keys(translations.descriptions).length,37);
 assert.equal(Object.keys(translations.policySources).length,9);
 const data=JSON.parse(fs.readFileSync('outputs/party-card-data.json','utf8'));
+assert.deepEqual(data.profiles.filter(p=>!p.active).map(p=>p.letters).sort(),['כן','צבי'].sort(),'Only Blue and White and Ahi excluded');
+assert.equal(data.profiles.find(p=>p.letters==='צבי').withdrawal.officialBallotRemovalVerified,false);
 for(const p of Object.values(data.policies))for(const lang of ['ar','en'])assert.equal(p[lang].length,3);
 vm.runInContext("lang='ru';renderHero()",ctx);
 assert.equal(nodes['#hero-phrase'].textContent,'Твой ход.');
@@ -45,4 +50,4 @@ assert.equal(vm.runInContext('heroOrder.length',ctx),5);
 vm.runInContext('heroMotion.matches=true;renderHero()',ctx);
 assert.equal(vm.runInContext('heroInterval',ctx),null,'Reduced motion must stop rotation');
 assert.equal(nodes['#hero-pause'].hidden,true);
-console.log('Passed: 74 Arabic/English card backs with complete descriptions and no partial-category tabs; saved policy translations retained; hero and unpublished-article checks passed.');
+console.log('Passed: 72 Arabic/English card backs; only Blue and White and Ahi inactive; sourced withdrawal notice and count 36; coalition, hero and retained research checks passed.');

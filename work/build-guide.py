@@ -6,7 +6,7 @@ copy=old[old.index('const copy='):old.index("let lang='he'")]
 profiles=json.loads((base/'verified-party-profiles.json').read_text(encoding='utf-8'))['profiles']
 for i,p in enumerate(profiles):
     p['id']=p['source'].rsplit('/',1)[-1]
-    p['active']='אינה מתמודדת' not in p['note']
+    p['active']='אינה מתמודדת' not in p['note'] and not p.get('withdrawal')
     p['source']=p['source'].replace('http:','https:')
     p['candidates']=[re.split(r'\n',x)[0].strip() for x in p['candidates']]
     p.pop('update',None)

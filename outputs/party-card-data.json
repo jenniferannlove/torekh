@@ -711,8 +711,16 @@
       ],
       "description": "רשימת המועמדים הוגשה מטעם מפלגת חוזרים לשורשים",
       "title": "תנועת אחי תנועתו של הרב יורם אברג'ל זצ\"ל",
+      "withdrawal": {
+        "announced": "2026-10-23",
+        "checked": "2026-10-24",
+        "status": "announced-withdrawal",
+        "source": "https://www.inn.co.il/news/709199",
+        "corroboratingSource": "https://www.mako.co.il/news-politics/2026_q4/Article-88ced11931961a1027.htm",
+        "officialBallotRemovalVerified": false
+      },
       "id": "chozrim-leshorashim_list32",
-      "active": true
+      "active": false
     },
     {
       "letters": "צדק",
