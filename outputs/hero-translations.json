@@ -1,0 +1,7 @@
+{
+  "en": {"phrase":"Your turn.","language":"English","pause":"Pause languages","resume":"Resume languages"},
+  "he": {"phrase":"תורך.","language":"עברית","pause":"השהיית החלפת שפות","resume":"המשך החלפת שפות"},
+  "ar": {"phrase":"دورك.","language":"العربية","pause":"إيقاف تبديل اللغات مؤقتًا","resume":"استئناف تبديل اللغات"},
+  "ru": {"phrase":"Твой ход.","language":"Русский","pause":"Остановить смену языков","resume":"Продолжить смену языков"},
+  "am": {"phrase":"ተራሽ ነው።","language":"አማርኛ","pause":"የቋንቋ መቀያየሩን አቁሚ","resume":"የቋንቋ መቀያየሩን ቀጥዪ"}
+}

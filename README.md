@@ -51,3 +51,9 @@ Arabic was reviewed first, followed by English. The guide includes localized lis
 Run `node work/check-localization.cjs` to check the Arabic and English card panels and source notes. Translations remain AI-assisted editorial drafts pending fluent human review. Proper names may have multiple accepted transliterations; verify against original sources.
 
 The native Odoo source directory and language bridge are maintained on the live site; the repository's self-contained guide is independently rebuildable. Publication to Odoo is a separate, deliberate step and is not automated by this repository.
+
+## Your turn hero
+
+The heading reads “Your turn.” alongside the card illustration. It starts in the selected language, then gently fades through Hebrew, Arabic, English, Russian and Amharic every six seconds. A localized pause control and reduced-motion support keep the heading accessible; the screen-reader heading remains in the selected language. Copy is maintained in `outputs/hero-translations.json`.
+
+The Abu Ali article is unpublished on Odoo and no longer promoted on the homepage. Its source remains in this repository for reference.

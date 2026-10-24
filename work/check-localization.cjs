@@ -2,9 +2,9 @@ const fs=require('fs'),vm=require('vm'),assert=require('assert');
 const text=fs.readFileSync('outputs/torekh-guide.html','utf8');
 const code=text.split('<script>')[1].split('</script>')[0];
 const nodes={};
-const node=()=>({style:{},value:'',open:false,hidden:false,textContent:'',innerHTML:'',dataset:{},setAttribute(){},addEventListener(){},focus(){},scrollIntoView(){},querySelector(){return this.panel??=(node());},querySelectorAll(){return Array.from({length:4},node);}});
+const node=()=>({style:{},classList:{add(){},remove(){}},value:'',open:false,hidden:false,textContent:'',innerHTML:'',dataset:{},setAttribute(){},addEventListener(){},focus(){},scrollIntoView(){},querySelector(){return this.panel??=(node());},querySelectorAll(){return Array.from({length:4},node);}});
 const doc={documentElement:{},querySelector:s=>nodes[s]??=node(),getElementById:s=>nodes[s]??=node()};
-const win={addEventListener(){}};const ctx={document:doc,window:win,parent:win,URL,URLSearchParams,setTimeout(){},clearTimeout(){},console};
+const win={addEventListener(){}};const ctx={document:doc,window:win,parent:win,URL,URLSearchParams,setTimeout(){},clearTimeout(){},setInterval(){},clearInterval(){},console};
 vm.createContext(ctx);vm.runInContext(code,ctx);
 for(const lang of ['ar','en']){
  vm.runInContext(`lang='${lang}';render()`,ctx);
@@ -21,11 +21,18 @@ for(const lang of ['ar','en']){
    if(lang==='ar'&&n===1) assert(!html.includes('Read 23 Oct')&&!html.includes('publication date not'), 'English policy metadata leaked');
   }
  }
- assert(nodes['#blog-link'].href.includes('/'+lang+'/blog/'),'Blog language not retained');
+ assert(!nodes['#blog-link']?.href,'Unpublished article must not be promoted');
+ assert.equal(nodes['#hero-static'].textContent,lang==='ar'?'دورك.':'Your turn.');
 }
 const translations=JSON.parse(fs.readFileSync('outputs/party-translations.json','utf8'));
 assert.equal(Object.keys(translations.descriptions).length,37);
 assert.equal(Object.keys(translations.policySources).length,9);
 const data=JSON.parse(fs.readFileSync('outputs/party-card-data.json','utf8'));
 for(const p of Object.values(data.policies))for(const lang of ['ar','en'])assert.equal(p[lang].length,3);
-console.log('Passed: 37 translated list descriptions in Arabic and English; 296 card-panel checks; nine localized source notes; 27 policy summaries per language; native-language blog links and RTL direction.');
+vm.runInContext("lang='ru';renderHero()",ctx);
+assert.equal(nodes['#hero-phrase'].textContent,'Твой ход.');
+assert.equal(vm.runInContext('heroOrder.length',ctx),5);
+vm.runInContext('heroMotion.matches=true;renderHero()',ctx);
+assert.equal(vm.runInContext('heroInterval',ctx),null,'Reduced motion must stop rotation');
+assert.equal(nodes['#hero-pause'].hidden,true);
+console.log('Passed: 296 localized card panels, complete source notes, five-language hero, selected-language-first order, reduced-motion stop and no unpublished-article promotion.');
