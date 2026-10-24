@@ -1,0 +1,41 @@
+{
+  "en": {
+    "heading": "Your first vote: a visual preview",
+    "jump": "First time voting? See the illustrations ↓",
+    "status": "Illustrated preview · Full walkthrough planned",
+    "intro": "A first look at the objects you may encounter at a polling place. These are conceptual drawings; equipment and layouts can vary.",
+    "items": [
+      ["The private booth", "A folding privacy screen around a table, with an organizer for ballot slips.", "Pencil illustration of a three-panel privacy screen and table with trays of ballot slips."],
+      ["The ballot-slip trays", "Separate compartments hold stacks of slips. The six letter examples shown here are only a selection, not the full set of lists.", "Pencil illustration of six equal compartments containing slips marked אמת, ב, בד, בי, בקר and ג. No slip is selected."],
+      ["The ballot box", "An illustration of a closed envelope going into a ballot box, with its contents hidden.", "Pencil illustration of one hand lowering a closed envelope into the slot of a cardboard ballot box."]
+    ],
+    "note": "AI-generated illustrations, not official ballot papers, photographs or complete voting instructions. The current official rules will be checked before the full walkthrough is published.",
+    "letters": "Check the official list names and ballot letters ↗"
+  },
+  "ar": {
+    "heading": "التصويت للمرة الأولى: معاينة مصوّرة",
+    "jump": "تصوّتون للمرة الأولى؟ شاهدوا الرسوم ↓",
+    "status": "معاينة مصوّرة · الدليل الكامل قيد الإعداد",
+    "intro": "نظرة أولى على بعض ما قد تجدونه في مكان الاقتراع. هذه رسوم توضيحية؛ وقد تختلف التجهيزات وطريقة ترتيبها.",
+    "items": [
+      ["خلف ساتر الاقتراع", "ساتر قابل للطي حول طاولة، عليها حامل مقسّم لأوراق الاقتراع.", "رسم بالقلم لساتر خصوصية من ثلاثة ألواح وطاولة عليها صوانٍ لأوراق الاقتراع."],
+      ["صواني أوراق الاقتراع", "تحتوي الخانات المنفصلة على رزم من الأوراق. أمثلة الحروف الستة المعروضة هنا عيّنة فقط، وليست جميع القوائم.", "رسم بالقلم لست خانات متساوية، فيها أوراق تحمل אמת وב وבד وבי وבקר وג. لم تُختَر أي ورقة."],
+      ["صندوق الاقتراع", "رسم لمظروف مغلق يدخل صندوق الاقتراع، ومحتوياته غير ظاهرة.", "رسم بالقلم ليد تُدخل مظروفًا مغلقًا في فتحة صندوق اقتراع من الورق المقوّى."]
+    ],
+    "note": "رسوم مولّدة بمساعدة الذكاء الاصطناعي، وليست أوراق اقتراع رسمية أو صورًا فوتوغرافية أو تعليمات تصويت كاملة. سنراجع التعليمات الرسمية الحالية قبل نشر الدليل الكامل.",
+    "letters": "تحقّقوا من أسماء القوائم الرسمية وحروف الاقتراع ↗"
+  },
+  "he": {
+    "heading": "ההצבעה הראשונה: הצצה מאוירת",
+    "jump": "מצביעים בפעם הראשונה? לאיורים ↓",
+    "status": "הצצה מאוירת · המדריך המלא בתכנון",
+    "intro": "מבט ראשון על כמה מהפריטים שאפשר לפגוש במקום הקלפי. אלה איורים להמחשה; הציוד והסידור עשויים להשתנות.",
+    "items": [
+      ["מאחורי הפרגוד", "פרגוד מתקפל סביב שולחן, ועליו מתקן מחולק לפתקי הצבעה.", "איור בעיפרון של פרגוד בעל שלושה לוחות ושולחן עם מגשים לפתקי הצבעה."],
+      ["מגשי פתקי ההצבעה", "בתאים נפרדים מונחות ערימות פתקים. שש דוגמאות האותיות שמוצגות כאן הן מבחר בלבד, ולא כל הרשימות.", "איור בעיפרון של שישה תאים שווים ובהם פתקים עם האותיות אמת, ב, בד, בי, בקר וג. אף פתק אינו מסומן כנבחר."],
+      ["תיבת הקלפי", "איור של מעטפה סגורה המוכנסת לתיבת קלפי, כשהתוכן מוסתר.", "איור בעיפרון של יד המכניסה מעטפה סגורה לחריץ בתיבת קלפי מקרטון."]
+    ],
+    "note": "איורים שנוצרו בעזרת בינה מלאכותית; לא פתקי הצבעה רשמיים, לא תצלומים ולא הוראות הצבעה מלאות. ההנחיות הרשמיות העדכניות ייבדקו לפני פרסום המדריך המלא.",
+    "letters": "לבדיקת שמות הרשימות ואותיות ההצבעה הרשמיים ↗"
+  }
+}

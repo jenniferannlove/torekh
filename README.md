@@ -61,3 +61,7 @@ The Abu Ali article is unpublished on Odoo and no longer promoted on the homepag
 ## What to expect
 
 The [site introduction](https://www.torekh.org/en/what-to-expect) restores the original project outline: safety and security, economic opportunity, family planning and women’s health, a first-vote walkthrough, voting history, and the journey from ballot to government. Available features are separated from planned research. Arabic, Hebrew and English copy is included in `outputs/torekh-what-to-expect-copy.json`; `outputs/torekh-what-to-expect.html` is a standalone version. The homepage links to the introduction in the selected language, with English fallback for Russian and Amharic. The author’s separate, unpublished TOI draft is not part of this repository.
+
+## Voting illustrations
+
+The What to expect page includes a conceptual pencil-style preview of a privacy booth, ballot-slip organizer and ballot box. Built-in AI image generation produced the artwork; Odoo’s image editor prepared small transparent WebP versions. `outputs/torekh-voting-illustration-assets.json` embeds those mobile assets so the page can be rebuilt without fetching images. The adjacent copy and prompt JSON files preserve descriptions, accessible alternative text, provenance and generation prompts. The six letter examples are a selection, not a complete ballot display. No list is highlighted. The artwork is not an official ballot reproduction or complete voting instructions.
