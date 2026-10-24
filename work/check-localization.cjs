@@ -31,7 +31,13 @@ for(const lang of ['ar','en']){
  assert.equal(nodes['#hero-static'].textContent,lang==='ar'?'دوركِ. الأوراق على الطاولة.':'Your turn. Cards on the table.');
 }
 const translations=JSON.parse(fs.readFileSync('outputs/party-translations.json','utf8'));
-assert(!text.includes('<details class="coalition-tools" open>'),'Coalition controls should start collapsed');
+assert(!text.includes('<select id="coalition-context"'),'Reference picker must use buttons');
+assert(!text.includes('<select id="coalition-preset"'),'Scenario examples must use buttons');
+assert.equal((nodes['#scenario-tiles'].innerHTML.match(/class="scenario-tile"/g)||[]).length,35);
+assert(!nodes['#scenario-tiles'].innerHTML.includes('data-pick="רץ"'));
+vm.runInContext("coalitionSelected=new Set(['דרך','רק','אמת','ל']);renderScenario()",ctx);
+assert.equal((nodes['#scenario-tiles'].innerHTML.match(/aria-pressed="true"/g)||[]).length,4);
+assert(nodes['#coalition-total'].innerHTML.includes('56 / 120'),'Four-list example totals the dated poll correctly');
 for(const language of ['he','ar','en','ru','am']){
  vm.runInContext(`lang='${language}';coalitionFocus='leader:netanyahu'`,ctx);
  const badges=vm.runInContext('active.map(p=>({status:relation(p).status,html:coalitionBadge(p)}))',ctx);
