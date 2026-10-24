@@ -57,3 +57,7 @@ The native Odoo source directory and language bridge are maintained on the live 
 The heading reads “Your turn.” alongside the card illustration. It starts in the selected language, then gently fades through Hebrew, Arabic, English, Russian and Amharic every six seconds. A localized pause control and reduced-motion support keep the heading accessible; the screen-reader heading remains in the selected language. Copy is maintained in `outputs/hero-translations.json`.
 
 The Abu Ali article is unpublished on Odoo and no longer promoted on the homepage. Its source remains in this repository for reference.
+
+## What to expect
+
+The [site introduction](https://www.torekh.org/en/what-to-expect) restores the original project outline: safety and security, economic opportunity, family planning and women’s health, a first-vote walkthrough, voting history, and the journey from ballot to government. Available features are separated from planned research. Arabic, Hebrew and English copy is included in `outputs/torekh-what-to-expect-copy.json`; `outputs/torekh-what-to-expect.html` is a standalone version. The homepage links to the introduction in the selected language, with English fallback for Russian and Amharic. The author’s separate, unpublished TOI draft is not part of this repository.
