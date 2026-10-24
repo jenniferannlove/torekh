@@ -1,0 +1,266 @@
+{
+  "checked": "2026-10-23",
+  "coverage": "Partial collection of dated/reported public statements. Unknown means unverified, not willing. Relations are directed. Group-level interpretations are marked.",
+  "records": [
+    {
+      "actor": "דרך",
+      "target": "leader:netanyahu",
+      "status": "refuse",
+      "summary": {
+        "en": "Eisenkot said he would not serve under Netanyahu, including a rotation. This does not establish a refusal of Likud under another leader.",
+        "he": "איזנקוט אמר שלא יכהן תחת נתניהו, גם לא ברוטציה. אין להסיק מכך פסילה של הליכוד בהנהגה אחרת.",
+        "ar": "قال آيزنكوت إنه لن يخدم تحت رئاسة نتنياهو، بما في ذلك التناوب. لا يثبت ذلك رفض الليكود بقيادة أخرى."
+      },
+      "source": "https://www.mako.co.il/news-israel-elections/2026/liveblog-e3b02bf251d51a1027.htm",
+      "statementDate": "2026-10-21",
+      "checked": "2026-10-23",
+      "scope": "prime-minister"
+    },
+    {
+      "actor": "רק",
+      "target": "leader:netanyahu",
+      "status": "refuse",
+      "summary": {
+        "en": "After an earlier remark about Netanyahu as a minister, Bennett clarified that he would not sit with him in any government configuration.",
+        "he": "לאחר אמירה קודמת על נתניהו כשר, בנט הבהיר שלא יישב איתו בשום הרכב ממשלתי.",
+        "ar": "بعد تصريح سابق حول نتنياهو كوزير، أوضح بينيت أنه لن يجلس معه في أي تركيبة حكومية."
+      },
+      "source": "https://www.ynet.co.il/news/elections2026/article/sy6ekitsfx",
+      "statementDate": "2026-10-11",
+      "checked": "2026-10-23",
+      "scope": "government-membership"
+    },
+    {
+      "actor": "אמת",
+      "target": "leader:netanyahu",
+      "status": "refuse",
+      "summary": {
+        "en": "Golan rejected Netanyahu’s participation in a government supported by the Democrats, including as a minister.",
+        "he": "גולן פסל השתתפות של נתניהו בממשלה שתלויה בדמוקרטים, גם בתפקיד שר.",
+        "ar": "رفض غولان مشاركة نتنياهو في حكومة تعتمد على الديمقراطيين، بما في ذلك كوزير."
+      },
+      "source": "https://www.ynet.co.il/news/elections2026/article/sy6ekitsfx",
+      "statementDate": "2026-10-11",
+      "checked": "2026-10-23",
+      "scope": "government-membership"
+    },
+    {
+      "actor": "ל",
+      "target": "leader:netanyahu",
+      "status": "refuse",
+      "summary": {
+        "en": "Lieberman said he would not join any government with Netanyahu. The interview also states refusals of Haredi and Arab parties.",
+        "he": "ליברמן אמר שלא יישב בשום ממשלה עם נתניהו. בריאיון ציין גם פסילה של מפלגות חרדיות וערביות.",
+        "ar": "قال ليبرمان إنه لن ينضم إلى أي حكومة مع نتنياهو، وذكر أيضًا رفض الأحزاب الحريدية والعربية."
+      },
+      "source": "https://www.ynet.co.il/news/120andone/article/hjiqofm2fl",
+      "statementDate": null,
+      "checked": "2026-10-23",
+      "scope": "government-membership"
+    },
+    {
+      "actor": "ך",
+      "target": "leader:netanyahu",
+      "status": "support",
+      "summary": {
+        "en": "After Winter questioned whether his early pledge was wise, Yoseph Haddad reaffirmed that Amcha Israel would recommend Netanyahu. Nomination support does not guarantee coalition membership.",
+        "he": "לאחר שווינטר תהה אם ההצהרה המוקדמת הייתה נכונה, יוסף חדאד חזר והצהיר שעמך ישראל תמליץ על נתניהו. המלצה אינה הבטחת חברות בקואליציה.",
+        "ar": "بعد أن تساءل فينتر عن صواب التعهد المبكر، أكد يوسف حداد مجددًا أن عمخا يسرائيل ستوصي بنتنياهو. التوصية لا تضمن العضوية في الائتلاف."
+      },
+      "source": "https://www.ynet.co.il/news/elections2026/article/b1gmivl2ml",
+      "statementDate": null,
+      "checked": "2026-10-23",
+      "scope": "nomination-only"
+    },
+    {
+      "actor": "דרך",
+      "target": "שס",
+      "status": "conditional",
+      "summary": {
+        "en": "Eisenkot described Shas as a possible partner if it accepts his three stated principles. Acceptance of those conditions has not been established here.",
+        "he": "איזנקוט תיאר את ש״ס כשותפה אפשרית אם תקבל את שלושת עקרונותיו. לא אומת כאן שש״ס קיבלה אותם.",
+        "ar": "وصف آيزنكوت شاس كشريك محتمل إذا قبلت مبادئه الثلاثة. لم يُتحقق هنا من قبول شاس لهذه الشروط."
+      },
+      "source": "https://www.ynet.co.il/news/article/h1dbrnzvmg",
+      "statementDate": "2026-07-13",
+      "checked": "2026-10-23",
+      "scope": "government-membership"
+    },
+    {
+      "actor": "אמת",
+      "target": "שס",
+      "status": "refuse",
+      "summary": {
+        "en": "The party leader explicitly ruled out governing with Shas in the reported statement.",
+        "he": "ראש המפלגה פסל במפורש ישיבה בממשלה עם ש״ס בהצהרה שדווחה.",
+        "ar": "استبعد زعيم القائمة صراحة الجلوس في حكومة مع شاس في التصريح المنشور."
+      },
+      "source": "https://www.ynet.co.il/news/article/h1dbrnzvmg",
+      "statementDate": "2026-07-13",
+      "checked": "2026-10-23",
+      "scope": "government-membership"
+    },
+    {
+      "actor": "ל",
+      "target": "שס",
+      "status": "refuse",
+      "summary": {
+        "en": "The party leader explicitly ruled out governing with Shas in the reported statement.",
+        "he": "ראש המפלגה פסל במפורש ישיבה בממשלה עם ש״ס בהצהרה שדווחה.",
+        "ar": "استبعد زعيم القائمة صراحة الجلوس في حكومة مع شاس في التصريح المنشور."
+      },
+      "source": "https://www.ynet.co.il/news/article/h1dbrnzvmg",
+      "statementDate": "2026-07-13",
+      "checked": "2026-10-23",
+      "scope": "government-membership"
+    },
+    {
+      "actor": "אמת",
+      "target": "ב",
+      "status": "refuse",
+      "summary": {
+        "en": "Golan explicitly ruled out governing with Ben-Gvir and Smotrich. The Religious Zionism–Zehut entry is flagged because Smotrich heads that joint list; this is not a separate statement about each component.",
+        "he": "גולן פסל במפורש ישיבה עם בן גביר וסמוטריץ׳. התגית לרשימת הציונות הדתית–זהות מתייחסת לראשה סמוטריץ׳, ולא להצהרה נפרדת על כל מרכיב.",
+        "ar": "استبعد غولان صراحة الجلوس مع بن غفير وسموتريتش. الإشارة إلى قائمة الصهيونية الدينية–زيهوت تتعلق برئيسها سموتريتش، وليست تصريحًا منفصلًا حول كل مكوّن."
+      },
+      "source": "https://www.ynet.co.il/news/elections2026/article/ryzldycszl",
+      "statementDate": null,
+      "checked": "2026-10-23",
+      "scope": "government-membership"
+    },
+    {
+      "actor": "אמת",
+      "target": "ט",
+      "status": "refuse",
+      "summary": {
+        "en": "Golan explicitly ruled out governing with Ben-Gvir and Smotrich. The Religious Zionism–Zehut entry is flagged because Smotrich heads that joint list; this is not a separate statement about each component.",
+        "he": "גולן פסל במפורש ישיבה עם בן גביר וסמוטריץ׳. התגית לרשימת הציונות הדתית–זהות מתייחסת לראשה סמוטריץ׳, ולא להצהרה נפרדת על כל מרכיב.",
+        "ar": "استبعد غولان صراحة الجلوس مع بن غفير وسموتريتش. الإشارة إلى قائمة الصهيونية الدينية–زيهوت تتعلق برئيسها سموتريتش، وليست تصريحًا منفصلًا حول كل مكوّن."
+      },
+      "source": "https://www.ynet.co.il/news/elections2026/article/ryzldycszl",
+      "statementDate": null,
+      "checked": "2026-10-23",
+      "scope": "government-membership"
+    },
+    {
+      "actor": "ל",
+      "target": "עם",
+      "status": "refuse",
+      "summary": {
+        "en": "Lieberman rejected governing with Arab parties as a group. Torekh applies that group-level statement to Raam and the Joint List; it is not a separate named-party quotation.",
+        "he": "ליברמן פסל מפלגות ערביות כקבוצה. תורך מחילה את ההצהרה הקבוצתית על רע״ם והמשותפת; זה אינו ציטוט נפרד הנוקב בכל רשימה.",
+        "ar": "رفض ليبرمان الأحزاب العربية كمجموعة. يطبق دورك هذا التصريح الجماعي على راعم والمشتركة؛ وليس اقتباسًا منفصلًا يسمي كل قائمة."
+      },
+      "source": "https://www.ynet.co.il/news/120andone/article/hjiqofm2fl",
+      "statementDate": null,
+      "checked": "2026-10-23",
+      "scope": "group-level-interpretation"
+    },
+    {
+      "actor": "ל",
+      "target": "ודם",
+      "status": "refuse",
+      "summary": {
+        "en": "Lieberman rejected governing with Arab parties as a group. Torekh applies that group-level statement to Raam and the Joint List; it is not a separate named-party quotation.",
+        "he": "ליברמן פסל מפלגות ערביות כקבוצה. תורך מחילה את ההצהרה הקבוצתית על רע״ם והמשותפת; זה אינו ציטוט נפרד הנוקב בכל רשימה.",
+        "ar": "رفض ليبرمان الأحزاب العربية كمجموعة. يطبق دورك هذا التصريح الجماعي على راعم والمشتركة؛ وليس اقتباسًا منفصلًا يسمي كل قائمة."
+      },
+      "source": "https://www.ynet.co.il/news/120andone/article/hjiqofm2fl",
+      "statementDate": null,
+      "checked": "2026-10-23",
+      "scope": "group-level-interpretation"
+    },
+    {
+      "actor": "ל",
+      "target": "ג",
+      "status": "refuse",
+      "summary": {
+        "en": "Lieberman rejected Haredi parties as a group. Torekh applies that wording to this explicitly Haredi list; no separate named-party statement has been checked.",
+        "he": "ליברמן פסל מפלגות חרדיות כקבוצה. תורך מחילה את הנוסח על רשימה זו המזוהה במפורש כחרדית; לא נבדקה הצהרה נפרדת הנוקבת בשמה.",
+        "ar": "رفض ليبرمان الأحزاب الحريدية كمجموعة. يطبق دورك الصياغة على هذه القائمة الحريدية الصريحة؛ ولم يُتحقق من تصريح منفصل يسميها."
+      },
+      "source": "https://www.ynet.co.il/news/120andone/article/hjiqofm2fl",
+      "statementDate": null,
+      "checked": "2026-10-23",
+      "scope": "group-level-interpretation"
+    },
+    {
+      "actor": "ל",
+      "target": "זך",
+      "status": "refuse",
+      "summary": {
+        "en": "Lieberman rejected Haredi parties as a group. Torekh applies that wording to this explicitly Haredi list; no separate named-party statement has been checked.",
+        "he": "ליברמן פסל מפלגות חרדיות כקבוצה. תורך מחילה את הנוסח על רשימה זו המזוהה במפורש כחרדית; לא נבדקה הצהרה נפרדת הנוקבת בשמה.",
+        "ar": "رفض ليبرمان الأحزاب الحريدية كمجموعة. يطبق دورك الصياغة على هذه القائمة الحريدية الصريحة؛ ولم يُتحقق من تصريح منفصل يسميها."
+      },
+      "source": "https://www.ynet.co.il/news/120andone/article/hjiqofm2fl",
+      "statementDate": null,
+      "checked": "2026-10-23",
+      "scope": "group-level-interpretation"
+    },
+    {
+      "actor": "ל",
+      "target": "רץ",
+      "status": "refuse",
+      "summary": {
+        "en": "Lieberman rejected Haredi parties as a group. Torekh applies that wording to this explicitly Haredi list; no separate named-party statement has been checked.",
+        "he": "ליברמן פסל מפלגות חרדיות כקבוצה. תורך מחילה את הנוסח על רשימה זו המזוהה במפורש כחרדית; לא נבדקה הצהרה נפרדת הנוקבת בשמה.",
+        "ar": "رفض ليبرمان الأحزاب الحريدية كمجموعة. يطبق دورك الصياغة على هذه القائمة الحريدية الصريحة؛ ولم يُتحقق من تصريح منفصل يسميها."
+      },
+      "source": "https://www.ynet.co.il/news/120andone/article/hjiqofm2fl",
+      "statementDate": null,
+      "checked": "2026-10-23",
+      "scope": "group-level-interpretation"
+    }
+  ],
+  "presets": [
+    {
+      "id": "likud-five",
+      "members": [
+        "מחל",
+        "ב",
+        "שס",
+        "ג",
+        "ט"
+      ],
+      "context": "leader:netanyahu",
+      "label": {
+        "en": "Example: Likud, Otzma, Shas, UTJ, RZ–Zehut",
+        "he": "דוגמה: הליכוד, עוצמה, ש״ס, יהדות התורה, ציונות דתית–זהות",
+        "ar": "مثال: الليكود وعوتسما وشاس ويهدوت هتوراه والصهيونية الدينية–زيهوت"
+      }
+    },
+    {
+      "id": "four",
+      "members": [
+        "דרך",
+        "רק",
+        "אמת",
+        "ל"
+      ],
+      "context": "off",
+      "label": {
+        "en": "Example: Yashar, Beyahad, Democrats, Beiteinu",
+        "he": "דוגמה: ישר, ביחד, הדמוקרטים וישראל ביתנו",
+        "ar": "مثال: ياشار ومعًا والديمقراطيون ويسرائيل بيتينو"
+      }
+    },
+    {
+      "id": "four-arab",
+      "members": [
+        "דרך",
+        "רק",
+        "אמת",
+        "ל",
+        "עם",
+        "ודם"
+      ],
+      "context": "off",
+      "label": {
+        "en": "Example: those four + Raam and Joint List",
+        "he": "דוגמה: ארבע אלה עם רע״ם והמשותפת",
+        "ar": "مثال: القوائم الأربع مع راعم والمشتركة"
+      }
+    }
+  ]
+}

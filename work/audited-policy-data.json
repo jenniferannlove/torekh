@@ -1,0 +1,344 @@
+{
+  "רק": {
+    "source": "https://be-yahad.org.il/plans/",
+    "type": "Party plans; publication date not stated on overview",
+    "he": [
+      "מציעה להוריד את מחירי המזון ב־30% בתוך שלוש שנים באמצעות הגברת התחרות.",
+      "מציעה מסגרות מפוקחות ומסובסדות מגיל לידה. הזכאות והקדימות תלויות במיצוי כושר ההשתכרות של ההורים, לצד הטבות נוספות למשפחות משרתים.",
+      "מציעה יעד של 50% נשים בסגל הבכיר בשירות המדינה ובדירקטוריונים של חברות ממשלתיות, לצד צמצום פערי שכר ומאבק באלימות נגד נשים."
+    ],
+    "en": [
+      "Proposes cutting food prices by 30% within three years through increased competition.",
+      "Proposes supervised, subsidized childcare from birth. Eligibility and priority depend on parents’ earning capacity being used, with additional benefits for service families.",
+      "Proposes a 50% women’s-representation target in senior civil-service posts and government-company boards, alongside reducing pay gaps and tackling violence against women."
+    ],
+    "ar": [
+      "تقترح خفض أسعار الغذاء بنسبة 30% خلال ثلاث سنوات عبر زيادة المنافسة.",
+      "تقترح رعاية خاضعة للرقابة ومدعومة منذ الولادة. تعتمد الأهلية والأولوية على استنفاد قدرة الوالدين على الكسب، مع مزايا إضافية لأسر من يؤدون الخدمة.",
+      "تقترح هدفًا لتمثيل النساء بنسبة 50% في المناصب العليا بالخدمة المدنية ومجالس إدارة الشركات الحكومية، مع تقليص فجوات الأجور ومكافحة العنف ضد النساء."
+    ],
+    "references": [
+      {
+        "url": "https://be-yahad.org.il/plans/yokermichya/",
+        "section": "Food-price target / goal: 30% within three years"
+      },
+      {
+        "url": "https://be-yahad.org.il/plans/גיל-רך/",
+        "section": "Childcare plan, points 2–4: eligibility, earning capacity and service-family benefits"
+      },
+      {
+        "url": "https://be-yahad.org.il/plans/women/",
+        "section": "Women’s plan, point 1 and success measures: civil service and government-company boards"
+      }
+    ],
+    "audit": {
+      "checked": "2026-10-23",
+      "status": "matched-party-source",
+      "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+    }
+  },
+  "דרך": {
+    "source": "https://yasharwitheisenkot.com/agenda_point/",
+    "type": "Ten-point party plan; publication date not stated",
+    "he": [
+      "מציעה חוק שירות ממלכתי לכל, עם שילוב חרדים וערבים במסגרות מתאימות, בראש ובראשונה בצה״ל.",
+      "מציעה חיזוק התחרות והעדפה בהטבות דיור ומס למי שנושא בנטל הביטחוני והכלכלי.",
+      "מתחייבת למערכת משפט עצמאית, זכויות מיעוט והגבלת כהונת ראש הממשלה לשתי קדנציות."
+    ],
+    "en": [
+      "Proposes a service law for all, integrating Haredi and Arab citizens into suitable frameworks, primarily the IDF.",
+      "Proposes stronger competition and priority housing and tax benefits for those carrying security and economic responsibilities.",
+      "Commits to judicial independence, minority rights and a two-term limit for the prime minister."
+    ],
+    "ar": [
+      "تقترح قانون خدمة للجميع ودمج المواطنين الحريديم والعرب في أطر ملائمة، وفي مقدمتها الجيش الإسرائيلي.",
+      "تقترح تعزيز المنافسة وأولوية في مزايا السكن والضرائب لمن يتحملون الأعباء الأمنية والاقتصادية.",
+      "تلتزم باستقلال القضاء وحقوق الأقليات وتحديد ولاية رئيس الحكومة بفترتين."
+    ],
+    "references": [
+      {
+        "url": "https://yasharwitheisenkot.com/agenda_point/",
+        "section": "Service for all: suitable frameworks, primarily the IDF"
+      },
+      {
+        "url": "https://yasharwitheisenkot.com/agenda_point/",
+        "section": "Economy and cost of living"
+      },
+      {
+        "url": "https://yasharwitheisenkot.com/agenda_point/",
+        "section": "Democracy and public service"
+      }
+    ],
+    "audit": {
+      "checked": "2026-10-23",
+      "status": "matched-party-source",
+      "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+    }
+  },
+  "אמת": {
+    "source": "https://democrats.org.il/wp-content/uploads/2026/04/vision0426.pdf",
+    "type": "Party principles, April 2026",
+    "he": [
+      "מציעה חינוך ממלכתי עם ליבה משותפת ושוויון הזדמנויות, תוך אפשרות לתכנים תרבותיים ודתיים ייחודיים.",
+      "מציעה שוויון זכויות מגדרי, דתי ולאומי ושילוב נשים ומיעוטים בשירות הציבורי ובהנהגה.",
+      "מציעה לבטל פטורים משירות צבאי לפי החוק הקיים ולפתח גם מסלולי שירות לאומי־אזרחי."
+    ],
+    "en": [
+      "Proposes public education with a shared core and equal opportunities, allowing distinct cultural and religious content.",
+      "Proposes gender, religious and national equality and wider participation of women and minorities in public service and leadership.",
+      "Proposes ending exemptions under existing military-service law and developing national-civilian service pathways."
+    ],
+    "ar": [
+      "تقترح تعليمًا رسميًا بمنهاج أساسي مشترك وتكافؤ الفرص مع إتاحة مضامين ثقافية ودينية خاصة.",
+      "تقترح مساواة جندرية ودينية وقومية وتوسيع مشاركة النساء والأقليات في الخدمة العامة والقيادة.",
+      "تقترح إلغاء الإعفاءات بموجب قانون الخدمة العسكرية القائم وتطوير مسارات خدمة وطنية مدنية أيضًا."
+    ],
+    "references": [
+      {
+        "url": "https://democrats.org.il/wp-content/uploads/2026/04/vision0426.pdf#page=3",
+        "section": "PDF page 3: solidarity and shared education"
+      },
+      {
+        "url": "https://democrats.org.il/wp-content/uploads/2026/04/vision0426.pdf#page=3",
+        "section": "PDF page 3: equality, public service and leadership"
+      },
+      {
+        "url": "https://democrats.org.il/wp-content/uploads/2026/04/vision0426.pdf#page=4",
+        "section": "PDF page 4: military service and national-civilian pathways"
+      }
+    ],
+    "audit": {
+      "checked": "2026-10-23",
+      "status": "matched-party-source",
+      "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+    }
+  },
+  "ל": {
+    "source": "https://beytenu.org.il/party-platform/",
+    "type": "Party platform; page publication date not stated",
+    "he": [
+      "מציעה חוקה, הפרדת דת ומדינה ונישואים וגירושים אזרחיים.",
+      "מציעה שירות צבאי או אזרחי לכל בני ובנות 18, שלילת הטבות למשתמטים ושלילת זכות ההצבעה לעריקים. אלה צעדים שהמפלגה מציעה.",
+      "מציעה תקצוב רב־שנתי למניעת אלימות במשפחה והרחבת טיפול בנפגעות ובנפגעי תקיפה מינית."
+    ],
+    "en": [
+      "Proposes a constitution, separation of religion and state, and civil marriage and divorce.",
+      "Proposes military or civilian service for all 18-year-olds, loss of benefits for service evasion, and loss of voting rights for deserters. These are party proposals.",
+      "Proposes multiyear funding against domestic violence and expanded care for survivors of sexual assault."
+    ],
+    "ar": [
+      "تقترح دستورًا وفصل الدين عن الدولة والزواج والطلاق المدنيين.",
+      "تقترح خدمة عسكرية أو مدنية لجميع من يبلغون 18 عامًا، وحرمان المتهربين من المزايا، وسلب حق التصويت من الفارين من الخدمة. هذه مقترحات القائمة.",
+      "تقترح تمويلًا متعدد السنوات لمكافحة العنف الأسري وتوسيع علاج الناجيات والناجين من الاعتداء الجنسي."
+    ],
+    "references": [
+      {
+        "url": "https://beytenu.org.il/party-platform/",
+        "section": "Founding principles: constitution; separation of religion and state"
+      },
+      {
+        "url": "https://beytenu.org.il/party-platform/",
+        "section": "Founding principles: service for all; distinct sanctions for evasion and desertion"
+      },
+      {
+        "url": "https://beytenu.org.il/party-platform/",
+        "section": "Advancing women’s status: domestic violence and sexual-assault services"
+      }
+    ],
+    "audit": {
+      "checked": "2026-10-23",
+      "status": "matched-party-source",
+      "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+    }
+  },
+  "ודם": {
+    "source": "https://jointlist.org.il/he/platform/",
+    "type": "Party platform explicitly identifies the 26th Knesset election",
+    "he": [
+      "מציעה סיום הכיבוש והקמת מדינה פלסטינית, לצד זכויות לאומיות ואזרחיות לציבור הערבי.",
+      "מציגה מאבק בפשיעה ובאלימות, שוויון מגדרי וחיזוק שירותי בריאות וחינוך כנושאי עדיפות.",
+      "מציעה מיסוי פרוגרסיבי והרחבת השירותים הציבוריים; אלה הצעות המפלגה, לא תוצאות שהוכחו."
+    ],
+    "en": [
+      "Proposes ending the occupation and establishing a Palestinian state, alongside national and civil rights for Arab citizens.",
+      "Prioritizes combating crime and violence, gender equality, and stronger health and education services.",
+      "Proposes progressive taxation and expanded public services. These are party proposals, not demonstrated outcomes."
+    ],
+    "ar": [
+      "تقترح إنهاء الاحتلال وإقامة دولة فلسطينية إلى جانب الحقوق القومية والمدنية للجمهور العربي.",
+      "تعطي أولوية لمكافحة الجريمة والعنف والمساواة الجندرية وتعزيز خدمات الصحة والتعليم.",
+      "تقترح ضرائب تصاعدية وتوسيع الخدمات العامة. هذه مقترحات القائمة وليست نتائج مثبتة."
+    ],
+    "references": [
+      {
+        "url": "https://jointlist.org.il/he/platform/",
+        "section": "Section 01 and foundational principles"
+      },
+      {
+        "url": "https://jointlist.org.il/he/platform/",
+        "section": "Sections 02, 06, 14 and 17: crime, education, gender and health"
+      },
+      {
+        "url": "https://jointlist.org.il/he/platform/",
+        "section": "Sections 10 and 12: taxation and public services"
+      }
+    ],
+    "audit": {
+      "checked": "2026-10-23",
+      "status": "matched-party-source",
+      "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+    }
+  },
+  "ני": {
+    "source": "https://www.noamlisrael.org.il/",
+    "type": "Party website principles; publication date not stated",
+    "he": [
+      "מציעה חיזוק הצביון היהודי במערכות המדינה, שמירת שבת ציבורית וחיזוק הרבנות הראשית.",
+      "מציעה פסקת התגברות, פיצול תפקיד היועץ המשפטי לממשלה והרחבת מינויי האמון.",
+      "מציעה חינוך יהודי וציוני, זכות וטו להורים על תכנים ושכר של לפחות 12,000 ש״ח למורה מתחיל."
+    ],
+    "en": [
+      "Proposes strengthening Jewish identity in state institutions, public Sabbath observance and the Chief Rabbinate.",
+      "Proposes an override clause, splitting the attorney-general role and expanding political appointments.",
+      "Proposes Jewish and Zionist education, a parental veto on content and a minimum starting teacher salary of NIS 12,000."
+    ],
+    "ar": [
+      "تقترح تعزيز الهوية اليهودية في مؤسسات الدولة والحفاظ على السبت في المجال العام وتعزيز الحاخامية الرئيسية.",
+      "تقترح بند تجاوز قضائي وتقسيم منصب المستشار القانوني للحكومة وتوسيع التعيينات السياسية.",
+      "تقترح تعليمًا يهوديًا وصهيونيًا وحق اعتراض للأهل على المضامين وراتبًا ابتدائيًا للمعلمين لا يقل عن 12,000 شيكل."
+    ],
+    "references": [
+      {
+        "url": "https://www.noamlisrael.org.il/",
+        "section": "Strengthening Jewish identity"
+      },
+      {
+        "url": "https://www.noamlisrael.org.il/",
+        "section": "Judicial-system proposals"
+      },
+      {
+        "url": "https://www.noamlisrael.org.il/",
+        "section": "Education proposals"
+      }
+    ],
+    "audit": {
+      "checked": "2026-10-23",
+      "status": "matched-party-source",
+      "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+    }
+  },
+  "ך": {
+    "source": "https://amchaisrael.co.il/foundations",
+    "type": "Party founding principles; publication date not stated",
+    "he": [
+      "מציעה הכרעה צבאית מהירה וגביית מחיר טריטוריאלי מהאויב, וכן תוכנית עזיבה של עזה שהיא מכנה הגירה מרצון ושמבקשת לקדם במסגרת הסכמות בין־לאומיות.",
+      "מציעה שירות צבאי או לאומי משמעותי, עם תגמול לפי סוג השירות, משכו ורמת הסיכון.",
+      "מציעה חיזוק אזורי גבול, ביזור סמכויות לרשויות המקומיות וגוף לאומי לתיאום המאבק בפשיעה."
+    ],
+    "en": [
+      "Proposes rapid military victory and territorial penalties against enemies, plus a Gaza emigration program it calls voluntary and seeks to pursue through international agreements.",
+      "Proposes military or meaningful national service, with rewards based on service type, duration and risk.",
+      "Proposes strengthening border regions, decentralizing powers to local authorities and a national body coordinating action against crime."
+    ],
+    "ar": [
+      "تقترح حسمًا عسكريًا سريعًا وأثمانًا إقليمية تُفرض على العدو، وبرنامج هجرة من غزة تصفه بالطوعي وتسعى إلى تنفيذه عبر اتفاقات دولية.",
+      "تقترح خدمة عسكرية أو وطنية فعلية مع مكافآت بحسب نوع الخدمة ومدتها ومخاطرها.",
+      "تقترح تعزيز مناطق الحدود ونقل صلاحيات للسلطات المحلية وهيئة وطنية لتنسيق مكافحة الجريمة."
+    ],
+    "references": [
+      {
+        "url": "https://amchaisrael.co.il/foundations",
+        "section": "Security doctrine: rapid victory, territorial cost and proposed emigration agreements"
+      },
+      {
+        "url": "https://amchaisrael.co.il/foundations",
+        "section": "Shared responsibility: service and differential rewards"
+      },
+      {
+        "url": "https://amchaisrael.co.il/foundations",
+        "section": "Priority regions; local government; national crime-coordination body"
+      }
+    ],
+    "audit": {
+      "checked": "2026-10-23",
+      "status": "matched-party-source",
+      "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+    }
+  },
+  "צף": {
+    "source": "https://piratim.org/wiki/matza/",
+    "type": "Party wiki platform; publication date not stated",
+    "he": [
+      "מציעה דמוקרטיה השתתפותית, שקיפות בקבלת החלטות והגנה על פרטיות וחופש הביטוי.",
+      "מציעה ביטול אחוז החסימה ואינטרנט חינם לכל.",
+      "מציעה לגליזציה של קנאביס ושירותי חינוך, בריאות ורווחה לאורך החיים."
+    ],
+    "en": [
+      "Proposes participatory democracy, transparent decision-making, privacy protection and freedom of expression.",
+      "Proposes abolishing the electoral threshold and free internet access for all.",
+      "Proposes cannabis legalization and lifelong education, health and welfare services."
+    ],
+    "ar": [
+      "تقترح ديمقراطية تشاركية وشفافية اتخاذ القرار وحماية الخصوصية وحرية التعبير.",
+      "تقترح إلغاء نسبة الحسم وإتاحة الإنترنت مجانًا للجميع.",
+      "تقترح تقنين القنب وخدمات التعليم والصحة والرفاه طوال الحياة."
+    ],
+    "references": [
+      {
+        "url": "https://piratim.org/wiki/matza/",
+        "section": "Founding principles and goals 3, 4 and 6"
+      },
+      {
+        "url": "https://piratim.org/wiki/matza/",
+        "section": "Goals 1 and 2"
+      },
+      {
+        "url": "https://piratim.org/wiki/matza/",
+        "section": "Goals 8 and 9"
+      }
+    ],
+    "audit": {
+      "checked": "2026-10-23",
+      "status": "matched-party-source",
+      "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+    }
+  },
+  "נקי": {
+    "source": "https://hatikun.org.il/מטרות-התיקון/",
+    "type": "Party objectives; publication date not stated",
+    "he": [
+      "מציעה בחירה אישית ואזורית לנציגי הכנסת במקום רשימות מפלגתיות סגורות.",
+      "מציעה מינוי ראש ממשלה ושרים לפי התאמה מקצועית ויעדי ביצוע.",
+      "מציעה חוקה המבוססת על שוויון וחירות, וכן התניית זכות הבחירה בעמידה בחובת תרומה למדינה."
+    ],
+    "en": [
+      "Proposes individual, regional election of Knesset representatives instead of closed party lists.",
+      "Proposes choosing the prime minister and ministers by professional suitability and performance targets.",
+      "Proposes a constitution based on equality and liberty, and making voting rights conditional on fulfilling a duty to contribute to the state."
+    ],
+    "ar": [
+      "تقترح انتخابًا فرديًا ومناطقيًا لممثلي الكنيست بدل القوائم الحزبية المغلقة.",
+      "تقترح اختيار رئيس الحكومة والوزراء بحسب الملاءمة المهنية وأهداف الأداء.",
+      "تقترح دستورًا قائمًا على المساواة والحرية واشتراط حق التصويت بأداء واجب المساهمة في الدولة."
+    ],
+    "references": [
+      {
+        "url": "https://hatikun.org.il/מטרות-התיקון/",
+        "section": "Objective 2: individual and regional elections"
+      },
+      {
+        "url": "https://hatikun.org.il/מטרות-התיקון/",
+        "section": "Objective 1: professional government and measurable targets"
+      },
+      {
+        "url": "https://hatikun.org.il/מטרות-התיקון/",
+        "section": "Objectives 4 and 5: civic duties, voting eligibility and constitution"
+      }
+    ],
+    "audit": {
+      "checked": "2026-10-23",
+      "status": "matched-party-source",
+      "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+    }
+  }
+}

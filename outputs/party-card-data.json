@@ -1,0 +1,1287 @@
+{
+  "checked": "2026-10-23",
+  "sourceUpdated": "2026-10-22",
+  "source": "https://www.gov.il/he/pages/candidates-lists-26",
+  "ballots": "https://www.gov.il/he/pages/candidates-lists-26?chapterIndex=2",
+  "profiles": [
+    {
+      "letters": "אמת",
+      "name": "הדמוקרטים בראשות יאיר גולן",
+      "note": "הדמוקרטים בראשות יאיר גולן",
+      "source": "https://www.gov.il/he/pages/hademokratim_list17",
+      "ballotLinks": [
+        {
+          "label": "פתק אמת הדמוקרטים בראשות יאיר גולן",
+          "url": "https://www.gov.il/BlobFolder/generalpage/hademokratim_list17/he/hademokratim_list17.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק אמת הדמוקרטים בראשות יאיר גולן",
+          "url": "https://www.gov.il/BlobFolder/generalpage/hademokratim_list17/he/hademokratim_list17.png"
+        }
+      ],
+      "candidates": [
+        "1. גולן יאיר",
+        "2. לזימי נעמה",
+        "3. קריב גלעד"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת הדמוקרטים מיסודה של תנועת העבודה ומטעם מפלגת מרצ",
+      "title": "הדמוקרטים בראשות יאיר גולן",
+      "id": "hademokratim_list17",
+      "active": true
+    },
+    {
+      "letters": "ב",
+      "name": "עוצמה יהודית בראשות איתמר בן גביר",
+      "note": "עוצמה יהודית בראשות איתמר בן גביר",
+      "source": "https://www.gov.il/he/pages/yehudit-meuhedet_list14",
+      "ballotLinks": [
+        {
+          "label": "פתק ב עוצמה יהודית בראשות איתמר בן גביר",
+          "url": "https://www.gov.il/BlobFolder/generalpage/yehudit-meuhedet_list14/he/yehudit-meuhedet_list14.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק ב עוצמה יהודית בראשות איתמר בן גביר",
+          "url": "https://www.gov.il/BlobFolder/generalpage/yehudit-meuhedet_list14/he/yehudit-meuhedet_list14.png"
+        }
+      ],
+      "candidates": [
+        "1. בן גביר איתמר",
+        "2. גוטליב רויטל טלי",
+        "3. וסרלאוף יצחק שמעון"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת חזית יהודית לאומית ומטעם מפלגת ארץ ישראל שלנו - מפלגה יהודית מאוחדת לשלמות התורה העם והארץ",
+      "title": "עוצמה יהודית בראשות איתמר בן גביר",
+      "id": "yehudit-meuhedet_list14",
+      "active": true
+    },
+    {
+      "letters": "בד",
+      "name": "מפלגת ביחד נצליח – רשימה משותפת ערבית יהודית בראשות אבי שקד",
+      "note": "מפלגת ביחד נצליח – רשימה משותפת ערבית יהודית בראשות אבי שקד",
+      "source": "https://www.gov.il/he/pages/beyachad-natzliah_list10",
+      "ballotLinks": [
+        {
+          "label": "פתק בד מפלגת ביחד נצליח – רשימה משותפת ערבית יהודית בראשות אבי שקד",
+          "url": "https://www.gov.il/BlobFolder/generalpage/beyachad-natzliah_list10/he/list10.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק בד מפלגת ביחד נצליח – רשימה משותפת ערבית יהודית בראשות אבי שקד",
+          "url": "https://www.gov.il/BlobFolder/generalpage/beyachad-natzliah_list10/he/list10pic.png"
+        }
+      ],
+      "candidates": [
+        "1. שקד אבי",
+        "2. עטאונה נעים",
+        "3. עאטללה חאתם"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת ביחד נצליח",
+      "title": "מפלגת ביחד נצליח – רשימה משותפת ערבית יהודית בראשות אבי שקד",
+      "id": "beyachad-natzliah_list10",
+      "active": true
+    },
+    {
+      "letters": "בי",
+      "name": "צומת בית ישראל",
+      "note": "צומת בית ישראל",
+      "source": "https://www.gov.il/he/pages/tzomet-beit-israel_list33",
+      "ballotLinks": [
+        {
+          "label": "פתק בי צומת בית ישראל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/tzomet-beit-israel_list33/he/list33.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק בי צומת בית ישראל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/tzomet-beit-israel_list33/he/list33.png"
+        }
+      ],
+      "candidates": [
+        "1. יברקן דסטה",
+        "2. גרין משה",
+        "3. אשטמקר יניב"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת צומת - התנועה לציונות מתחדשת ומטעם מפלגת בית ימני חברתי ציוני לכלל עם ישראל",
+      "title": "צומת בית ישראל",
+      "id": "tzomet-beit-israel_list33",
+      "active": true
+    },
+    {
+      "letters": "בקר",
+      "name": "אורות השחר בראשות ניסים לוק",
+      "note": "אורות השחר בראשות ניסים לוק",
+      "source": "https://www.gov.il/he/pages/orot_list26",
+      "ballotLinks": [
+        {
+          "label": "פתק בקר אורות השחר בראשות ניסים לוק",
+          "url": "https://www.gov.il/BlobFolder/generalpage/orot_list26/he/orot_list26.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק בקר אורות השחר בראשות ניסים לוק",
+          "url": "https://www.gov.il/BlobFolder/generalpage/orot_list26/he/orot_list26pic.png"
+        }
+      ],
+      "candidates": [
+        "1. לוק נסים",
+        "2. הר שמש בניהו",
+        "3. אנסבכר יאיר שלמה"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת אורות השחר מפלגה של כולם",
+      "title": "אורות השחר בראשות ניסים לוק",
+      "id": "orot_list26",
+      "active": true
+    },
+    {
+      "letters": "ג",
+      "name": "יהדות התורה והשבת אגודת ישראל – דגל התורה",
+      "note": "יהדות התורה והשבת אגודת ישראל – דגל התורה",
+      "source": "https://www.gov.il/he/pages/yahadut-degel_list37",
+      "ballotLinks": [
+        {
+          "label": "פתק ג יהדות התורה והשבת אגודת ישראל – דגל התורה",
+          "url": "https://www.gov.il/BlobFolder/generalpage/yahadut-degel_list37/he/list37.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק ג יהדות התורה והשבת אגודת ישראל – דגל התורה",
+          "url": "https://www.gov.il/BlobFolder/generalpage/yahadut-degel_list37/he/list37.png"
+        }
+      ],
+      "candidates": [
+        "1. אשר יעקב",
+        "2. גולדקנופ יצחק יששכר",
+        "3. פינדרוס יצחק זאב"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת אגודת החרדים - דגל התורה ומטעם מפלגת הסתדרות אגודת ישראל בארץ ישראל ומטעם מפלגת חומת תורת ישראל",
+      "title": "יהדות התורה והשבת אגודת ישראל – דגל התורה",
+      "id": "yahadut-degel_list37",
+      "active": true
+    },
+    {
+      "letters": "ד",
+      "name": "השותפות לכולם",
+      "note": "השותפות לכולם",
+      "source": "https://www.gov.il/he/pages/hashutafut-lekulam_iist",
+      "ballotLinks": [
+        {
+          "label": "פתק ד השותפות לכולם",
+          "url": "https://www.gov.il/BlobFolder/generalpage/hashutafut-lekulam_iist/he/hashutafut-lekulam_iist.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק ד השותפות לכולם",
+          "url": "https://www.gov.il/BlobFolder/generalpage/hashutafut-lekulam_iist/he/hashutafut-lekulam_listpic.png"
+        }
+      ],
+      "candidates": [
+        "1. אלקרינאוי, טלאל",
+        "2. אבו עאנם עבדאללה",
+        "3. שליאן בשארה"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת איחוד בני הברית - איתחאד אבנאא אלעהד- בראשות רב חובל בשארה שליאן",
+      "title": "השותפות לכולם",
+      "id": "hashutafut-lekulam_iist",
+      "active": true
+    },
+    {
+      "letters": "די",
+      "name": "המילואימניקים והכלכלית בראשות יועז הנדל וירון זליכה",
+      "note": "המילואימניקים והכלכלית בראשות יועז הנדל וירון זליכה",
+      "source": "https://www.gov.il/he/pages/hamiluimnikim-vehakalkalit_list16",
+      "ballotLinks": [
+        {
+          "label": "פתק די המילואימניקים והכלכלית בראשות יועז הנדל וירון זליכה",
+          "url": "https://www.gov.il/BlobFolder/generalpage/hamiluimnikim-vehakalkalit_list16/he/list16.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק די המילואימניקים והכלכלית בראשות יועז הנדל וירון זליכה",
+          "url": "https://www.gov.il/BlobFolder/generalpage/hamiluimnikim-vehakalkalit_list16/he/hamiluimnikim-vehakalkalit_list16pic.png"
+        }
+      ],
+      "candidates": [
+        "1. הנדל יועז",
+        "2. זליכה ירון",
+        "3. וילף עינת"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת המילואימניקים ומטעם מפלגת הכלכלית החדשה",
+      "title": "המילואימניקים והכלכלית בראשות יועז הנדל וירון זליכה",
+      "id": "hamiluimnikim-vehakalkalit_list16",
+      "active": true
+    },
+    {
+      "letters": "דרך",
+      "name": "ישר! עם איזנקוט לראשות הממשלה מאחדים את ישראל",
+      "note": "ישר! עם איזנקוט לראשות הממשלה מאחדים את ישראל",
+      "source": "https://www.gov.il/he/pages/yashar_list_2",
+      "ballotLinks": [
+        {
+          "label": "פתק דרך ישר! עם איזנקוט לראשות הממשלה מאחדים את ישראל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/yashar_list_2/he/yashar_list_2.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק דרך ישר! עם איזנקוט לראשות הממשלה מאחדים את ישראל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/yashar_list_2/he/yashar_list_2pic.png"
+        }
+      ],
+      "candidates": [
+        "1. איזנקוט גד",
+        "2. כהן יורם",
+        "3. פרקש הכהן אורית"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת ישר לישראל עם איזנקוט ומטעם מפלגת יסודות ישראל",
+      "title": "ישר! עם איזנקוט לראשות הממשלה מאחדים את ישראל",
+      "id": "yashar_list_2",
+      "active": true
+    },
+    {
+      "letters": "ה",
+      "name": "גן עדן בראשות ישוע ישראל בן דוד",
+      "note": "גן עדן בראשות ישוע ישראל בן דוד",
+      "source": "https://www.gov.il/he/pages/gan-eden_list_8",
+      "ballotLinks": [
+        {
+          "label": "פתק ה גן עדן בראשות ישוע ישראל בן דוד",
+          "url": "https://www.gov.il/BlobFolder/generalpage/gan-eden_list_8/he/list_8.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק ה גן עדן בראשות ישוע ישראל בן דוד",
+          "url": "https://www.gov.il/BlobFolder/generalpage/gan-eden_list_8/he/list_8pic.png"
+        }
+      ],
+      "candidates": [
+        "1. בן דוד ישוע ישראל",
+        "2. בן יששכר יעקב",
+        "3. כהן יעקב ליאור"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת גן עדן",
+      "title": "גן עדן בראשות ישוע ישראל בן דוד",
+      "id": "gan-eden_list_8",
+      "active": true
+    },
+    {
+      "letters": "ודם",
+      "name": "הרשימה המשותפת",
+      "note": "הרשימה המשותפת",
+      "source": "https://www.gov.il/he/pages/hareshima-hameshutefet_list35",
+      "ballotLinks": [
+        {
+          "label": "פתק ודם הרשימה המשותפת",
+          "url": "https://www.gov.il/BlobFolder/generalpage/hareshima-hameshutefet_list35/he/list35.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק ודם הרשימה המשותפת",
+          "url": "https://www.gov.il/BlobFolder/generalpage/hareshima-hameshutefet_list35/he/list35Pic.png"
+        }
+      ],
+      "candidates": [
+        "1. ג'בארין יוסף",
+        "2. טיבי אחמד",
+        "3. גטאס פאתן"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם המפלגה הקומוניסטית הישראלית ומטעם מפלגת אלתג'מוע אלווטני אלדמוקרטי ומטעם מפלגת התנועה הערבית להתחדשות",
+      "title": "הרשימה המשותפת",
+      "id": "hareshima-hameshutefet_list35",
+      "active": true
+    },
+    {
+      "letters": "ז",
+      "name": "בטח – בטחון חברתי בראשות סמיון גרפמן",
+      "note": "בטח – בטחון חברתי בראשות סמיון גרפמן",
+      "source": "https://www.gov.il/he/pages/betach_list25",
+      "ballotLinks": [
+        {
+          "label": "פתק ז בטח – בטחון חברתי בראשות סמיון גרפמן",
+          "url": "https://www.gov.il/BlobFolder/generalpage/betach_list25/he/betach_list25.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק ז בטח – בטחון חברתי בראשות סמיון גרפמן",
+          "url": "https://www.gov.il/BlobFolder/generalpage/betach_list25/he/betach_list25pic.png"
+        }
+      ],
+      "candidates": [
+        "1. גרפמן סמיון",
+        "2. חניס לובוב",
+        "3. זלטקין דמיטרי"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת בט\"ח – בטחון חברתי",
+      "title": "בטח – בטחון חברתי בראשות סמיון גרפמן",
+      "id": "betach_list25",
+      "active": true
+    },
+    {
+      "letters": "זך",
+      "name": "הציבור החרדי בראשות מוטי ליטנר",
+      "note": "הציבור החרדי בראשות מוטי ליטנר",
+      "source": "https://www.gov.il/he/pages/tzibur-charedi_list20",
+      "ballotLinks": [
+        {
+          "label": "פתק זך הציבור החרדי בראשות מוטי ליטנר",
+          "url": "https://www.gov.il/BlobFolder/generalpage/tzibur-charedi_list20/he/list20.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק זך הציבור החרדי בראשות מוטי ליטנר",
+          "url": "https://www.gov.il/BlobFolder/generalpage/tzibur-charedi_list20/he/list20pic.png"
+        }
+      ],
+      "candidates": [
+        "1. ליטנר פנחס מרדכי",
+        "2. פרדי אשר",
+        "3. יפה מרים נחמה"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת למען אחיי מפלגת כלל ישראל",
+      "title": "הציבור החרדי בראשות מוטי ליטנר",
+      "id": "tzibur-charedi_list20",
+      "active": true
+    },
+    {
+      "letters": "זץ",
+      "name": "ברית עולם לגאולת ישראל",
+      "note": "ברית עולם לגאולת ישראל",
+      "source": "https://www.gov.il/he/pages/brit-olam_list22",
+      "ballotLinks": [
+        {
+          "label": "פתק זץ ברית עולם לגאולת ישראל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/brit-olam_list22/he/brit-olam_list22.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק זץ ברית עולם לגאולת ישראל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/brit-olam_list22/he/brit-olam_list22.png"
+        }
+      ],
+      "candidates": [
+        "1. ליפשיץ עופר פינחס",
+        "2. סבו לב",
+        "3. עכאשה היאם"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת ברית עולם",
+      "title": "ברית עולם לגאולת ישראל",
+      "id": "brit-olam_list22",
+      "active": true
+    },
+    {
+      "letters": "ט",
+      "name": "הציונות הדתית בראשות בצלאל סמוטריץ' וזהות בראשות משה פייגלין",
+      "note": "הציונות הדתית בראשות בצלאל סמוטריץ' וזהות בראשות משה פייגלין",
+      "source": "https://www.gov.il/he/pages/tzionutdatit-zehut_list31",
+      "ballotLinks": [
+        {
+          "label": "פתק ט הציונות הדתית בראשות בצלאל סמוטריץ' וזהות בראשות משה פייגלין",
+          "url": "https://www.gov.il/BlobFolder/generalpage/tzionutdatit-zehut_list31/he/list31.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק ט הציונות הדתית בראשות בצלאל סמוטריץ' וזהות בראשות משה פייגלין",
+          "url": "https://www.gov.il/BlobFolder/generalpage/tzionutdatit-zehut_list31/he/list31.png"
+        }
+      ],
+      "candidates": [
+        "1. סמוטריץ בצלאל יואל",
+        "2. פייגלין משה זלמן",
+        "3. סטרוק אורית מלכה"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת האיחוד הלאומי - תקומה ומטעם מפלגת זהות - תנועה ישראלית יהודית ומטעם מפלגת עתיד אחד - עתיד טוב לישראל",
+      "title": "הציונות הדתית בראשות בצלאל סמוטריץ' וזהות בראשות משה פייגלין",
+      "id": "tzionutdatit-zehut_list31",
+      "active": true
+    },
+    {
+      "letters": "י",
+      "name": "ישראל תחילה בראשות שרן השכל",
+      "note": "ישראל תחילה בראשות שרן השכל",
+      "source": "https://www.gov.il/he/pages/israel-tchila_list7",
+      "ballotLinks": [
+        {
+          "label": "פתק ישראל תחילה בראשות שרן השכל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/israel-tchila_list7/he/israel-tchila_list7.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק ישראל תחילה בראשות שרן השכל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/israel-tchila_list7/he/israel-tchila_list7pic.png"
+        }
+      ],
+      "candidates": [
+        "1. השכל שרן מרים",
+        "2. דנינו רועי חיים",
+        "3. יופטרו ניר"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת ישראל תחילה - ביטחון, כלכלה, אחדות בעם ישראל",
+      "title": "ישראל תחילה בראשות שרן השכל",
+      "id": "israel-tchila_list7",
+      "active": true
+    },
+    {
+      "letters": "יק",
+      "name": "גה\"ת – גוש התנ\"כי",
+      "note": "גה\"ת – גוש התנ\"כי",
+      "source": "https://www.gov.il/he/pages/gush-tanachi_list24",
+      "ballotLinks": [
+        {
+          "label": "פתק יק גה\"ת – גוש התנ\"כי",
+          "url": "https://www.gov.il/BlobFolder/generalpage/gush-tanachi_list24/he/gush-tanachi_list24.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק יק גה\"ת – גוש התנ\"כי",
+          "url": "https://www.gov.il/BlobFolder/generalpage/gush-tanachi_list24/he/gush-tanachi_list24pic.png"
+        }
+      ],
+      "candidates": [
+        "1. ליפקין דניס",
+        "2. קל ברכה",
+        "3. חווא חנא"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת מפלגת  גה\"ת - גוש התנ\"כי",
+      "title": "גה\"ת – גוש התנ\"כי",
+      "id": "gush-tanachi_list24",
+      "active": true
+    },
+    {
+      "letters": "ך",
+      "name": "עמך ישראל בראשות עופר וינטר",
+      "note": "עמך ישראל בראשות עופר וינטר",
+      "source": "https://www.gov.il/he/pages/amcha-israel_list6",
+      "ballotLinks": [
+        {
+          "label": "פתק ך עמך ישראל בראשות עופר וינטר",
+          "url": "https://www.gov.il/BlobFolder/generalpage/amcha-israel_list6/he/amcha-israel_list6.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק ך עמך ישראל בראשות עופר וינטר",
+          "url": "https://www.gov.il/BlobFolder/generalpage/amcha-israel_list6/he/amcha-israel_list6pic.png"
+        }
+      ],
+      "candidates": [
+        "1. ווינטר עופר",
+        "2. חדאד יוסף",
+        "3. שם טוב נטעלי"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת עמי חי לעד",
+      "title": "עמך ישראל בראשות עופר וינטר",
+      "id": "amcha-israel_list6",
+      "active": true
+    },
+    {
+      "letters": "כן",
+      "name": "כחול לבן בראשות בני גנץ",
+      "note": "כחול לבן בראשות בני גנץ – הרשימה אינה מתמודדת בבחירות לכנסת ה-26",
+      "source": "https://www.gov.il/he/pages/kachol-lavan_list30",
+      "ballotLinks": [],
+      "candidates": [],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת כחול לבן חוסן לישראל",
+      "title": "כחול לבן בראשות בני גנץ",
+      "id": "kachol-lavan_list30",
+      "active": false
+    },
+    {
+      "letters": "ל",
+      "name": "ישראל ביתנו בראשות אביגדור ליברמן",
+      "note": "ישראל ביתנו בראשות אביגדור ליברמן",
+      "source": "https://www.gov.il/he/pages/israel-beitenu_list11",
+      "ballotLinks": [
+        {
+          "label": "פתק ל ישראל ביתנו בראשות אביגדור ליברמן",
+          "url": "https://www.gov.il/BlobFolder/generalpage/israel-beitenu_list11/he/israel-beitenu_list11.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק ל ישראל ביתנו בראשות אביגדור ליברמן",
+          "url": "https://www.gov.il/BlobFolder/generalpage/israel-beitenu_list11/he/israel-beitenu_list11pic.png"
+        }
+      ],
+      "candidates": [
+        "1. ליברמן אביגדור",
+        "2. בן שטרית רפאל",
+        "3. לנקרי טליה"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת ישראל ביתנו",
+      "title": "ישראל ביתנו בראשות אביגדור ליברמן",
+      "id": "israel-beitenu_list11",
+      "active": true
+    },
+    {
+      "letters": "מחל",
+      "name": "הליכוד בהנהגת בנימין נתניהו לראשות הממשלה",
+      "note": "הליכוד בהנהגת בנימין נתניהו לראשות הממשלה",
+      "source": "https://www.gov.il/he/pages/halikud-tikvahadasha_iist29",
+      "ballotLinks": [
+        {
+          "label": "פתק מחל הליכוד בהנהגת בנימין נתניהו לראשות הממשלה",
+          "url": "https://www.gov.il/BlobFolder/generalpage/halikud-tikvahadasha_iist29/he/list29.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק מחל הליכוד בהנהגת בנימין נתניהו לראשות הממשלה",
+          "url": "https://www.gov.il/BlobFolder/generalpage/halikud-tikvahadasha_iist29/he/list29.png"
+        }
+      ],
+      "candidates": [
+        "1. נתניהו בנימין",
+        "2. כהן אליהו",
+        "3. אוחנה אמיר"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת הליכוד, תנועה לאומית ליברלית ומטעם מפלגת תקווה חדשה הימין הממלכתי",
+      "title": "הליכוד בהנהגת בנימין נתניהו לראשות הממשלה",
+      "id": "halikud-tikvahadasha_iist29",
+      "active": true
+    },
+    {
+      "letters": "ני",
+      "name": "נעם לישראל למען עתיד הילדים בראשות אבי מעוז",
+      "note": "נעם לישראל למען עתיד הילדים בראשות אבי מעוז",
+      "source": "https://www.gov.il/he/pages/noam_list38",
+      "ballotLinks": [
+        {
+          "label": "פתק ני נעם לישראל למען עתיד הילדים בראשות אבי מעוז",
+          "url": "https://www.gov.il/BlobFolder/generalpage/noam_list38/he/list38.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק ני נעם לישראל למען עתיד הילדים בראשות אבי מעוז",
+          "url": "https://www.gov.il/BlobFolder/generalpage/noam_list38/he/list38pic.png"
+        }
+      ],
+      "candidates": [
+        "1. מעוז אביגדור",
+        "2. טבול שמעון",
+        "3. ליבמן אליהו שלום"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת לזוז ומטעם מפלגת אחריות לאומית - למען עתיד ילדינו",
+      "title": "נעם לישראל למען עתיד הילדים בראשות אבי מעוז",
+      "id": "noam_list38",
+      "active": true
+    },
+    {
+      "letters": "נף",
+      "name": "שמע בראשות נפתלי גולדמן",
+      "note": "שמע בראשות נפתלי גולדמן",
+      "source": "https://www.gov.il/he/pages/shama",
+      "ballotLinks": [
+        {
+          "label": "פתק נף שמע בראשות נפתלי גולדמן",
+          "url": "https://www.gov.il/BlobFolder/generalpage/shama/he/shama_list13.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק נף שמע בראשות נפתלי גולדמן",
+          "url": "https://www.gov.il/BlobFolder/generalpage/shama/he/shama_list13pic.png"
+        }
+      ],
+      "candidates": [
+        "גולדמן נפתלי בורוך"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת שמע",
+      "title": "שמע בראשות נפתלי גולדמן",
+      "id": "shama",
+      "active": true
+    },
+    {
+      "letters": "נץ",
+      "name": "ביטחון אישי",
+      "note": "ביטחון אישי",
+      "source": "https://www.gov.il/he/pages/demokratura_list27",
+      "ballotLinks": [
+        {
+          "label": "פתק נץ ביטחון אישי",
+          "url": "https://www.gov.il/BlobFolder/generalpage/demokratura_list27/he/list27.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק נץ ביטחון אישי",
+          "url": "https://www.gov.il/BlobFolder/generalpage/demokratura_list27/he/list27.png"
+        }
+      ],
+      "candidates": [
+        "1. טופצ'יאשוילי מיכאל",
+        "2. קיקוזשוילי גבריאל",
+        "3. קיקוזשווילי איליה"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת דמוקראטורה – מפלגה להגשמת הציונות וערכי הדמוקראטורה",
+      "title": "ביטחון אישי",
+      "id": "demokratura_list27",
+      "active": true
+    },
+    {
+      "letters": "נקי",
+      "name": "התיקון לשיטת הבחירות והממשל",
+      "note": "התיקון לשיטת הבחירות והממשל",
+      "source": "https://www.gov.il/he/pages/tikun_list23",
+      "ballotLinks": [
+        {
+          "label": "פתק נקי התיקון לשיטת הבחירות והממשל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/tikun_list23/he/tikun_list23.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק נקי התיקון לשיטת הבחירות והממשל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/tikun_list23/he/tikun_list23pic.png"
+        }
+      ],
+      "candidates": [
+        "1. סלמוביץ משה",
+        "2. קבלאן יארה",
+        "3. שרמן יהל"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת התיקון",
+      "title": "התיקון לשיטת הבחירות והממשל",
+      "id": "tikun_list23",
+      "active": true
+    },
+    {
+      "letters": "נר",
+      "name": "צבע שחור – מגן עולם התורה",
+      "note": "צבע שחור – מגן עולם התורה",
+      "source": "https://www.gov.il/he/pages/shachor_list28",
+      "ballotLinks": [
+        {
+          "label": "פתק נר צבע שחור – מגן עולם התורה",
+          "url": "https://www.gov.il/BlobFolder/generalpage/shachor_list28/he/shachor_list28.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק נר צבע שחור – מגן עולם התורה",
+          "url": "https://www.gov.il/BlobFolder/generalpage/shachor_list28/he/shachor_list28pic.png"
+        }
+      ],
+      "candidates": [
+        "1. באומרינד אליהו אליעזר",
+        "2. דגני דרור אליהו",
+        "3. הכהן רבין חיימוב יצחק חי רפאל"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת תומכי יהדות בוכרה",
+      "title": "צבע שחור – מגן עולם התורה",
+      "id": "shachor_list28",
+      "active": true
+    },
+    {
+      "letters": "עם",
+      "name": "רע\"ם – הרשימה הערבית המאוחדת",
+      "note": "רע\"ם – הרשימה הערבית המאוחדת",
+      "source": "https://www.gov.il/he/pages/raam_list18",
+      "ballotLinks": [
+        {
+          "label": "פתק עם רע\"ם – הרשימה הערבית המאוחדת",
+          "url": "https://www.gov.il/BlobFolder/generalpage/raam_list18/he/list18.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק עם רע\"ם – הרשימה הערבית המאוחדת",
+          "url": "https://www.gov.il/BlobFolder/generalpage/raam_list18/he/list18pic.png"
+        }
+      ],
+      "candidates": [
+        "1. עבאס מנסור",
+        "2. סגלוביץ יואב",
+        "3. טאהא ווליד"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת רשימת האיחוד הערבי",
+      "title": "רע\"ם – הרשימה הערבית המאוחדת",
+      "id": "raam_list18",
+      "active": true
+    },
+    {
+      "letters": "פה",
+      "name": "אני ואתה מפלגת העם הישראלית",
+      "note": "אני ואתה מפלגת העם הישראלית",
+      "source": "https://www.gov.il/he/pages/miflegat-am-israelit_list21",
+      "ballotLinks": [
+        {
+          "label": "פתק פה אני ואתה מפלגת העם הישראלית",
+          "url": "https://www.gov.il/BlobFolder/generalpage/miflegat-am-israelit_list21/he/miflegat-am-israelit_list21.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק פה אני ואתה מפלגת העם הישראלית",
+          "url": "https://www.gov.il/BlobFolder/generalpage/miflegat-am-israelit_list21/he/miflegat-am-israelit_list21pic.png"
+        }
+      ],
+      "candidates": [
+        "1. גלעדי אלון",
+        "2. גלעדי ז'ולסון מאיה",
+        "3. זלכה איציק"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת אני ואתה- מפלגת העם הישראלית",
+      "title": "אני ואתה מפלגת העם הישראלית",
+      "id": "miflegat-am-israelit_list21",
+      "active": true
+    },
+    {
+      "letters": "צבי",
+      "name": "תנועת אחי תנועתו של הרב יורם אברג'ל זצ\"ל",
+      "note": "תנועת אחי תנועתו של הרב יורם אברג'ל זצ\"ל",
+      "source": "https://www.gov.il/he/pages/chozrim-leshorashim_list32",
+      "ballotLinks": [
+        {
+          "label": "פתק צבי תנועת אחי תנועתו של הרב יורם אברג'ל זצ\"ל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/chozrim-leshorashim_list32/he/list32.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק צבי תנועת אחי תנועתו של הרב יורם אברג'ל זצ\"ל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/chozrim-leshorashim_list32/he/list32.png"
+        }
+      ],
+      "candidates": [
+        "1. אלמלך יובל",
+        "2. אפל ישראל אביחי",
+        "3. ראובן ארז"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת חוזרים לשורשים",
+      "title": "תנועת אחי תנועתו של הרב יורם אברג'ל זצ\"ל",
+      "id": "chozrim-leshorashim_list32",
+      "active": true
+    },
+    {
+      "letters": "צדק",
+      "name": "שרשר לאהבה ואחדות העם",
+      "note": "שרשר לאהבה ואחדות העם",
+      "source": "https://www.gov.il/he/pages/sharshar_list3",
+      "ballotLinks": [
+        {
+          "label": "פתק צדק שרשר לאהבה ואחדות העם",
+          "url": "https://www.gov.il/BlobFolder/generalpage/sharshar_list3/he/sharshar_list3.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק צדק שרשר לאהבה ואחדות העם",
+          "url": "https://www.gov.il/BlobFolder/generalpage/sharshar_list3/he/sharshar_list3pic.png"
+        }
+      ],
+      "candidates": [
+        "1. שוילי איתן",
+        "2. שוילי תמר",
+        "3. אלמקייס אילן"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת שרשר לאהבה ואחדות העם",
+      "title": "שרשר לאהבה ואחדות העם",
+      "id": "sharshar_list3",
+      "active": true
+    },
+    {
+      "letters": "צף",
+      "name": "הפיראטים – צפים לטוב",
+      "note": "הפיראטים – צפים לטוב",
+      "source": "https://www.gov.il/he/pages/pirates_list_5",
+      "ballotLinks": [
+        {
+          "label": "פתק צף הפיראטים – צפים לטוב",
+          "url": "https://www.gov.il/BlobFolder/generalpage/pirates_list_5/he/pirates_list_5.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק צף הפיראטים – צפים לטוב",
+          "url": "https://www.gov.il/BlobFolder/generalpage/pirates_list_5/he/pirates_list_5Pic.png"
+        }
+      ],
+      "candidates": [
+        "1. שם טוב אוהד יעקב",
+        "2. כוזר ויסגרבר נועם",
+        "3. אריאלי דן"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת הפיראטים",
+      "title": "הפיראטים – צפים לטוב",
+      "id": "pirates_list_5",
+      "active": true
+    },
+    {
+      "letters": "ק",
+      "name": "תקומה",
+      "note": "תקומה",
+      "source": "https://www.gov.il/he/pages/tekuma_list34",
+      "ballotLinks": [
+        {
+          "label": "פתק ק תקומה",
+          "url": "https://www.gov.il/BlobFolder/generalpage/tekuma_list34/he/list34.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק ק תקומה",
+          "url": "https://www.gov.il/BlobFolder/generalpage/tekuma_list34/he/piclist34.png"
+        }
+      ],
+      "candidates": [
+        "1. פדרמן אלקנא",
+        "2. נגר לוטם",
+        "3. כהן שירה"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת תקומה",
+      "title": "דרך חזון ותקומה",
+      "id": "tekuma_list34",
+      "active": true
+    },
+    {
+      "letters": "קה",
+      "name": "קול הנשים",
+      "note": "קול הנשים",
+      "source": "https://www.gov.il/he/pages/kol-ha-nashim_list9",
+      "ballotLinks": [
+        {
+          "label": "פתק קה קול הנשים",
+          "url": "https://www.gov.il/BlobFolder/generalpage/kol-ha-nashim_list9/he/kol-ha-nashim_list9.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק קה קול הנשים",
+          "url": "https://www.gov.il/BlobFolder/generalpage/kol-ha-nashim_list9/he/kol-ha-nashim_list9pic.png"
+        }
+      ],
+      "candidates": [
+        "1. ישראל שדמי עמיר",
+        "2. בוהדנה אמה",
+        "3. בן אבו טליה"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת קול הנשים",
+      "title": "קול הנשים",
+      "id": "kol-ha-nashim_list9",
+      "active": true
+    },
+    {
+      "letters": "קך",
+      "name": "סדר-חדש לכינון חוקה, להפרדת רשויות ולבחירות אישיות",
+      "note": "סדר-חדש לכינון חוקה, להפרדת רשויות ולבחירות אישיות",
+      "source": "https://www.gov.il/he/pages/seder-chadash_list15",
+      "ballotLinks": [
+        {
+          "label": "פתק קך סדר-חדש לכינון חוקה, להפרדת רשויות ולבחירות אישיות",
+          "url": "https://www.gov.il/BlobFolder/generalpage/seder-chadash_list15/he/list15.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק קך סדר-חדש לכינון חוקה, להפרדת רשויות ולבחירות אישיות",
+          "url": "https://www.gov.il/BlobFolder/generalpage/seder-chadash_list15/he/list15.png"
+        }
+      ],
+      "candidates": [
+        "1. אופק אביטל חי",
+        "2. נאור לביא",
+        "3. בטיטו דניאל"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת סדר חדש לשינוי שיטת הבחירות",
+      "title": "סדר-חדש לכינון חוקה, להפרדת רשויות ולבחירות אישיות",
+      "id": "seder-chadash_list15",
+      "active": true
+    },
+    {
+      "letters": "קץ",
+      "name": "משפט צדק",
+      "note": "משפט צדק",
+      "source": "https://www.gov.il/he/pages/mishpat-tzedek_list12",
+      "ballotLinks": [
+        {
+          "label": "פתק קץ משפט צדק",
+          "url": "https://www.gov.il/BlobFolder/generalpage/mishpat-tzedek_list12/he/mishpat-tzedek_list12.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק קץ משפט צדק",
+          "url": "https://www.gov.il/BlobFolder/generalpage/mishpat-tzedek_list12/he/mishpat-tzedek_list12pic.png"
+        }
+      ],
+      "candidates": [
+        "1. עמיר רננה לריסה",
+        "2. עמיר גאולה",
+        "3. יהודי אליעזר"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת משפט צדק",
+      "title": "משפט צדק",
+      "id": "mishpat-tzedek_list12",
+      "active": true
+    },
+    {
+      "letters": "רץ",
+      "name": "הקהל – מפלגה כלל חרדית שנציגיה נבחרים על ידי הציבור בראשות הרב שלמה אלבוים",
+      "note": "הקהל – מפלגה כלל חרדית שנציגיה נבחרים על ידי הציבור בראשות הרב שלמה אלבוים",
+      "source": "https://www.gov.il/he/pages/machane-israel_list36",
+      "ballotLinks": [
+        {
+          "label": "פתק רץ הקהל – מפלגה כלל חרדית שנציגיה נבחרים על ידי הציבור בראשות הרב שלמה אלבוים",
+          "url": "https://www.gov.il/BlobFolder/generalpage/machane-israel_list36/he/list36.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק רץ הקהל – מפלגה כלל חרדית שנציגיה נבחרים על ידי הציבור בראשות הרב שלמה אלבוים",
+          "url": "https://www.gov.il/BlobFolder/generalpage/machane-israel_list36/he/list36.png"
+        }
+      ],
+      "candidates": [
+        "1. אלבוים שלמה",
+        "2. אדלר ברוך מנדל",
+        "3. גבאי דוד"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת מחנה ישראל",
+      "title": "הקהל – מפלגה כלל חרדית שנציגיה נבחרים על ידי הציבור בראשות הרב שלמה אלבוים",
+      "id": "machane-israel_list36",
+      "active": true
+    },
+    {
+      "letters": "רק",
+      "name": "ביחד בראשות נפתלי בנט",
+      "note": "ביחד בראשות נפתלי בנט",
+      "source": "https://www.gov.il/he/pages/beyahad_list1",
+      "ballotLinks": [
+        {
+          "label": "פתק רק ביחד בראשות נפתלי בנט",
+          "url": "https://www.gov.il/BlobFolder/generalpage/beyahad_list1/he/beyahad_list1.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק רק ביחד בראשות נפתלי בנט",
+          "url": "https://www.gov.il/BlobFolder/generalpage/beyahad_list1/he/beyahad_list1pic.png"
+        }
+      ],
+      "candidates": [
+        "1. בנט נפתלי",
+        "2. לפיד יאיר",
+        "3. טרנר אייל קרן"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת ביחד בראשות בנט מחזירים את התקווה ומטעם מפלגת יש עתיד - בראשות יאיר לפיד",
+      "title": "ביחד בראשות נפתלי בנט",
+      "id": "beyahad_list1",
+      "active": true
+    },
+    {
+      "letters": "שס",
+      "name": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+      "note": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+      "source": "https://www.gov.il/he/pages/shas_list19",
+      "ballotLinks": [
+        {
+          "label": "פתק שס התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/shas_list19/he/shas_list19.pdf"
+        },
+        {
+          "label": "png\nתמונת פתק שס התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+          "url": "https://www.gov.il/BlobFolder/generalpage/shas_list19/he/shas_list19pic.png"
+        }
+      ],
+      "candidates": [
+        "1. דרעי אריה מכלוף",
+        "2. אזולאי ינון",
+        "3. מלכיאלי מיכאל משה"
+      ],
+      "description": "רשימת המועמדים הוגשה מטעם מפלגת ש\"ס - התאחדות הספרדים העולמית שומרי תורה",
+      "title": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+      "id": "shas_list19",
+      "active": true
+    }
+  ],
+  "policies": {
+    "רק": {
+      "source": "https://be-yahad.org.il/plans/",
+      "type": "Party plans; publication date not stated on overview",
+      "he": [
+        "מציעה להוריד את מחירי המזון ב־30% בתוך שלוש שנים באמצעות הגברת התחרות.",
+        "מציעה מסגרות מפוקחות ומסובסדות מגיל לידה. הזכאות והקדימות תלויות במיצוי כושר ההשתכרות של ההורים, לצד הטבות נוספות למשפחות משרתים.",
+        "מציעה יעד של 50% נשים בסגל הבכיר בשירות המדינה ובדירקטוריונים של חברות ממשלתיות, לצד צמצום פערי שכר ומאבק באלימות נגד נשים."
+      ],
+      "en": [
+        "Proposes cutting food prices by 30% within three years through increased competition.",
+        "Proposes supervised, subsidized childcare from birth. Eligibility and priority depend on parents’ earning capacity being used, with additional benefits for service families.",
+        "Proposes a 50% women’s-representation target in senior civil-service posts and government-company boards, alongside reducing pay gaps and tackling violence against women."
+      ],
+      "ar": [
+        "تقترح خفض أسعار الغذاء بنسبة 30% خلال ثلاث سنوات عبر زيادة المنافسة.",
+        "تقترح رعاية خاضعة للرقابة ومدعومة منذ الولادة. تعتمد الأهلية والأولوية على استنفاد قدرة الوالدين على الكسب، مع مزايا إضافية لأسر من يؤدون الخدمة.",
+        "تقترح هدفًا لتمثيل النساء بنسبة 50% في المناصب العليا بالخدمة المدنية ومجالس إدارة الشركات الحكومية، مع تقليص فجوات الأجور ومكافحة العنف ضد النساء."
+      ],
+      "references": [
+        {
+          "url": "https://be-yahad.org.il/plans/yokermichya/",
+          "section": "Food-price target / goal: 30% within three years"
+        },
+        {
+          "url": "https://be-yahad.org.il/plans/גיל-רך/",
+          "section": "Childcare plan, points 2–4: eligibility, earning capacity and service-family benefits"
+        },
+        {
+          "url": "https://be-yahad.org.il/plans/women/",
+          "section": "Women’s plan, point 1 and success measures: civil service and government-company boards"
+        }
+      ],
+      "audit": {
+        "checked": "2026-10-23",
+        "status": "matched-party-source",
+        "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+      }
+    },
+    "דרך": {
+      "source": "https://yasharwitheisenkot.com/agenda_point/",
+      "type": "Ten-point party plan; publication date not stated",
+      "he": [
+        "מציעה חוק שירות ממלכתי לכל, עם שילוב חרדים וערבים במסגרות מתאימות, בראש ובראשונה בצה״ל.",
+        "מציעה חיזוק התחרות והעדפה בהטבות דיור ומס למי שנושא בנטל הביטחוני והכלכלי.",
+        "מתחייבת למערכת משפט עצמאית, זכויות מיעוט והגבלת כהונת ראש הממשלה לשתי קדנציות."
+      ],
+      "en": [
+        "Proposes a service law for all, integrating Haredi and Arab citizens into suitable frameworks, primarily the IDF.",
+        "Proposes stronger competition and priority housing and tax benefits for those carrying security and economic responsibilities.",
+        "Commits to judicial independence, minority rights and a two-term limit for the prime minister."
+      ],
+      "ar": [
+        "تقترح قانون خدمة للجميع ودمج المواطنين الحريديم والعرب في أطر ملائمة، وفي مقدمتها الجيش الإسرائيلي.",
+        "تقترح تعزيز المنافسة وأولوية في مزايا السكن والضرائب لمن يتحملون الأعباء الأمنية والاقتصادية.",
+        "تلتزم باستقلال القضاء وحقوق الأقليات وتحديد ولاية رئيس الحكومة بفترتين."
+      ],
+      "references": [
+        {
+          "url": "https://yasharwitheisenkot.com/agenda_point/",
+          "section": "Service for all: suitable frameworks, primarily the IDF"
+        },
+        {
+          "url": "https://yasharwitheisenkot.com/agenda_point/",
+          "section": "Economy and cost of living"
+        },
+        {
+          "url": "https://yasharwitheisenkot.com/agenda_point/",
+          "section": "Democracy and public service"
+        }
+      ],
+      "audit": {
+        "checked": "2026-10-23",
+        "status": "matched-party-source",
+        "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+      }
+    },
+    "אמת": {
+      "source": "https://democrats.org.il/wp-content/uploads/2026/04/vision0426.pdf",
+      "type": "Party principles, April 2026",
+      "he": [
+        "מציעה חינוך ממלכתי עם ליבה משותפת ושוויון הזדמנויות, תוך אפשרות לתכנים תרבותיים ודתיים ייחודיים.",
+        "מציעה שוויון זכויות מגדרי, דתי ולאומי ושילוב נשים ומיעוטים בשירות הציבורי ובהנהגה.",
+        "מציעה לבטל פטורים משירות צבאי לפי החוק הקיים ולפתח גם מסלולי שירות לאומי־אזרחי."
+      ],
+      "en": [
+        "Proposes public education with a shared core and equal opportunities, allowing distinct cultural and religious content.",
+        "Proposes gender, religious and national equality and wider participation of women and minorities in public service and leadership.",
+        "Proposes ending exemptions under existing military-service law and developing national-civilian service pathways."
+      ],
+      "ar": [
+        "تقترح تعليمًا رسميًا بمنهاج أساسي مشترك وتكافؤ الفرص مع إتاحة مضامين ثقافية ودينية خاصة.",
+        "تقترح مساواة جندرية ودينية وقومية وتوسيع مشاركة النساء والأقليات في الخدمة العامة والقيادة.",
+        "تقترح إلغاء الإعفاءات بموجب قانون الخدمة العسكرية القائم وتطوير مسارات خدمة وطنية مدنية أيضًا."
+      ],
+      "references": [
+        {
+          "url": "https://democrats.org.il/wp-content/uploads/2026/04/vision0426.pdf#page=3",
+          "section": "PDF page 3: solidarity and shared education"
+        },
+        {
+          "url": "https://democrats.org.il/wp-content/uploads/2026/04/vision0426.pdf#page=3",
+          "section": "PDF page 3: equality, public service and leadership"
+        },
+        {
+          "url": "https://democrats.org.il/wp-content/uploads/2026/04/vision0426.pdf#page=4",
+          "section": "PDF page 4: military service and national-civilian pathways"
+        }
+      ],
+      "audit": {
+        "checked": "2026-10-23",
+        "status": "matched-party-source",
+        "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+      }
+    },
+    "ל": {
+      "source": "https://beytenu.org.il/party-platform/",
+      "type": "Party platform; page publication date not stated",
+      "he": [
+        "מציעה חוקה, הפרדת דת ומדינה ונישואים וגירושים אזרחיים.",
+        "מציעה שירות צבאי או אזרחי לכל בני ובנות 18, שלילת הטבות למשתמטים ושלילת זכות ההצבעה לעריקים. אלה צעדים שהמפלגה מציעה.",
+        "מציעה תקצוב רב־שנתי למניעת אלימות במשפחה והרחבת טיפול בנפגעות ובנפגעי תקיפה מינית."
+      ],
+      "en": [
+        "Proposes a constitution, separation of religion and state, and civil marriage and divorce.",
+        "Proposes military or civilian service for all 18-year-olds, loss of benefits for service evasion, and loss of voting rights for deserters. These are party proposals.",
+        "Proposes multiyear funding against domestic violence and expanded care for survivors of sexual assault."
+      ],
+      "ar": [
+        "تقترح دستورًا وفصل الدين عن الدولة والزواج والطلاق المدنيين.",
+        "تقترح خدمة عسكرية أو مدنية لجميع من يبلغون 18 عامًا، وحرمان المتهربين من المزايا، وسلب حق التصويت من الفارين من الخدمة. هذه مقترحات القائمة.",
+        "تقترح تمويلًا متعدد السنوات لمكافحة العنف الأسري وتوسيع علاج الناجيات والناجين من الاعتداء الجنسي."
+      ],
+      "references": [
+        {
+          "url": "https://beytenu.org.il/party-platform/",
+          "section": "Founding principles: constitution; separation of religion and state"
+        },
+        {
+          "url": "https://beytenu.org.il/party-platform/",
+          "section": "Founding principles: service for all; distinct sanctions for evasion and desertion"
+        },
+        {
+          "url": "https://beytenu.org.il/party-platform/",
+          "section": "Advancing women’s status: domestic violence and sexual-assault services"
+        }
+      ],
+      "audit": {
+        "checked": "2026-10-23",
+        "status": "matched-party-source",
+        "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+      }
+    },
+    "ודם": {
+      "source": "https://jointlist.org.il/he/platform/",
+      "type": "Party platform explicitly identifies the 26th Knesset election",
+      "he": [
+        "מציעה סיום הכיבוש והקמת מדינה פלסטינית, לצד זכויות לאומיות ואזרחיות לציבור הערבי.",
+        "מציגה מאבק בפשיעה ובאלימות, שוויון מגדרי וחיזוק שירותי בריאות וחינוך כנושאי עדיפות.",
+        "מציעה מיסוי פרוגרסיבי והרחבת השירותים הציבוריים; אלה הצעות המפלגה, לא תוצאות שהוכחו."
+      ],
+      "en": [
+        "Proposes ending the occupation and establishing a Palestinian state, alongside national and civil rights for Arab citizens.",
+        "Prioritizes combating crime and violence, gender equality, and stronger health and education services.",
+        "Proposes progressive taxation and expanded public services. These are party proposals, not demonstrated outcomes."
+      ],
+      "ar": [
+        "تقترح إنهاء الاحتلال وإقامة دولة فلسطينية إلى جانب الحقوق القومية والمدنية للجمهور العربي.",
+        "تعطي أولوية لمكافحة الجريمة والعنف والمساواة الجندرية وتعزيز خدمات الصحة والتعليم.",
+        "تقترح ضرائب تصاعدية وتوسيع الخدمات العامة. هذه مقترحات القائمة وليست نتائج مثبتة."
+      ],
+      "references": [
+        {
+          "url": "https://jointlist.org.il/he/platform/",
+          "section": "Section 01 and foundational principles"
+        },
+        {
+          "url": "https://jointlist.org.il/he/platform/",
+          "section": "Sections 02, 06, 14 and 17: crime, education, gender and health"
+        },
+        {
+          "url": "https://jointlist.org.il/he/platform/",
+          "section": "Sections 10 and 12: taxation and public services"
+        }
+      ],
+      "audit": {
+        "checked": "2026-10-23",
+        "status": "matched-party-source",
+        "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+      }
+    },
+    "ני": {
+      "source": "https://www.noamlisrael.org.il/",
+      "type": "Party website principles; publication date not stated",
+      "he": [
+        "מציעה חיזוק הצביון היהודי במערכות המדינה, שמירת שבת ציבורית וחיזוק הרבנות הראשית.",
+        "מציעה פסקת התגברות, פיצול תפקיד היועץ המשפטי לממשלה והרחבת מינויי האמון.",
+        "מציעה חינוך יהודי וציוני, זכות וטו להורים על תכנים ושכר של לפחות 12,000 ש״ח למורה מתחיל."
+      ],
+      "en": [
+        "Proposes strengthening Jewish identity in state institutions, public Sabbath observance and the Chief Rabbinate.",
+        "Proposes an override clause, splitting the attorney-general role and expanding political appointments.",
+        "Proposes Jewish and Zionist education, a parental veto on content and a minimum starting teacher salary of NIS 12,000."
+      ],
+      "ar": [
+        "تقترح تعزيز الهوية اليهودية في مؤسسات الدولة والحفاظ على السبت في المجال العام وتعزيز الحاخامية الرئيسية.",
+        "تقترح بند تجاوز قضائي وتقسيم منصب المستشار القانوني للحكومة وتوسيع التعيينات السياسية.",
+        "تقترح تعليمًا يهوديًا وصهيونيًا وحق اعتراض للأهل على المضامين وراتبًا ابتدائيًا للمعلمين لا يقل عن 12,000 شيكل."
+      ],
+      "references": [
+        {
+          "url": "https://www.noamlisrael.org.il/",
+          "section": "Strengthening Jewish identity"
+        },
+        {
+          "url": "https://www.noamlisrael.org.il/",
+          "section": "Judicial-system proposals"
+        },
+        {
+          "url": "https://www.noamlisrael.org.il/",
+          "section": "Education proposals"
+        }
+      ],
+      "audit": {
+        "checked": "2026-10-23",
+        "status": "matched-party-source",
+        "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+      }
+    },
+    "ך": {
+      "source": "https://amchaisrael.co.il/foundations",
+      "type": "Party founding principles; publication date not stated",
+      "he": [
+        "מציעה הכרעה צבאית מהירה וגביית מחיר טריטוריאלי מהאויב, וכן תוכנית עזיבה של עזה שהיא מכנה הגירה מרצון ושמבקשת לקדם במסגרת הסכמות בין־לאומיות.",
+        "מציעה שירות צבאי או לאומי משמעותי, עם תגמול לפי סוג השירות, משכו ורמת הסיכון.",
+        "מציעה חיזוק אזורי גבול, ביזור סמכויות לרשויות המקומיות וגוף לאומי לתיאום המאבק בפשיעה."
+      ],
+      "en": [
+        "Proposes rapid military victory and territorial penalties against enemies, plus a Gaza emigration program it calls voluntary and seeks to pursue through international agreements.",
+        "Proposes military or meaningful national service, with rewards based on service type, duration and risk.",
+        "Proposes strengthening border regions, decentralizing powers to local authorities and a national body coordinating action against crime."
+      ],
+      "ar": [
+        "تقترح حسمًا عسكريًا سريعًا وأثمانًا إقليمية تُفرض على العدو، وبرنامج هجرة من غزة تصفه بالطوعي وتسعى إلى تنفيذه عبر اتفاقات دولية.",
+        "تقترح خدمة عسكرية أو وطنية فعلية مع مكافآت بحسب نوع الخدمة ومدتها ومخاطرها.",
+        "تقترح تعزيز مناطق الحدود ونقل صلاحيات للسلطات المحلية وهيئة وطنية لتنسيق مكافحة الجريمة."
+      ],
+      "references": [
+        {
+          "url": "https://amchaisrael.co.il/foundations",
+          "section": "Security doctrine: rapid victory, territorial cost and proposed emigration agreements"
+        },
+        {
+          "url": "https://amchaisrael.co.il/foundations",
+          "section": "Shared responsibility: service and differential rewards"
+        },
+        {
+          "url": "https://amchaisrael.co.il/foundations",
+          "section": "Priority regions; local government; national crime-coordination body"
+        }
+      ],
+      "audit": {
+        "checked": "2026-10-23",
+        "status": "matched-party-source",
+        "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+      }
+    },
+    "צף": {
+      "source": "https://piratim.org/wiki/matza/",
+      "type": "Party wiki platform; publication date not stated",
+      "he": [
+        "מציעה דמוקרטיה השתתפותית, שקיפות בקבלת החלטות והגנה על פרטיות וחופש הביטוי.",
+        "מציעה ביטול אחוז החסימה ואינטרנט חינם לכל.",
+        "מציעה לגליזציה של קנאביס ושירותי חינוך, בריאות ורווחה לאורך החיים."
+      ],
+      "en": [
+        "Proposes participatory democracy, transparent decision-making, privacy protection and freedom of expression.",
+        "Proposes abolishing the electoral threshold and free internet access for all.",
+        "Proposes cannabis legalization and lifelong education, health and welfare services."
+      ],
+      "ar": [
+        "تقترح ديمقراطية تشاركية وشفافية اتخاذ القرار وحماية الخصوصية وحرية التعبير.",
+        "تقترح إلغاء نسبة الحسم وإتاحة الإنترنت مجانًا للجميع.",
+        "تقترح تقنين القنب وخدمات التعليم والصحة والرفاه طوال الحياة."
+      ],
+      "references": [
+        {
+          "url": "https://piratim.org/wiki/matza/",
+          "section": "Founding principles and goals 3, 4 and 6"
+        },
+        {
+          "url": "https://piratim.org/wiki/matza/",
+          "section": "Goals 1 and 2"
+        },
+        {
+          "url": "https://piratim.org/wiki/matza/",
+          "section": "Goals 8 and 9"
+        }
+      ],
+      "audit": {
+        "checked": "2026-10-23",
+        "status": "matched-party-source",
+        "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+      }
+    },
+    "נקי": {
+      "source": "https://hatikun.org.il/מטרות-התיקון/",
+      "type": "Party objectives; publication date not stated",
+      "he": [
+        "מציעה בחירה אישית ואזורית לנציגי הכנסת במקום רשימות מפלגתיות סגורות.",
+        "מציעה מינוי ראש ממשלה ושרים לפי התאמה מקצועית ויעדי ביצוע.",
+        "מציעה חוקה המבוססת על שוויון וחירות, וכן התניית זכות הבחירה בעמידה בחובת תרומה למדינה."
+      ],
+      "en": [
+        "Proposes individual, regional election of Knesset representatives instead of closed party lists.",
+        "Proposes choosing the prime minister and ministers by professional suitability and performance targets.",
+        "Proposes a constitution based on equality and liberty, and making voting rights conditional on fulfilling a duty to contribute to the state."
+      ],
+      "ar": [
+        "تقترح انتخابًا فرديًا ومناطقيًا لممثلي الكنيست بدل القوائم الحزبية المغلقة.",
+        "تقترح اختيار رئيس الحكومة والوزراء بحسب الملاءمة المهنية وأهداف الأداء.",
+        "تقترح دستورًا قائمًا على المساواة والحرية واشتراط حق التصويت بأداء واجب المساهمة في الدولة."
+      ],
+      "references": [
+        {
+          "url": "https://hatikun.org.il/מטרות-התיקון/",
+          "section": "Objective 2: individual and regional elections"
+        },
+        {
+          "url": "https://hatikun.org.il/מטרות-התיקון/",
+          "section": "Objective 1: professional government and measurable targets"
+        },
+        {
+          "url": "https://hatikun.org.il/מטרות-התיקון/",
+          "section": "Objectives 4 and 5: civic duties, voting eligibility and constitution"
+        }
+      ],
+      "audit": {
+        "checked": "2026-10-23",
+        "status": "matched-party-source",
+        "scope": "Attribution and meaning only; delivery and outcomes not verified; translations remain drafts."
+      }
+    }
+  }
+}

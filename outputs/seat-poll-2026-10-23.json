@@ -1,0 +1,28 @@
+{
+  "source": "https://www.mako.co.il/news-israel-elections/2026/Article-8ea5e45ec2961a1027.htm",
+  "published": "2026-10-23",
+  "fieldwork": "22–23.10.2026",
+  "pollster": "Midgam / Mano Geva",
+  "commissioner": "N12",
+  "respondents": 1018,
+  "marginPercent": 4.4,
+  "seats": {
+    "דרך": 23,
+    "מחל": 21,
+    "רק": 15,
+    "אמת": 10,
+    "ודם": 9,
+    "שס": 8,
+    "ל": 8,
+    "ב": 8,
+    "ג": 7,
+    "ט": 6,
+    "עם": 5
+  },
+  "below": {
+    "ך": 2.5,
+    "די": 2.4,
+    "זך": 0.5,
+    "ני": 0.5
+  }
+}

@@ -1,0 +1,822 @@
+{
+  "checked": "2026-10-23",
+  "scope": "Party-level orientation, background and selected stated descriptors. No personal religion is inferred. Source basis is recorded for every label. Labels are not exhaustive.",
+  "records": {
+    "אמת": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Liberal",
+            "he": "ליברלית",
+            "ar": "ليبرالية",
+            "ru": "Либеральная",
+            "am": "Liberal"
+          },
+          "source": "https://democrats.org.il/wp-content/uploads/2026/04/vision0426.pdf#page=2",
+          "basis": "self",
+          "evidence": "April 2026 document introduction explicitly calls its approach liberal and Zionist."
+        },
+        {
+          "label": {
+            "en": "Zionist",
+            "he": "ציונית",
+            "ar": "صهيونية",
+            "ru": "Сионистская",
+            "am": "Zionist"
+          },
+          "source": "https://democrats.org.il/wp-content/uploads/2026/04/vision0426.pdf#page=2",
+          "basis": "self",
+          "evidence": "Introduction describes the Zionist movement and the party’s liberal-democratic outlook."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "ב": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Jewish-national component",
+            "he": "מרכיב יהודי־לאומי",
+            "ar": "مكوّن قومي يهودي",
+            "ru": "Jewish-national component",
+            "am": "Jewish-national component"
+          },
+          "source": "https://www.gov.il/he/pages/yehudit-meuhedet_list14",
+          "basis": "registered",
+          "evidence": "Submitting party name includes Jewish National Front; this tag concerns a component’s registered name, not the religion of all candidates."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "בד": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Arab–Jewish list",
+            "he": "רשימה ערבית־יהודית",
+            "ar": "قائمة عربية يهودية",
+            "ru": "Arab–Jewish list",
+            "am": "Arab–Jewish list"
+          },
+          "source": "https://www.gov.il/he/pages/beyachad-natzliah_list10",
+          "basis": "registered",
+          "evidence": "The official list name explicitly says joint Arab–Jewish list."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "בי": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Zionist components",
+            "he": "מרכיבים ציוניים",
+            "ar": "مكوّنات صهيونية",
+            "ru": "Zionist components",
+            "am": "Zionist components"
+          },
+          "source": "https://www.gov.il/he/pages/tzomet-beit-israel_list33",
+          "basis": "registered",
+          "evidence": "Both submitting party names explicitly contain Zionist wording."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "בקר": {
+      "religion": null,
+      "tags": [],
+      "checked": "2026-10-23",
+      "coverage": "identity research pending"
+    },
+    "ג": {
+      "religion": {
+        "symbol": "jewish",
+        "label": {
+          "en": "Jewish religious",
+          "he": "דתית יהודית",
+          "ar": "دينية يهودية",
+          "ru": "Иудаизм · религиозная",
+          "am": "Jewish religious"
+        },
+        "source": "https://www.gov.il/he/pages/yahadut-degel_list37",
+        "basis": "registered",
+        "evidence": "The submitting party names include Agudat HaHaredim–Degel HaTorah, Agudat Israel and Homat Torat Israel."
+      },
+      "tags": [
+        {
+          "label": {
+            "en": "Haredi",
+            "he": "חרדית",
+            "ar": "حريدية",
+            "ru": "Haredi",
+            "am": "Haredi"
+          },
+          "source": "https://www.gov.il/he/pages/yahadut-degel_list37",
+          "basis": "registered",
+          "evidence": "Agudat HaHaredim is an explicitly Haredi component."
+        },
+        {
+          "label": {
+            "en": "Joint list",
+            "he": "רשימה משותפת",
+            "ar": "قائمة مشتركة",
+            "ru": "Joint list",
+            "am": "Joint list"
+          },
+          "source": "https://www.gov.il/he/pages/yahadut-degel_list37",
+          "basis": "registered",
+          "evidence": "The official profile lists three submitting parties."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "ד": {
+      "religion": null,
+      "tags": [],
+      "checked": "2026-10-23",
+      "coverage": "identity research pending"
+    },
+    "די": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Reservists & economic list",
+            "he": "מילואימניקים וכלכלה",
+            "ar": "الاحتياط والاقتصاد",
+            "ru": "Reservists & economic list",
+            "am": "Reservists & economic list"
+          },
+          "source": "https://www.gov.il/he/pages/hamiluimnikim-vehakalkalit_list16",
+          "basis": "registered",
+          "evidence": "These are the two components identified in the official list name and submitting-party description."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "דרך": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Jewish–democratic outlook",
+            "he": "תפיסה יהודית־דמוקרטית",
+            "ar": "توجّه يهودي ديمقراطي",
+            "ru": "Jewish–democratic outlook",
+            "am": "Jewish–democratic outlook"
+          },
+          "source": "https://yasharwitheisenkot.com/agenda_point/",
+          "basis": "programme",
+          "evidence": "The programme introduction describes a Jewish, democratic state. This is a stated outlook, not a denomination."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "ה": {
+      "religion": null,
+      "tags": [],
+      "checked": "2026-10-23",
+      "coverage": "identity research pending"
+    },
+    "ודם": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Arab–Jewish partnership",
+            "he": "שותפות ערבית־יהודית",
+            "ar": "شراكة عربية يهودية",
+            "ru": "Arab–Jewish partnership",
+            "am": "Arab–Jewish partnership"
+          },
+          "source": "https://jointlist.org.il/he/platform/",
+          "basis": "self",
+          "evidence": "Foundational principles describe progressive Arab–Jewish partnership."
+        },
+        {
+          "label": {
+            "en": "Progressive",
+            "he": "פרוגרסיבית",
+            "ar": "تقدّمية",
+            "ru": "Progressive",
+            "am": "Progressive"
+          },
+          "source": "https://jointlist.org.il/he/platform/",
+          "basis": "self",
+          "evidence": "Foundational principles explicitly use progressive to describe the partnership."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "ז": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Social-security name",
+            "he": "ביטחון חברתי · בשם",
+            "ar": "الأمان الاجتماعي · في الاسم",
+            "ru": "Social-security name",
+            "am": "Social-security name"
+          },
+          "source": "https://www.gov.il/he/pages/betach_list25",
+          "basis": "registered",
+          "evidence": "The registered/list name says social security; this is a name-based descriptor, not verified performance."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "זך": {
+      "religion": {
+        "symbol": "jewish",
+        "label": {
+          "en": "Jewish religious",
+          "he": "דתית יהודית",
+          "ar": "دينية يهودية",
+          "ru": "Jewish religious",
+          "am": "Jewish religious"
+        },
+        "source": "https://www.gov.il/he/pages/tzibur-charedi_list20",
+        "basis": "registered",
+        "evidence": "The official list name explicitly identifies the Haredi public."
+      },
+      "tags": [
+        {
+          "label": {
+            "en": "Haredi",
+            "he": "חרדית",
+            "ar": "حريدية",
+            "ru": "Haredi",
+            "am": "Haredi"
+          },
+          "source": "https://www.gov.il/he/pages/tzibur-charedi_list20",
+          "basis": "registered",
+          "evidence": "Haredi public appears in the official list name."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "זץ": {
+      "religion": null,
+      "tags": [],
+      "checked": "2026-10-23",
+      "coverage": "identity research pending"
+    },
+    "ט": {
+      "religion": {
+        "symbol": "jewish",
+        "label": {
+          "en": "Jewish religious component",
+          "he": "מרכיב דתי יהודי",
+          "ar": "مكوّن ديني يهودي",
+          "ru": "Jewish religious component",
+          "am": "Jewish religious component"
+        },
+        "source": "https://zionutdatit.org.il/en/about/",
+        "basis": "self",
+        "evidence": "The Religious Zionist Party calls itself national religious. This source describes that component, not every component of the joint list."
+      },
+      "tags": [
+        {
+          "label": {
+            "en": "Religious Zionist component",
+            "he": "מרכיב ציוני־דתי",
+            "ar": "مكوّن صهيوني ديني",
+            "ru": "Religious Zionist component",
+            "am": "Religious Zionist component"
+          },
+          "source": "https://zionutdatit.org.il/en/about/",
+          "basis": "self",
+          "evidence": "About the party: national religious, serving streams of the religious community."
+        },
+        {
+          "label": {
+            "en": "Joint list · Zehut included",
+            "he": "רשימה משותפת · כולל זהות",
+            "ar": "قائمة مشتركة · تشمل زيهوت",
+            "ru": "Joint list · Zehut included",
+            "am": "Joint list · Zehut included"
+          },
+          "source": "https://www.gov.il/he/pages/tzionutdatit-zehut_list31",
+          "basis": "registered",
+          "evidence": "Official profile names National Union–Tkuma, Zehut and Atid Ehad as submitting parties."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "י": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Security · economy · unity",
+            "he": "ביטחון · כלכלה · אחדות",
+            "ar": "أمن · اقتصاد · وحدة",
+            "ru": "Security · economy · unity",
+            "am": "Security · economy · unity"
+          },
+          "source": "https://www.gov.il/he/pages/israel-tchila_list7",
+          "basis": "registered",
+          "evidence": "These words appear in the submitting party’s registered name; they are not ratings of its policies."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "יק": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Biblical identity · name",
+            "he": "זהות תנ״כית · בשם",
+            "ar": "هوية توراتية · في الاسم",
+            "ru": "Biblical identity · name",
+            "am": "Biblical identity · name"
+          },
+          "source": "https://www.gov.il/he/pages/gush-tanachi_list24",
+          "basis": "registered",
+          "evidence": "The official list/submitting-party name says Bible Bloc. No Jewish/Christian composition or denomination has yet been verified."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "ך": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Zionist",
+            "he": "ציונית",
+            "ar": "صهيونية",
+            "ru": "Zionist",
+            "am": "Zionist"
+          },
+          "source": "https://amchaisrael.co.il/foundations",
+          "basis": "self",
+          "evidence": "Jewish nation-state section explicitly describes a Jewish, Zionist, sovereign state."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "ל": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Religion–state separation",
+            "he": "הפרדת דת ומדינה",
+            "ar": "فصل الدين عن الدولة",
+            "ru": "Religion–state separation",
+            "am": "Religion–state separation"
+          },
+          "source": "https://beytenu.org.il/party-platform/",
+          "basis": "programme",
+          "evidence": "The platform has an explicit separation-of-religion-and-state section. This alone does not establish every member’s personal religion or a secular denomination."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "מחל": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Likud: national–liberal",
+            "he": "הליכוד: לאומית־ליברלית",
+            "ar": "الليكود: قومي ليبرالي",
+            "ru": "Likud: national–liberal",
+            "am": "Likud: national–liberal"
+          },
+          "source": "https://www.gov.il/he/pages/halikud-tikvahadasha_iist29",
+          "basis": "registered",
+          "evidence": "Likud’s registered name is National Liberal Movement; this tag is explicitly limited to that component."
+        },
+        {
+          "label": {
+            "en": "Joint list",
+            "he": "רשימה משותפת",
+            "ar": "قائمة مشتركة",
+            "ru": "Joint list",
+            "am": "Joint list"
+          },
+          "source": "https://www.gov.il/he/pages/halikud-tikvahadasha_iist29",
+          "basis": "registered",
+          "evidence": "The official profile also names New Hope–National Right as a submitting party."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "ני": {
+      "religion": {
+        "symbol": "jewish",
+        "label": {
+          "en": "Jewish religious",
+          "he": "דתית יהודית",
+          "ar": "دينية يهودية",
+          "ru": "Jewish religious",
+          "am": "Jewish religious"
+        },
+        "source": "https://www.noamlisrael.org.il/",
+        "basis": "programme",
+        "evidence": "The party’s own site calls for Jewish religious legislation, public Sabbath observance and a stronger Chief Rabbinate. No narrower Orthodox/Haredi stream is assigned."
+      },
+      "tags": [
+        {
+          "label": {
+            "en": "Right-wing · self-described",
+            "he": "ימין · בהגדרה עצמית",
+            "ar": "يمين · وصف ذاتي",
+            "ru": "Right-wing · self-described",
+            "am": "Right-wing · self-described"
+          },
+          "source": "https://www.noamlisrael.org.il/",
+          "basis": "self",
+          "evidence": "Homepage headline explicitly calls for a strong right."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "נף": {
+      "religion": null,
+      "tags": [],
+      "checked": "2026-10-23",
+      "coverage": "identity research pending"
+    },
+    "נץ": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Personal-security name",
+            "he": "ביטחון אישי · בשם",
+            "ar": "الأمن الشخصي · في الاسم",
+            "ru": "Personal-security name",
+            "am": "Personal-security name"
+          },
+          "source": "https://www.gov.il/he/pages/demokratura_list27",
+          "basis": "registered",
+          "evidence": "This is the official list name, not an assessment of the policy record."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "נקי": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Electoral & government reform",
+            "he": "שינוי בחירות וממשל",
+            "ar": "إصلاح الانتخابات والحكم",
+            "ru": "Electoral & government reform",
+            "am": "Electoral & government reform"
+          },
+          "source": "https://hatikun.org.il/מטרות-התיקון/",
+          "basis": "programme",
+          "evidence": "Objectives 1, 2 and 5 concern government selection, individual/regional elections and a constitution."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "נר": {
+      "religion": {
+        "symbol": "jewish",
+        "label": {
+          "en": "Jewish religious focus",
+          "he": "דגש דתי יהודי",
+          "ar": "تركيز ديني يهودي",
+          "ru": "Jewish religious focus",
+          "am": "Jewish religious focus"
+        },
+        "source": "https://www.gov.il/he/pages/shachor_list28",
+        "basis": "registered",
+        "evidence": "The official list name calls it defender of the Torah world. No narrower Haredi stream is inferred from the name."
+      },
+      "tags": [
+        {
+          "label": {
+            "en": "Torah-world focus · name",
+            "he": "עולם התורה · בשם",
+            "ar": "عالم التوراة · في الاسم",
+            "ru": "Torah-world focus · name",
+            "am": "Torah-world focus · name"
+          },
+          "source": "https://www.gov.il/he/pages/shachor_list28",
+          "basis": "registered",
+          "evidence": "Official list name: Black Color–Defender of the Torah World."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "עם": {
+      "religion": {
+        "symbol": "islam",
+        "label": {
+          "en": "Islamic roots",
+          "he": "שורשים אסלאמיים",
+          "ar": "جذور إسلامية",
+          "ru": "Islamic roots",
+          "am": "Islamic roots"
+        },
+        "source": "https://www.knesset.tv/מפלגות/36614/",
+        "basis": "historical",
+        "evidence": "Knesset Channel describes its 1996 founding as an Arab-Islamic party. This is a historical-background label, not a claim about current organisational control or every candidate’s faith."
+      },
+      "tags": [
+        {
+          "label": {
+            "en": "Arab list",
+            "he": "רשימה ערבית",
+            "ar": "قائمة عربية",
+            "ru": "Arab list",
+            "am": "Arab list"
+          },
+          "source": "https://www.gov.il/he/pages/raam_list18",
+          "basis": "registered",
+          "evidence": "United Arab List is the official list name; this community label does not mean every member is Muslim."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "פה": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "People’s party · name",
+            "he": "מפלגת העם · בשם",
+            "ar": "حزب الشعب · في الاسم",
+            "ru": "People’s party · name",
+            "am": "People’s party · name"
+          },
+          "source": "https://www.gov.il/he/pages/miflegat-am-israelit_list21",
+          "basis": "registered",
+          "evidence": "The official list name says Israeli People’s Party. No populist ideology is inferred."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "צבי": {
+      "religion": {
+        "symbol": "jewish",
+        "label": {
+          "en": "Jewish rabbinic heritage",
+          "he": "מורשת רבנית יהודית",
+          "ar": "تراث حاخامي يهودي",
+          "ru": "Jewish rabbinic heritage",
+          "am": "Jewish rabbinic heritage"
+        },
+        "source": "https://www.gov.il/he/pages/chozrim-leshorashim_list32",
+        "basis": "registered",
+        "evidence": "The official list name explicitly identifies it as the movement of Rabbi Yoram Abergel. A narrower religious stream is not assigned."
+      },
+      "tags": [
+        {
+          "label": {
+            "en": "Rabbinic heritage",
+            "he": "מורשת רבנית",
+            "ar": "تراث حاخامي",
+            "ru": "Rabbinic heritage",
+            "am": "Rabbinic heritage"
+          },
+          "source": "https://www.gov.il/he/pages/chozrim-leshorashim_list32",
+          "basis": "registered",
+          "evidence": "The list’s self-chosen official name names Rabbi Yoram Abergel and his movement."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "צדק": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Love & unity · name",
+            "he": "אהבה ואחדות · בשם",
+            "ar": "محبة ووحدة · في الاسم",
+            "ru": "Love & unity · name",
+            "am": "Love & unity · name"
+          },
+          "source": "https://www.gov.il/he/pages/sharshar_list3",
+          "basis": "registered",
+          "evidence": "The official name includes love and unity of the people. This is a name-based description."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "צף": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Participatory democracy",
+            "he": "דמוקרטיה השתתפותית",
+            "ar": "ديمقراطية تشاركية",
+            "ru": "Participatory democracy",
+            "am": "Participatory democracy"
+          },
+          "source": "https://piratim.org/wiki/matza/",
+          "basis": "self",
+          "evidence": "The platform explicitly lists participatory democracy as a founding principle."
+        },
+        {
+          "label": {
+            "en": "Privacy & free expression",
+            "he": "פרטיות וחופש ביטוי",
+            "ar": "الخصوصية وحرية التعبير",
+            "ru": "Privacy & free expression",
+            "am": "Privacy & free expression"
+          },
+          "source": "https://piratim.org/wiki/matza/",
+          "basis": "programme",
+          "evidence": "Founding principles and goal 6 explicitly name privacy and freedom of expression."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "ק": {
+      "religion": null,
+      "tags": [],
+      "checked": "2026-10-23",
+      "coverage": "identity research pending"
+    },
+    "קה": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Women’s voice · name",
+            "he": "קול הנשים · בשם",
+            "ar": "صوت النساء · في الاسم",
+            "ru": "Women’s voice · name",
+            "am": "Women’s voice · name"
+          },
+          "source": "https://www.gov.il/he/pages/kol-ha-nashim_list9",
+          "basis": "registered",
+          "evidence": "The official list name is Voice of Women. No women-only membership rule is inferred."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "קך": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Constitution & personal elections",
+            "he": "חוקה ובחירות אישיות",
+            "ar": "دستور وانتخابات فردية",
+            "ru": "Constitution & personal elections",
+            "am": "Constitution & personal elections"
+          },
+          "source": "https://www.gov.il/he/pages/seder-chadash_list15",
+          "basis": "registered",
+          "evidence": "The official list name explicitly calls for a constitution, separation of powers and personal elections."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "קץ": {
+      "religion": null,
+      "tags": [],
+      "checked": "2026-10-23",
+      "coverage": "identity research pending"
+    },
+    "רץ": {
+      "religion": {
+        "symbol": "jewish",
+        "label": {
+          "en": "Jewish religious",
+          "he": "דתית יהודית",
+          "ar": "دينية يهودية",
+          "ru": "Jewish religious",
+          "am": "Jewish religious"
+        },
+        "source": "https://www.gov.il/he/pages/machane-israel_list36",
+        "basis": "registered",
+        "evidence": "The official list name explicitly says all-Haredi party."
+      },
+      "tags": [
+        {
+          "label": {
+            "en": "Haredi",
+            "he": "חרדית",
+            "ar": "حريدية",
+            "ru": "Haredi",
+            "am": "Haredi"
+          },
+          "source": "https://www.gov.il/he/pages/machane-israel_list36",
+          "basis": "registered",
+          "evidence": "All-Haredi appears in the official list name."
+        },
+        {
+          "label": {
+            "en": "Public selection · name",
+            "he": "בחירת נציגים בציבור · בשם",
+            "ar": "اختيار الممثلين من الجمهور · في الاسم",
+            "ru": "Public selection · name",
+            "am": "Public selection · name"
+          },
+          "source": "https://www.gov.il/he/pages/machane-israel_list36",
+          "basis": "registered",
+          "evidence": "The list name states that its representatives are selected by the public; implementation has not been independently checked."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "רק": {
+      "religion": null,
+      "tags": [
+        {
+          "label": {
+            "en": "Bennett–Lapid joint list",
+            "he": "רשימה משותפת בנט–לפיד",
+            "ar": "قائمة مشتركة بينيت–لبيد",
+            "ru": "Bennett–Lapid joint list",
+            "am": "Bennett–Lapid joint list"
+          },
+          "source": "https://www.gov.il/he/pages/beyahad_list1",
+          "basis": "registered",
+          "evidence": "The official candidate profile names Beyahad and Yesh Atid as submitting parties."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    },
+    "שס": {
+      "religion": {
+        "symbol": "jewish",
+        "label": {
+          "en": "Jewish religious",
+          "he": "דתית יהודית",
+          "ar": "دينية يهودية",
+          "ru": "Jewish religious",
+          "am": "Jewish religious"
+        },
+        "source": "https://www.gov.il/he/pages/shas_list19",
+        "basis": "registered",
+        "evidence": "The official registered party name identifies Torah-observant Sephardim."
+      },
+      "tags": [
+        {
+          "label": {
+            "en": "Haredi",
+            "he": "חרדית",
+            "ar": "حريدية",
+            "ru": "Haredi",
+            "am": "Haredi"
+          },
+          "source": "https://www.idi.org.il/policy/parties-and-elections/parties/shas/",
+          "basis": "research",
+          "evidence": "Israel Democracy Institute describes its founding among Sephardi Haredim; this is a research classification, not a new party self-description."
+        },
+        {
+          "label": {
+            "en": "Sephardi",
+            "he": "ספרדית",
+            "ar": "سفاردية",
+            "ru": "Sephardi",
+            "am": "Sephardi"
+          },
+          "source": "https://www.gov.il/he/pages/shas_list19",
+          "basis": "registered",
+          "evidence": "Sephardi appears explicitly in the registered party name."
+        }
+      ],
+      "checked": "2026-10-23",
+      "coverage": "source-backed labels"
+    }
+  }
+}
