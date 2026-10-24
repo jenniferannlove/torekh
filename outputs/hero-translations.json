@@ -1,7 +1,37 @@
 {
-  "en": {"phrase":"Your turn.","language":"English","pause":"Pause languages","resume":"Resume languages"},
-  "he": {"phrase":"תורך.","language":"עברית","pause":"השהיית החלפת שפות","resume":"המשך החלפת שפות"},
-  "ar": {"phrase":"دورك.","language":"العربية","pause":"إيقاف تبديل اللغات مؤقتًا","resume":"استئناف تبديل اللغات"},
-  "ru": {"phrase":"Твой ход.","language":"Русский","pause":"Остановить смену языков","resume":"Продолжить смену языков"},
-  "am": {"phrase":"ተራሽ ነው።","language":"አማርኛ","pause":"የቋንቋ መቀያየሩን አቁሚ","resume":"የቋንቋ መቀያየሩን ቀጥዪ"}
+  "en": {
+    "phrase": "Your turn.\nCards on the table.",
+    "language": "English",
+    "pause": "Pause languages",
+    "resume": "Resume languages",
+    "intro": "{count} lists to explore. Get to know the names and ballot letters, then take a closer look at each list."
+  },
+  "he": {
+    "phrase": "תורך.\nהקלפים על השולחן.",
+    "language": "עברית",
+    "pause": "השהיית החלפת שפות",
+    "resume": "המשך החלפת שפות",
+    "intro": "{count} רשימות להכיר. התחילי בשמות ובאותיות הפתקים, ומשם תוכלי להכיר כל רשימה קצת יותר."
+  },
+  "ar": {
+    "phrase": "دوركِ.\nالأوراق على الطاولة.",
+    "language": "العربية",
+    "pause": "إيقاف تبديل اللغات مؤقتًا",
+    "resume": "استئناف تبديل اللغات",
+    "intro": "{count} قائمة لتتعرّفي إليها. ابدئي بالأسماء وحروف الاقتراع، ثم تعرّفي إلى كل قائمة عن قرب."
+  },
+  "ru": {
+    "phrase": "Твой ход.\nКарты на стол.",
+    "language": "Русский",
+    "pause": "Остановить смену языков",
+    "resume": "Продолжить смену языков",
+    "intro": "{count} списков для знакомства. Начните с названий и букв на бюллетенях, а затем узнайте больше о каждом списке."
+  },
+  "am": {
+    "phrase": "ተራሽ ነው።\nካርዶቹ በጠረጴዛው ላይ።",
+    "language": "አማርኛ",
+    "pause": "የቋንቋ መቀያየሩን አቁሚ",
+    "resume": "የቋንቋ መቀያየሩን ቀጥዪ",
+    "intro": "ለማወቅ {count} ዝርዝሮች አሉ። በመጀመሪያ ስሞቹንና የድምፅ መስጫ ፊደሎቹን እወቂ፣ ከዚያም እያንዳንዱን ዝርዝር በዝርዝር ተመልከቺ።"
+  }
 }
