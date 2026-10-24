@@ -43,7 +43,7 @@ for(const lang of ['ar','en']){
   }
  }
  assert(!nodes['#blog-link']?.href,'Unpublished article must not be promoted');
- assert.equal(nodes['#hero-static'].textContent,lang==='ar'?'دوركِ. الأوراق على الطاولة.':'Your turn. Cards on the table.');
+ assert.equal(nodes['#hero-static'].textContent,lang==='ar'?'الأوراق على الطاولة. الآن دوركِ.':"The Cards Are on the Table. Now It's Your Turn.");
 }
 assert(!text.includes('id="coalition-context"')&&!text.includes('id="coalition-sort"'),'Remove remote colour and sorting controls');
 assert(!text.includes('id="coalition-legend"'),'Do not leave an unused colour key');
@@ -78,7 +78,7 @@ assert.equal(audit.entries.filter(e=>e.displayStatus==='active').length,35);
 assert.equal(data.profiles.find(p=>p.letters==='צבי').withdrawal.officialBallotRemovalVerified,false);
 for(const p of Object.values(data.policies))for(const lang of ['ar','en'])assert.equal(p[lang].length,3);
 vm.runInContext("lang='ru';renderHero()",ctx);
-assert.equal(nodes['#hero-phrase'].textContent,'Твой ход.\nКарты на стол.');
+assert.equal(nodes['#hero-phrase'].textContent,'Карты на столе.\nТеперь твой ход.');
 assert.equal(vm.runInContext('heroOrder.length',ctx),5);
 vm.runInContext('heroMotion.matches=true;renderHero()',ctx);
 assert.equal(vm.runInContext('heroInterval',ctx),null,'Reduced motion must stop rotation');
