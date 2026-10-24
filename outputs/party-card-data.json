@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-23",
+  "checked": "2026-10-24",
   "sourceUpdated": "2026-10-22",
   "source": "https://www.gov.il/he/pages/candidates-lists-26",
   "ballots": "https://www.gov.il/he/pages/candidates-lists-26?chapterIndex=2",
@@ -894,8 +894,16 @@
       ],
       "description": "רשימת המועמדים הוגשה מטעם מפלגת מחנה ישראל",
       "title": "הקהל – מפלגה כלל חרדית שנציגיה נבחרים על ידי הציבור בראשות הרב שלמה אלבוים",
+      "withdrawal": {
+        "announced": "2026-10-23",
+        "checked": "2026-10-24",
+        "status": "reported-withdrawal",
+        "source": "https://www.kikar.co.il/political-news/hakahal-party-withdraws-from-elections",
+        "corroboratingSource": "https://www.skarim.org/news/daily/2026-10-23",
+        "officialBallotRemovalVerified": false
+      },
       "id": "machane-israel_list36",
-      "active": true
+      "active": false
     },
     {
       "letters": "רק",

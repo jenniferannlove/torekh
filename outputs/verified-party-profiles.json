@@ -1,6 +1,6 @@
 {
   "source": "https://www.gov.il/he/pages/candidates-lists-26",
-  "checked": "2026-10-23",
+  "checked": "2026-10-24",
   "profiles": [
     {
       "letters": "אמת",
@@ -857,7 +857,15 @@
       ],
       "description": "רשימת המועמדים הוגשה מטעם מפלגת מחנה ישראל",
       "title": "הקהל – מפלגה כלל חרדית שנציגיה נבחרים על ידי הציבור בראשות הרב שלמה אלבוים",
-      "update": "תאריך עדכון: 14.10.2026"
+      "update": "תאריך עדכון: 14.10.2026",
+      "withdrawal": {
+        "announced": "2026-10-23",
+        "checked": "2026-10-24",
+        "status": "reported-withdrawal",
+        "source": "https://www.kikar.co.il/political-news/hakahal-party-withdraws-from-elections",
+        "corroboratingSource": "https://www.skarim.org/news/daily/2026-10-23",
+        "officialBallotRemovalVerified": false
+      }
     },
     {
       "letters": "רק",

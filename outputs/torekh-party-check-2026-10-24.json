@@ -1,0 +1,372 @@
+{
+  "checked": "2026-10-24",
+  "scope": "Official Hebrew names and ballot letters for all 38 registered lists, and current withdrawal reports. Not a policy or candidate-record audit.",
+  "registerSource": "https://www.gov.il/he/pages/candidates-lists-26",
+  "registerLastUpdated": "2026-10-22",
+  "registeredCount": 38,
+  "activeDisplayedCount": 35,
+  "nameMismatches": 0,
+  "letterMismatches": 0,
+  "ballotPosterSource": "https://www.gov.il/BlobFolder/guide/candidates-lists-26/he/Approved%20Voting%20Slips.pdf",
+  "ballotPosterLimit": "Approved poster link located in official chapter; PDF could not be rendered in this check. No claim of a new visual comparison of the poster. Ballot-letter checks use the official register.",
+  "entries": [
+    {
+      "letters": "אמת",
+      "officialName": "הדמוקרטים בראשות יאיר גולן",
+      "source": "https://www.gov.il/he/pages/hademokratim_list17",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "הדמוקרטים בראשות יאיר גולן",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "ב",
+      "officialName": "עוצמה יהודית בראשות איתמר בן גביר",
+      "source": "https://www.gov.il/he/pages/yehudit-meuhedet_list14",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "עוצמה יהודית בראשות איתמר בן גביר",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "בד",
+      "officialName": "מפלגת ביחד נצליח – רשימה משותפת ערבית יהודית בראשות אבי שקד",
+      "source": "https://www.gov.il/he/pages/beyachad-natzliah_list10",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "מפלגת ביחד נצליח – רשימה משותפת ערבית יהודית בראשות אבי שקד",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "בי",
+      "officialName": "צומת בית ישראל",
+      "source": "https://www.gov.il/he/pages/tzomet-beit-israel_list33",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "צומת בית ישראל",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "בקר",
+      "officialName": "אורות השחר בראשות ניסים לוק",
+      "source": "https://www.gov.il/he/pages/orot_list26",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "אורות השחר בראשות ניסים לוק",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "ג",
+      "officialName": "יהדות התורה והשבת אגודת ישראל – דגל התורה",
+      "source": "https://www.gov.il/he/pages/yahadut-degel_list37",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "יהדות התורה והשבת אגודת ישראל – דגל התורה",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "ד",
+      "officialName": "השותפות לכולם",
+      "source": "https://www.gov.il/he/pages/hashutafut-lekulam_iist",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "השותפות לכולם",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "די",
+      "officialName": "המילואימניקים והכלכלית בראשות יועז הנדל וירון זליכה",
+      "source": "https://www.gov.il/he/pages/hamiluimnikim-vehakalkalit_list16",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "המילואימניקים והכלכלית בראשות יועז הנדל וירון זליכה",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "דרך",
+      "officialName": "ישר! עם איזנקוט לראשות הממשלה מאחדים את ישראל",
+      "source": "https://www.gov.il/he/pages/yashar_list_2",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "ישר! עם איזנקוט לראשות הממשלה מאחדים את ישראל",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "ה",
+      "officialName": "גן עדן בראשות ישוע ישראל בן דוד",
+      "source": "https://www.gov.il/he/pages/gan-eden_list_8",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "גן עדן בראשות ישוע ישראל בן דוד",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "ודם",
+      "officialName": "הרשימה המשותפת",
+      "source": "https://www.gov.il/he/pages/hareshima-hameshutefet_list35",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "הרשימה המשותפת",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "ז",
+      "officialName": "בטח – בטחון חברתי בראשות סמיון גרפמן",
+      "source": "https://www.gov.il/he/pages/betach_list25",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "בטח – בטחון חברתי בראשות סמיון גרפמן",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "זך",
+      "officialName": "הציבור החרדי בראשות מוטי ליטנר",
+      "source": "https://www.gov.il/he/pages/tzibur-charedi_list20",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "הציבור החרדי בראשות מוטי ליטנר",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "זץ",
+      "officialName": "ברית עולם לגאולת ישראל",
+      "source": "https://www.gov.il/he/pages/brit-olam_list22",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "ברית עולם לגאולת ישראל",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "ט",
+      "officialName": "הציונות הדתית בראשות בצלאל סמוטריץ' וזהות בראשות משה פייגלין",
+      "source": "https://www.gov.il/he/pages/tzionutdatit-zehut_list31",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "הציונות הדתית בראשות בצלאל סמוטריץ' וזהות בראשות משה פייגלין",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "י",
+      "officialName": "ישראל תחילה בראשות שרן השכל",
+      "source": "https://www.gov.il/he/pages/israel-tchila_list7",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "ישראל תחילה בראשות שרן השכל",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "יק",
+      "officialName": "גה\"ת – גוש התנ\"כי",
+      "source": "https://www.gov.il/he/pages/gush-tanachi_list24",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "גה\"ת – גוש התנ\"כי",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "ך",
+      "officialName": "עמך ישראל בראשות עופר וינטר",
+      "source": "https://www.gov.il/he/pages/amcha-israel_list6",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "עמך ישראל בראשות עופר וינטר",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "כן",
+      "officialName": "כחול לבן בראשות בני גנץ",
+      "source": "https://www.gov.il/he/pages/kachol-lavan_list30",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "כחול לבן בראשות בני גנץ – הרשימה אינה מתמודדת בבחירות לכנסת ה-26",
+      "displayStatus": "excluded-officially-not-contesting"
+    },
+    {
+      "letters": "ל",
+      "officialName": "ישראל ביתנו בראשות אביגדור ליברמן",
+      "source": "https://www.gov.il/he/pages/israel-beitenu_list11",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "ישראל ביתנו בראשות אביגדור ליברמן",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "מחל",
+      "officialName": "הליכוד בהנהגת בנימין נתניהו לראשות הממשלה",
+      "source": "https://www.gov.il/he/pages/halikud-tikvahadasha_iist29",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "הליכוד בהנהגת בנימין נתניהו לראשות הממשלה",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "ני",
+      "officialName": "נעם לישראל למען עתיד הילדים בראשות אבי מעוז",
+      "source": "https://www.gov.il/he/pages/noam_list38",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "נעם לישראל למען עתיד הילדים בראשות אבי מעוז",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "נף",
+      "officialName": "שמע בראשות נפתלי גולדמן",
+      "source": "https://www.gov.il/he/pages/shama",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "שמע בראשות נפתלי גולדמן",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "נץ",
+      "officialName": "ביטחון אישי",
+      "source": "https://www.gov.il/he/pages/demokratura_list27",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "ביטחון אישי",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "נקי",
+      "officialName": "התיקון לשיטת הבחירות והממשל",
+      "source": "https://www.gov.il/he/pages/tikun_list23",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "התיקון לשיטת הבחירות והממשל",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "נר",
+      "officialName": "צבע שחור – מגן עולם התורה",
+      "source": "https://www.gov.il/he/pages/shachor_list28",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "צבע שחור – מגן עולם התורה",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "עם",
+      "officialName": "רע\"ם – הרשימה הערבית המאוחדת",
+      "source": "https://www.gov.il/he/pages/raam_list18",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "רע\"ם – הרשימה הערבית המאוחדת",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "פה",
+      "officialName": "אני ואתה מפלגת העם הישראלית",
+      "source": "https://www.gov.il/he/pages/miflegat-am-israelit_list21",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "אני ואתה מפלגת העם הישראלית",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "צבי",
+      "officialName": "תנועת אחי תנועתו של הרב יורם אברג'ל זצ\"ל",
+      "source": "https://www.gov.il/he/pages/chozrim-leshorashim_list32",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "תנועת אחי תנועתו של הרב יורם אברג'ל זצ\"ל",
+      "displayStatus": "excluded-reported-withdrawal",
+      "withdrawal": {
+        "announced": "2026-10-23",
+        "checked": "2026-10-24",
+        "status": "announced-withdrawal",
+        "source": "https://www.inn.co.il/news/709199",
+        "corroboratingSource": "https://www.mako.co.il/news-politics/2026_q4/Article-88ced11931961a1027.htm",
+        "officialBallotRemovalVerified": false
+      }
+    },
+    {
+      "letters": "צדק",
+      "officialName": "שרשר לאהבה ואחדות העם",
+      "source": "https://www.gov.il/he/pages/sharshar_list3",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "שרשר לאהבה ואחדות העם",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "צף",
+      "officialName": "הפיראטים – צפים לטוב",
+      "source": "https://www.gov.il/he/pages/pirates_list_5",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "הפיראטים – צפים לטוב",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "ק",
+      "officialName": "תקומה",
+      "source": "https://www.gov.il/he/pages/tekuma_list34",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "תקומה",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "קה",
+      "officialName": "קול הנשים",
+      "source": "https://www.gov.il/he/pages/kol-ha-nashim_list9",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "קול הנשים",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "קך",
+      "officialName": "סדר-חדש לכינון חוקה, להפרדת רשויות ולבחירות אישיות",
+      "source": "https://www.gov.il/he/pages/seder-chadash_list15",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "סדר-חדש לכינון חוקה, להפרדת רשויות ולבחירות אישיות",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "קץ",
+      "officialName": "משפט צדק",
+      "source": "https://www.gov.il/he/pages/mishpat-tzedek_list12",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "משפט צדק",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "רץ",
+      "officialName": "הקהל – מפלגה כלל חרדית שנציגיה נבחרים על ידי הציבור בראשות הרב שלמה אלבוים",
+      "source": "https://www.gov.il/he/pages/machane-israel_list36",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "הקהל – מפלגה כלל חרדית שנציגיה נבחרים על ידי הציבור בראשות הרב שלמה אלבוים",
+      "displayStatus": "excluded-reported-withdrawal",
+      "withdrawal": {
+        "announced": "2026-10-23",
+        "checked": "2026-10-24",
+        "status": "reported-withdrawal",
+        "source": "https://www.kikar.co.il/political-news/hakahal-party-withdraws-from-elections",
+        "corroboratingSource": "https://www.skarim.org/news/daily/2026-10-23",
+        "officialBallotRemovalVerified": false
+      }
+    },
+    {
+      "letters": "רק",
+      "officialName": "ביחד בראשות נפתלי בנט",
+      "source": "https://www.gov.il/he/pages/beyahad_list1",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "ביחד בראשות נפתלי בנט",
+      "displayStatus": "active"
+    },
+    {
+      "letters": "שס",
+      "officialName": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+      "source": "https://www.gov.il/he/pages/shas_list19",
+      "nameMatches": true,
+      "lettersMatch": true,
+      "officialRegisterNote": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+      "displayStatus": "active"
+    }
+  ]
+}
