@@ -38,6 +38,12 @@ for(const lang of ['ar','en']){
  assert(!nodes['#blog-link']?.href,'Unpublished article must not be promoted');
  assert.equal(nodes['#hero-static'].textContent,lang==='ar'?'دوركِ. الأوراق على الطاولة.':'Your turn. Cards on the table.');
 }
+assert(!text.includes('id="coalition-context"')&&!text.includes('id="coalition-sort"'),'Remove remote colour and sorting controls');
+assert(!text.includes('id="coalition-legend"'),'Do not leave an unused colour key');
+vm.runInContext("coalitionFocus='off';coalitionSelected=new Set(['מחל','אמת']);renderScenario()",ctx);
+assert(nodes['#coalition-warnings'].innerHTML.includes('<li'),'Netanyahu-related checked evidence must follow the selected lists independently of removed controls');
+vm.runInContext("coalitionSelected=new Set(['מחל']);renderScenario()",ctx);
+assert(!nodes['#coalition-warnings'].innerHTML.includes('<li'),'A refusal requires both selected sides');
 const translations=JSON.parse(fs.readFileSync('outputs/party-translations.json','utf8'));
 assert(!text.includes('<select id="coalition-context"'),'Reference picker must use buttons');
 assert(!text.includes('<select id="coalition-preset"'),'Scenario examples must use buttons');
