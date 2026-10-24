@@ -7,8 +7,15 @@ const doc={documentElement:{},querySelector:s=>nodes[s]??=node(),getElementById:
 const win={addEventListener(){}};const ctx={document:doc,window:win,parent:win,URL,URLSearchParams,setTimeout(){},clearTimeout(){},setInterval(){},clearInterval(){},console};
 vm.createContext(ctx);vm.runInContext(code,ctx);
 assert.equal((nodes['#cards'].innerHTML.match(/<article class="card"/g)||[]).length,15,'Default overview includes all 15 reported lists');
+const initial=nodes['#cards'].innerHTML;
+assert.equal((initial.match(/data-poll="projected"/g)||[]).length,11);
+assert.equal((initial.match(/data-poll="below"/g)||[]).length,4);
+assert(initial.indexOf('id="poll-group-below"')>initial.lastIndexOf('data-poll="projected"'));
+assert(initial.indexOf('id="poll-group-below"')<initial.indexOf('data-poll="below"'));
 nodes['#search'].value='צף';vm.runInContext('filter()',ctx);
 assert(nodes['#cards'].innerHTML.includes('pirates_list_5'),'Search includes lists outside quick view');
+assert(!nodes['#cards'].innerHTML.includes('data-poll-group='),'Search results must not have misleading group counts');
+assert(nodes['#poll-group-jumps'].hidden);
 nodes['#search'].value='';vm.runInContext("viewMode='all'",ctx);
 for(const lang of ['ar','en']){
  vm.runInContext(`lang='${lang}';render()`,ctx);
