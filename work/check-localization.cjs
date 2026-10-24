@@ -15,6 +15,9 @@ for(const lang of ['ar','en']){
  assert(nodes['#withdrawal-update'].innerHTML.includes('https://www.inn.co.il/news/709199'));
  assert(!nodes['#cards'].innerHTML.includes('id="chozrim-leshorashim_list32"'),'Withdrawn Ahi must not be active');
  assert(!nodes['#cards'].innerHTML.includes('role="tab"'),'Incomplete categories must not appear on cards');
+ assert(!nodes['#cards'].innerHTML.includes('Unofficial reading aid'),'Remove redundant reading-aid label');
+ assert(!nodes['#cards'].innerHTML.includes('Official list details checked'),'Use shorter date label');
+ if(lang==='en')assert.equal((nodes['#cards'].innerHTML.match(/Last update:/g)||[]).length,35);
  assert.equal((nodes['#cards'].innerHTML.match(/role="region"/g)||[]).length,35);
  const checks=vm.runInContext(`active.map(p=>({id:p.id,letters:p.letters,description:PARTY_TRANSLATIONS.descriptions[p.letters][lang],name:aliases[p.letters][lang==='ar'?1:0]}))`,ctx);
  for(const p of checks){
