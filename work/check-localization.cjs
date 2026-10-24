@@ -27,6 +27,14 @@ for(const lang of ['ar','en']){
  assert.equal(nodes['#hero-static'].textContent,lang==='ar'?'دورك.':'Your turn.');
 }
 const translations=JSON.parse(fs.readFileSync('outputs/party-translations.json','utf8'));
+assert(!text.includes('<details class="coalition-tools" open>'),'Coalition controls should start collapsed');
+for(const language of ['he','ar','en','ru','am']){
+ vm.runInContext(`lang='${language}';coalitionFocus='leader:netanyahu'`,ctx);
+ const badges=vm.runInContext('active.map(p=>({status:relation(p).status,html:coalitionBadge(p)}))',ctx);
+ assert(badges.some(b=>b.status==='unknown'));
+ assert(badges.some(b=>b.html.includes('data-stance="refuse"')),'Sourced refusal must remain available');
+ for(const b of badges)if(b.status==='unknown')assert.equal(b.html,'','Missing evidence must not produce a badge');
+}
 assert.equal(Object.keys(translations.descriptions).length,37);
 assert.equal(Object.keys(translations.policySources).length,9);
 const data=JSON.parse(fs.readFileSync('outputs/party-card-data.json','utf8'));
