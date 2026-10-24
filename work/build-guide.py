@@ -24,6 +24,9 @@ policies=json.loads(Path('work/audited-policy-data.json').read_text(encoding='ut
 data={'checked':'2026-10-23','sourceUpdated':'2026-10-22','source':'https://www.gov.il/he/pages/candidates-lists-26','ballots':'https://www.gov.il/he/pages/candidates-lists-26?chapterIndex=2','profiles':profiles,'policies':policies}
 (base/'party-card-data.json').write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
 template=Path('work/guide-shell.html').read_text(encoding='utf-8')
+translation_file=Path('outputs/party-translations.json')
+if translation_file.exists():
+    template=re.sub(r'const PARTY_TRANSLATIONS=.*?;\nconst localeUi=',lambda _: 'const PARTY_TRANSLATIONS='+json.dumps(json.loads(translation_file.read_text(encoding='utf-8')),ensure_ascii=False)+';\nconst localeUi=',template,count=1,flags=re.S)
 template=template.replace('/*IDENTITY_DATA*/','const PARTY_IDENTITIES='+json.dumps(json.loads(Path('outputs/party-identity-badges.json').read_text(encoding='utf-8'))['records'],ensure_ascii=False)+';')
 template=template.replace('/*COALITION_DATA*/','const COALITION='+json.dumps(json.loads(Path('outputs/coalition-statements.json').read_text(encoding='utf-8')),ensure_ascii=False)+';')
 template=template.replace('/*COPY*/',copy).replace('/*DATA*/','const DATA='+json.dumps(data,ensure_ascii=False)+';')

@@ -41,3 +41,13 @@ Read PROJECT-STATEMENTS.html. AI was used extensively, including in source compa
 ## Contributions
 
 Every factual change needs a direct source, source date when available and a checked date. Keep proposals, actions and measured outcomes distinct. Record political refusals by speaker, direction, scope, date and conditions; distinguish a person from a party, nomination from coalition membership and outside support from joining a government. Do not infer personal religion from a party label. Mark missing evidence instead of filling it with guesses. Native editors should review translations. No vote recommendations or party rankings should be introduced into factual summaries.
+
+## Languages and translation review
+
+Arabic was reviewed first, followed by English. The guide includes localized list reading aids, all 37 submitting-party descriptions, nine policy-source notes, all 27 available policy summaries, coalition controls and statements, identity badges, sharing text, accessibility labels and project notices. Official Hebrew names, ballot letters and candidate spelling are deliberately retained for identification; reading aids are unofficial.
+
+`outputs/party-translations.json` holds the original editorial translations of the 37 register descriptions and source notes. The build injects this file into the guide; no network fetch is needed at runtime. `outputs/torekh-blog-localized.html` contains the three-language blog body, with native-language links and language-aware Arabic, English and Hebrew views. `outputs/blog-translations.json` records the native article titles and source notes. Odoo also stores the localized article title, subtitle and metadata separately.
+
+Run `node work/check-localization.cjs` to check the Arabic and English card panels and source notes. Translations remain AI-assisted editorial drafts pending fluent human review. Proper names may have multiple accepted transliterations; verify against original sources.
+
+The native Odoo source directory and language bridge are maintained on the live site; the repository's self-contained guide is independently rebuildable. Publication to Odoo is a separate, deliberate step and is not automated by this repository.
