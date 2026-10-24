@@ -1,0 +1,213 @@
+{
+  "en": {
+    "intro": "{count} cards to explore. Each card represents a party or an alliance running together on one candidate list.",
+    "labels": {
+      "banner": "Public beta · Under review · Official names and ballot letters checked · Policy review is partial",
+      "search": "Search cards by name, ballot letters or candidate",
+      "count": "cards",
+      "tabs": [
+        "About this card",
+        "Promises",
+        "Actions",
+        "Outcomes"
+      ],
+      "officialAll": "Official candidate lists — Elections Committee",
+      "shareTitle": "Torekh — party and alliance cards",
+      "method": "The poll view groups cards by whether their parties or alliances are projected to win seats in that poll. Within each group—and in “All 35 cards”—cards follow official ballot-letter order. Hebrew names and ballot letters are kept for identification. We do not recommend a vote."
+    },
+    "locale": {
+      "cards": "Party and alliance cards",
+      "pageTitle": "Torekh — party cards and ballot letters"
+    },
+    "views": {
+      "all": "All 35 cards",
+      "explanation": "These 15 cards cover the parties and alliances with figures in N12’s 23 Oct poll: 11 were projected to win seats, and four polled below the 3.25% threshold for entering the Knesset. All are still running. Choose “All 35 cards” to explore every option. Search always checks all 35 cards.",
+      "allExplanation": "The full deck contains 35 cards—one for every active voting option. Each represents a party or alliance. Cards follow official ballot-letter order. Search by name, ballot letters or candidate. Poll figures appear only where the source published them.",
+      "searchExplanation": "Search checks all 35 cards, including those outside the poll view. Clear the search to return to your chosen view."
+    },
+    "poll": {
+      "legend": "Numbers are projected seats in this poll, out of 120. 0 means the party or alliance polled below the 3.25% threshold, not zero support. — means no separate figure was published. In “All 35 cards”, cards follow official ballot-letter order."
+    },
+    "groups": {
+      "projected": "With seats projected in this poll",
+      "belowNote": "These parties and alliances are still running. This poll projects no seats for them; election results may differ."
+    },
+    "scenario": "Choose cards to total the seats projected for their parties or alliances in the 23 Oct poll. Open “Sources and limits” for checked refusals and conditions. This is an illustration, not a prediction or an agreed coalition.",
+    "scenarioFields": {
+      "custom": "Choose cards yourself",
+      "unknown": "Selected cards with no published poll figure",
+      "zero": "Selected cards below threshold in this poll",
+      "disclaimer": "For this calculation, every selected card represents a party or alliance joining the government. Outside support and negotiations are not modeled. Figures come from the 23 Oct N12 poll. Reaching 61 seats does not establish an agreed or feasible government.",
+      "none": "No refusal is recorded among your selections in this partial dataset. That does not establish willingness to work together."
+    },
+    "coverage": "All 35 cards have short introductions in Hebrew, Arabic and English, with sources on the back. Older information and gaps are identified. Russian and Amharic introductions currently appear in English. Translations are AI-assisted drafts awaiting fluent human review."
+  },
+  "he": {
+    "intro": "{count} קלפים להכיר. כל קלף מייצג מפלגה או ברית מפלגות שמתמודדות יחד ברשימת מועמדים אחת.",
+    "labels": {
+      "banner": "גרסה ראשונית · בבדיקה · שמות רשמיים ואותיות פתקים נבדקו · סקירת המדיניות חלקית",
+      "search": "חפשי קלף לפי שם, אותיות הפתק או מועמד/ת",
+      "count": "קלפים",
+      "tabs": [
+        "על הקלף",
+        "הבטחות",
+        "פעולות",
+        "תוצאות"
+      ],
+      "officialAll": "רשימות מועמדים רשמיות — ועדת הבחירות",
+      "shareTitle": "תורך — קלפי המפלגות והבריתות",
+      "method": "בתצוגת הסקר הקלפים מחולקים לפי השאלה אם המפלגות או הבריתות שהם מייצגים צפויות לקבל מנדטים בסקר הזה. בתוך כל קבוצה, וגם בתצוגת ״כל 35 הקלפים״, הסדר הוא סדר אותיות הפתקים הרשמי. השמות ואותיות הפתקים נשמרים בעברית לצורך זיהוי. אין כאן המלצת הצבעה."
+    },
+    "locale": {
+      "cards": "קלפי המפלגות והבריתות",
+      "pageTitle": "תורך — קלפי מפלגות ואותיות פתקים"
+    },
+    "views": {
+      "all": "כל 35 הקלפים",
+      "explanation": "15 הקלפים כאן מייצגים מפלגות ובריתות שפורסמו עבורן נתונים בסקר חדשות 12 מ־23.10: 11 קיבלו מנדטים בסקר, וארבע היו מתחת לרף הכניסה לכנסת — 3.25% מהקולות הכשרים. כולן עדיין מתמודדות. בחרי ״כל 35 הקלפים״ כדי לראות את כל האפשרויות. החיפוש תמיד כולל את כל 35 הקלפים.",
+      "allExplanation": "בחפיסה המלאה יש 35 קלפים — אחד לכל אפשרות הצבעה פעילה. כל קלף מייצג מפלגה או ברית מפלגות. הקלפים מסודרים לפי סדר אותיות הפתקים הרשמי. אפשר לחפש לפי שם, אותיות הפתק או מועמד/ת. נתוני סקר מופיעים רק כשהמקור פרסם אותם.",
+      "searchExplanation": "החיפוש כולל את כל 35 הקלפים, גם מחוץ לתצוגת הסקר. נקי את החיפוש כדי לחזור לתצוגה שבחרת."
+    },
+    "poll": {
+      "legend": "המספרים הם מנדטים צפויים בסקר זה, מתוך 120. 0 פירושו שהמפלגה או הברית היו מתחת לאחוז החסימה, 3.25%, ולא אפס תמיכה. — פירושו שלא פורסם נתון נפרד. בתצוגת ״כל 35 הקלפים״, הסדר הוא סדר אותיות הפתקים הרשמי."
+    },
+    "groups": {
+      "projected": "עם מנדטים צפויים בסקר הזה",
+      "belowNote": "המפלגות והבריתות האלה עדיין מתמודדות. הסקר אינו צופה להן מנדטים; תוצאות הבחירות עשויות להיות שונות."
+    },
+    "scenario": "בחרי קלפים כדי לחבר את המנדטים הצפויים למפלגות או לבריתות שהם מייצגים בסקר 23.10. ב״מקורות ומגבלות״ תמצאי סירובים ותנאים שנבדקו. זו המחשה, לא תחזית או קואליציה מוסכמת.",
+    "scenarioFields": {
+      "custom": "בחרי קלפים בעצמך",
+      "unknown": "קלפים שנבחרו ללא נתון שפורסם בסקר",
+      "zero": "קלפים שנבחרו מתחת לאחוז החסימה בסקר הזה",
+      "disclaimer": "לצורך החישוב, כל קלף שנבחר מייצג מפלגה או ברית שמצטרפת לממשלה. תמיכה מבחוץ ומשא ומתן אינם נכללים במודל. המספרים מגיעים מסקר חדשות 12 מ־23.10. הגעה ל־61 מנדטים אינה מעידה על ממשלה מוסכמת או אפשרית.",
+      "none": "במאגר החלקי הזה לא מתועד סירוב בין האפשרויות שבחרת. אין בכך הוכחה לנכונות לעבוד יחד."
+    },
+    "coverage": "לכל 35 הקלפים יש תקציר בעברית, בערבית ובאנגלית, עם מקורות בגב הקלף. מידע ישן ופערי מידע מצוינים במפורש. התקצירים ברוסית ובאמהרית מוצגים כעת באנגלית. התרגומים הם טיוטות בסיוע בינה מלאכותית, הממתינות לבדיקת דוברות ודוברים שוטפים."
+  },
+  "ar": {
+    "intro": "{count} بطاقة لتتعرّفي إليها. تمثّل كل بطاقة حزبًا أو تحالف أحزاب يخوض الانتخابات معًا ضمن قائمة مرشحين واحدة.",
+    "labels": {
+      "banner": "نسخة تجريبية عامة · قيد المراجعة · جرى التحقق من الأسماء الرسمية وحروف الاقتراع · مراجعة البرامج جزئية",
+      "search": "ابحثي عن بطاقة بالاسم أو حروف الاقتراع أو اسم مرشح أو مرشحة",
+      "count": "بطاقة",
+      "tabs": [
+        "عن هذه البطاقة",
+        "الوعود",
+        "الإجراءات",
+        "النتائج"
+      ],
+      "officialAll": "قوائم المرشحين الرسمية — لجنة الانتخابات",
+      "shareTitle": "دورك — بطاقات الأحزاب والتحالفات",
+      "method": "تجمع واجهة الاستطلاع البطاقات بحسب توقّع حصول الأحزاب أو التحالفات التي تمثّلها على مقاعد في ذلك الاستطلاع. داخل كل مجموعة، وفي واجهة «البطاقات الـ35»، تتبع البطاقات الترتيب الرسمي لحروف الاقتراع. نحتفظ بالأسماء والحروف بالعبرية للتعرّف على ورقة الاقتراع. لا نقدّم توصية بالتصويت."
+    },
+    "locale": {
+      "cards": "بطاقات الأحزاب والتحالفات",
+      "pageTitle": "دورك — بطاقات الأحزاب وحروف الاقتراع"
+    },
+    "views": {
+      "all": "البطاقات الـ35",
+      "explanation": "تمثّل هذه البطاقات الـ15 الأحزاب والتحالفات التي نُشرت لها أرقام في استطلاع أخبار 12 بتاريخ 23 أكتوبر: توقّع الاستطلاع مقاعد لـ11 منها، وأربع كانت دون نسبة 3.25% اللازمة لدخول الكنيست. جميعها ما زالت تخوض الانتخابات. اختاري «البطاقات الـ35» لكل الخيارات. يشمل البحث البطاقات الـ35 دائمًا.",
+      "allExplanation": "تضم المجموعة الكاملة 35 بطاقة، واحدة لكل خيار انتخابي نشط. تمثّل كل بطاقة حزبًا أو تحالفًا. تتبع البطاقات الترتيب الرسمي لحروف الاقتراع. ابحثي بالاسم أو حروف الاقتراع أو اسم مرشح أو مرشحة. تظهر أرقام الاستطلاع فقط حين نشرها المصدر.",
+      "searchExplanation": "يشمل البحث البطاقات الـ35، بما فيها البطاقات خارج واجهة الاستطلاع. امسحي البحث للعودة إلى الواجهة التي اخترتها."
+    },
+    "poll": {
+      "legend": "الأرقام هي المقاعد المتوقعة في هذا الاستطلاع من أصل 120. يعني 0 أن الحزب أو التحالف كان دون نسبة الحسم البالغة 3.25%، وليس انعدام الدعم. تعني — عدم نشر رقم منفصل. في واجهة «البطاقات الـ35»، تتبع البطاقات الترتيب الرسمي لحروف الاقتراع."
+    },
+    "groups": {
+      "projected": "يتوقع لها الاستطلاع مقاعد",
+      "belowNote": "هذه الأحزاب والتحالفات ما زالت تخوض الانتخابات. لا يتوقع لها هذا الاستطلاع مقاعد؛ قد تختلف نتائج الانتخابات."
+    },
+    "scenario": "اختاري بطاقات لجمع المقاعد المتوقعة لأحزابها أو تحالفاتها في استطلاع 23 أكتوبر. افتحي «المصادر والحدود» للاطلاع على الرفض والشروط المتحقق منها. هذا مثال توضيحي، وليس توقعًا أو ائتلافًا متفقًا عليه.",
+    "scenarioFields": {
+      "custom": "اختاري البطاقات بنفسك",
+      "unknown": "بطاقات مختارة لم يُنشر لها رقم في الاستطلاع",
+      "zero": "بطاقات مختارة دون نسبة الحسم في هذا الاستطلاع",
+      "disclaimer": "يفترض هذا الحساب أن كل بطاقة مختارة تمثّل حزبًا أو تحالفًا ينضم إلى الحكومة. لا يشمل النموذج الدعم من خارج الحكومة أو المفاوضات. الأرقام من استطلاع أخبار 12 بتاريخ 23 أكتوبر. بلوغ 61 مقعدًا لا يثبت وجود حكومة متفق عليها أو ممكنة.",
+      "none": "لا يوثّق هذا الجزء من البيانات رفضًا بين اختياراتك. هذا لا يثبت الاستعداد للعمل معًا."
+    },
+    "coverage": "لجميع البطاقات الـ35 تعريفات قصيرة بالعبرية والعربية والإنجليزية، ومصادر مرتبطة على ظهر البطاقة. نوضّح المعلومات القديمة والفجوات. تظهر التعريفات حاليًا بالإنجليزية في الواجهتين الروسية والأمهرية. الترجمات مسودات بمساعدة الذكاء الاصطناعي تنتظر مراجعة متحدثين متمكنين."
+  },
+  "ru": {
+    "intro": "{count} карточек для знакомства. Каждая представляет партию или союз партий, участвующих вместе с одним списком кандидатов.",
+    "labels": {
+      "search": "Поиск карточек по названию, буквам бюллетеня или кандидату",
+      "count": "карточек",
+      "tabs": [
+        "Об этой карточке",
+        "Обещания",
+        "Действия",
+        "Результаты"
+      ],
+      "officialAll": "Официальные списки кандидатов — Избирательная комиссия",
+      "shareTitle": "Торех — карточки партий и союзов",
+      "method": "Карточки в опросе сгруппированы по прогнозу мест для представленных партий и союзов. Внутри групп и в разделе «Все 35 карточек» сохранён официальный порядок букв бюллетеней. Официальные названия и буквы остаются на иврите. Мы не рекомендуем, за кого голосовать."
+    },
+    "locale": {
+      "cards": "Карточки партий и союзов",
+      "pageTitle": "Торех — карточки партий и буквы бюллетеней"
+    },
+    "views": {
+      "all": "Все 35 карточек",
+      "explanation": "Эти 15 карточек представляют партии и союзы с показателями в опросе N12 от 23 октября: 11 получили прогноз мест, четыре оказались ниже необходимых для входа в Кнессет 3,25% голосов. Все продолжают участвовать в выборах. «Все 35 карточек» открывает каждый вариант; поиск всегда охватывает все 35.",
+      "allExplanation": "Полная колода содержит 35 карточек — по одной на каждый участвующий вариант: партию или союз. Сохранён официальный порядок букв бюллетеней. Ищите по названию, буквам или кандидату. Показатели опроса приведены только там, где источник их опубликовал.",
+      "searchExplanation": "Поиск охватывает все 35 карточек, включая отсутствующие в опросе. Очистите поиск, чтобы вернуться к выбранному виду."
+    },
+    "poll": {
+      "legend": "Числа — прогноз мест в этом опросе из 120. 0 означает результат ниже барьера 3,25%, а не отсутствие поддержки. — означает, что отдельный показатель не опубликован. В разделе «Все 35 карточек» сохранён официальный порядок букв бюллетеней."
+    },
+    "groups": {
+      "projected": "С прогнозом мест в этом опросе",
+      "belowNote": "Эти партии и союзы продолжают участвовать. Опрос не прогнозирует им мест; результаты выборов могут отличаться."
+    },
+    "scenario": "Выбирайте карточки, чтобы сложить прогноз мест для их партий или союзов в опросе от 23 октября. В разделе «Sources and limits» показаны проверенные отказы и условия. Это иллюстрация, а не прогноз коалиции.",
+    "scenarioFields": {
+      "custom": "Выберите карточки",
+      "unknown": "Карточки без опубликованного показателя",
+      "zero": "Выбранные карточки ниже барьера в этом опросе"
+    },
+    "coverage": "Для всех 35 карточек есть краткие описания на иврите, арабском и английском со ссылками на обороте. Старые сведения и пробелы отмечены. В русском и амхарском интерфейсах описания пока на английском. Переводы подготовлены с ИИ и ожидают проверки носителями языка."
+  },
+  "am": {
+    "intro": "ለማየት {count} ካርዶች አሉ። እያንዳንዱ ካርድ በአንድ የእጩዎች ዝርዝር የሚወዳደር ፓርቲ ወይም የፓርቲዎች ጥምረት ይወክላል።",
+    "labels": {
+      "search": "ካርዶችን በስም፣ በድምፅ መስጫ ፊደል ወይም በእጩ ስም ፈልጊ",
+      "count": "ካርዶች",
+      "tabs": [
+        "ስለዚህ ካርድ",
+        "ተስፋዎች",
+        "እርምጃዎች",
+        "ውጤቶች"
+      ],
+      "officialAll": "Official candidate lists — Elections Committee",
+      "shareTitle": "Torekh — party and alliance cards",
+      "method": "Each card represents a party or an alliance running together on one candidate list. Cards follow ballot-letter order within each poll group and in “All 35 cards”. Official Hebrew names and ballot letters are kept for identification. No voting recommendation. English explanation; Amharic review pending."
+    },
+    "locale": {
+      "cards": "የፓርቲዎች እና የጥምረቶች ካርዶች",
+      "pageTitle": "ቶረክ — የፓርቲ ካርዶች እና የድምፅ መስጫ ፊደሎች"
+    },
+    "views": {
+      "all": "ሁሉም 35 ካርዶች",
+      "explanation": "These 15 cards cover the parties and alliances with figures in N12’s 23 Oct poll: 11 were projected to win seats, and four polled below the 3.25% threshold for entering the Knesset. All are still running. Choose “All 35 cards” to explore every option. Search always checks all 35 cards. English; Amharic translation pending.",
+      "allExplanation": "The full deck contains 35 cards—one for every active voting option. Each represents a party or alliance. Cards follow official ballot-letter order. Search by name, ballot letters or candidate. Poll figures appear only where the source published them. English; Amharic review pending.",
+      "searchExplanation": "Search checks all 35 cards, including those outside the poll view. Clear the search to return to your chosen view. English; Amharic review pending."
+    },
+    "coverage": "All 35 cards have introductions in Hebrew, Arabic and English, with sources on the back. Historical information and gaps are identified. Amharic introductions currently use English. Translations await fluent human review.",
+    "poll": {
+      "legend": "Numbers are projected seats in this poll, out of 120. 0 means the party or alliance polled below the 3.25% threshold, not zero support. — means no separate figure was published. In “All 35 cards”, cards follow official ballot-letter order. English; Amharic translation pending."
+    },
+    "groups": {
+      "projected": "With seats projected in this poll",
+      "belowNote": "These parties and alliances are still running. This poll projects no seats for them; election results may differ. English; Amharic translation pending."
+    },
+    "scenarioFields": {
+      "custom": "Choose cards yourself",
+      "unknown": "Selected cards with no published poll figure",
+      "zero": "Selected cards below threshold in this poll",
+      "disclaimer": "For this calculation, every selected card represents a party or alliance joining the government. Outside support and negotiations are not modeled. Figures come from the 23 Oct N12 poll. Reaching 61 seats does not establish an agreed or feasible government. English; Amharic translation pending.",
+      "none": "No refusal is recorded among your selections in this partial dataset. That does not establish willingness to work together. English; Amharic translation pending."
+    },
+    "scenario": "Choose cards to total the seats projected for their parties or alliances in the 23 Oct poll. Open “Sources and limits” for checked refusals and conditions. This is an illustration, not a prediction or an agreed coalition. English; Amharic translation pending."
+  }
+}

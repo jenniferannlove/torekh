@@ -31,6 +31,8 @@ if translation_file.exists():
     template=re.sub(r'const PARTY_TRANSLATIONS=.*?;\nconst localeUi=',lambda _: 'const PARTY_TRANSLATIONS='+json.dumps(json.loads(translation_file.read_text(encoding='utf-8')),ensure_ascii=False)+';\nconst localeUi=',template,count=1,flags=re.S)
 template=template.replace('/*INTRODUCTION_DATA*/','const PARTY_INTRODUCTIONS='+json.dumps(json.loads(Path('outputs/party-introductions.json').read_text(encoding='utf-8'))['records'],ensure_ascii=False)+';')
 
+template=template.replace('/*READER_LANGUAGE*/','const READER_LANGUAGE='+json.dumps(json.loads(Path('outputs/reader-language.json').read_text(encoding='utf-8')),ensure_ascii=False)+';')
+
 template=template.replace('/*IDENTITY_DATA*/','const PARTY_IDENTITIES='+json.dumps(json.loads(Path('outputs/party-identity-badges.json').read_text(encoding='utf-8'))['records'],ensure_ascii=False)+';')
 template=template.replace('/*COALITION_DATA*/','const COALITION='+json.dumps(json.loads(Path('outputs/coalition-statements.json').read_text(encoding='utf-8')),ensure_ascii=False)+';')
 template=template.replace('/*COPY*/',copy).replace('/*DATA*/','const DATA='+json.dumps(data,ensure_ascii=False)+';')
