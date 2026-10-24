@@ -67,3 +67,9 @@ The [first-time voter page](https://www.torekh.org/en/what-to-expect) is a strai
 ## Voting illustrations
 
 The What to expect page includes a conceptual pencil-style preview of a privacy booth, ballot-slip organizer and ballot box. Built-in AI image generation produced the artwork; Odoo’s image editor prepared small transparent WebP versions. `outputs/torekh-voting-illustration-assets.json` embeds those mobile assets so the page can be rebuilt without fetching images. The adjacent copy and prompt JSON files preserve descriptions, accessible alternative text, provenance and generation prompts. The six letter examples are a selection, not a complete ballot display. No list is highlighted. The artwork is not an official ballot reproduction or complete voting instructions.
+
+## Party introductions and browsing
+
+All 35 active lists have concise original introductions in Hebrew, Arabic and English. `outputs/party-introductions.json` records each summary, linked sources, review date and evidence limitations. Older programmes are identified in the visible text; missing current programmes are not inferred from party names. Russian and Amharic interfaces use a labelled English fallback for these introductions. Translations await fluent human review.
+
+Introductions appear on card fronts and backs. The back links to sources and keeps the original submitting-party description under “Official registration.” The default quick overview includes all 15 active lists with a seat or percentage figure in the N12 / Midgam poll published 23 October 2026, including four below threshold. “All 35 lists” restores the complete directory. Searching always covers all active lists, and the scenario builder retains all 35. These views are not recommendations or predictions of electoral success.

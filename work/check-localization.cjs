@@ -6,6 +6,10 @@ const node=()=>({style:{},classList:{add(){},remove(){}},value:'',open:false,hid
 const doc={documentElement:{},querySelector:s=>nodes[s]??=node(),getElementById:s=>nodes[s]??=node()};
 const win={addEventListener(){}};const ctx={document:doc,window:win,parent:win,URL,URLSearchParams,setTimeout(){},clearTimeout(){},setInterval(){},clearInterval(){},console};
 vm.createContext(ctx);vm.runInContext(code,ctx);
+assert.equal((nodes['#cards'].innerHTML.match(/<article class="card"/g)||[]).length,15,'Default overview includes all 15 reported lists');
+nodes['#search'].value='צף';vm.runInContext('filter()',ctx);
+assert(nodes['#cards'].innerHTML.includes('pirates_list_5'),'Search includes lists outside quick view');
+nodes['#search'].value='';vm.runInContext("viewMode='all'",ctx);
 for(const lang of ['ar','en']){
  vm.runInContext(`lang='${lang}';render()`,ctx);
  assert.equal(doc.documentElement.dir,lang==='ar'?'rtl':'ltr');
@@ -26,6 +30,7 @@ for(const lang of ['ar','en']){
    vm.runInContext(`panel(${JSON.stringify(p.id)},${n})`,ctx);
    const html=nodes[p.id].panel.innerHTML;
    assert(html.length>30,'Empty panel');
+   assert(html.includes('party-intro')&&html.includes('intro-sources')&&html.includes('registration'),'Introduction, sources and original registration must be available');
    if(n===0) assert(html.includes(p.description.replaceAll('&','&amp;').replaceAll("'",'&#39;')), 'Missing translated identity: '+p.letters);
    if(lang==='ar'&&n===1) assert(!html.includes('Read 23 Oct')&&!html.includes('publication date not'), 'English policy metadata leaked');
   }
@@ -65,4 +70,7 @@ assert.equal(vm.runInContext('heroOrder.length',ctx),5);
 vm.runInContext('heroMotion.matches=true;renderHero()',ctx);
 assert.equal(vm.runInContext('heroInterval',ctx),null,'Reduced motion must stop rotation');
 assert.equal(nodes['#hero-pause'].hidden,true);
-console.log('Passed: 70 Arabic/English card backs; 38 official name/letter matches; three sourced exclusions; verification date 24 Oct; coalition, hero and retained research checks passed.');
+const introductions=JSON.parse(fs.readFileSync('outputs/party-introductions.json','utf8')).records;
+assert.equal(Object.keys(introductions).length,35);
+for(const p of data.profiles.filter(p=>p.active))for(const l of ['ar','he','en'])assert(introductions[p.letters][l].length>30);
+console.log('Passed: 35 three-language introductions; quick overview and all-list search; 70 Arabic/English card backs; 38 official name/letter matches; three sourced exclusions; verification date 24 Oct; coalition, hero and retained research checks passed.');

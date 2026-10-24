@@ -1,0 +1,392 @@
+{
+  "checked": "2026-10-24",
+  "note": "Original concise editorial introductions. Priorities describe stated aims, not proven results. Arabic and Hebrew are AI-assisted translations pending fluent human review. Historical or incomplete evidence is identified within each affected introduction. Russian and Amharic currently use a labelled English fallback.",
+  "records": {
+    "אמת": {
+      "en": "A liberal Zionist alliance of Labour and Meretz. Its programme emphasises equal rights, public education and services, and independent democratic institutions.",
+      "he": "איחוד ציוני־ליברלי של העבודה ומרצ. התוכנית מדגישה שוויון זכויות, חינוך ושירותים ציבוריים ומוסדות דמוקרטיים עצמאיים.",
+      "ar": "تحالف صهيوني ليبرالي يضم العمل وميرتس. يركّز برنامجه على المساواة في الحقوق والتعليم والخدمات العامة واستقلال المؤسسات الديمقراطية.",
+      "sources": [
+        "https://democrats.org.il/wp-content/uploads/2026/04/vision0426.pdf",
+        "https://www.gov.il/he/pages/hademokratim_list17"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "ב": {
+      "en": "Itamar Ben Gvir’s party advocates Israeli sovereignty in the West Bank, looser rules of engagement for security forces and a greater role for Jewish law in the courts.",
+      "he": "מפלגתו של איתמר בן גביר תומכת בריבונות ישראלית ביהודה ושומרון, בהקלת הוראות פתיחה באש לכוחות הביטחון ובחיזוק מקומו של המשפט העברי בבתי המשפט.",
+      "ar": "يدعو حزب إيتمار بن غفير إلى السيادة الإسرائيلية في الضفة الغربية وتخفيف قواعد إطلاق النار لقوات الأمن وتعزيز دور الشريعة اليهودية في المحاكم.",
+      "sources": [
+        "https://www.idi.org.il/policy/parties-and-elections/parties/otzma-yehudit/",
+        "https://www.gov.il/he/pages/yehudit-meuhedet_list14"
+      ],
+      "basis": "Background from the Israel Democracy Institute; not a verified comprehensive 2026 platform",
+      "checked": "2026-10-24"
+    },
+    "בד": {
+      "en": "An Arab–Jewish list led by Avi Shaked. It advocates partnership, equal citizenship and social justice, with action against crime in Arab communities.",
+      "he": "רשימה ערבית־יהודית בראשות אבי שקד. תומכת בשותפות, באזרחות שוויונית ובצדק חברתי, לצד מאבק בפשיעה בחברה הערבית.",
+      "ar": "قائمة عربية يهودية برئاسة آفي شاكيد. تدعو إلى الشراكة والمواطنة المتساوية والعدالة الاجتماعية ومكافحة الجريمة في المجتمع العربي.",
+      "sources": [
+        "https://www.yahaad.com/general-5-1",
+        "https://www.gov.il/he/pages/beyachad-natzliah_list10"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "בי": {
+      "en": "A joint list of Tzomet and Beit Israel. Its launch proposals combine socioeconomic priorities with service in the military, police, health or welfare systems.",
+      "he": "רשימה משותפת לצומת ולבית ישראל. הצעותיה בהשקה משלבות נושאים חברתיים־כלכליים ושירות בצבא, במשטרה, בבריאות או ברווחה.",
+      "ar": "قائمة مشتركة لتسومت وبيت يسرائيل. تجمع مقترحاتها عند الإطلاق بين أولويات اجتماعية واقتصادية والخدمة في الجيش أو الشرطة أو منظومتَي الصحة والرفاه.",
+      "sources": [
+        "https://news.walla.co.il/item/3866697",
+        "https://www.gov.il/he/pages/tzomet-beit-israel_list33"
+      ],
+      "basis": "Original reporting of the joint list’s launch",
+      "checked": "2026-10-24"
+    },
+    "בקר": {
+      "en": "A party led by Nissim Luk. Its programme calls for expanded Israeli sovereignty and stronger military action, alongside lower taxes and less regulation.",
+      "he": "מפלגה בראשות ניסים לוק. התוכנית קוראת להרחבת הריבונות הישראלית ולפעולה צבאית תקיפה יותר, לצד הורדת מסים וצמצום רגולציה.",
+      "ar": "حزب برئاسة نسيم لوك. يدعو برنامجه إلى توسيع السيادة الإسرائيلية وتشديد العمل العسكري، إلى جانب خفض الضرائب وتقليل التنظيم الاقتصادي.",
+      "sources": [
+        "https://orothashachar.org.il/",
+        "https://www.gov.il/he/pages/orot_list26"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "ג": {
+      "en": "A Haredi alliance representing religious communities. Its longstanding priorities include Torah study, religious education and the Jewish character of public life.",
+      "he": "ברית חרדית המייצגת קהילות דתיות. בין נושאי הליבה הוותיקים שלה: לימוד תורה, חינוך דתי והצביון היהודי של המרחב הציבורי.",
+      "ar": "تحالف حريدي يمثّل جماعات دينية. تشمل أولوياته المعروفة دراسة التوراة والتعليم الديني والطابع اليهودي للحياة العامة.",
+      "sources": [
+        "https://www.idi.org.il/articles/52609",
+        "https://www.gov.il/he/pages/yahadut-degel_list37"
+      ],
+      "basis": "Historical background; a comprehensive joint 2026 programme was not verified",
+      "checked": "2026-10-24"
+    },
+    "ד": {
+      "en": "Talal al-Krenawi’s list focuses on crime and violence in Arab communities. At its launch, it also opposed home demolitions and corruption in local government.",
+      "he": "רשימתו של טלאל אלקרינאוי מתמקדת בפשיעה ובאלימות בחברה הערבית. בהשקתה הביעה גם התנגדות להריסת בתים ולשחיתות בשלטון המקומי.",
+      "ar": "قائمة طلال القريناوي تركّز على الجريمة والعنف في المجتمع العربي. وأعلنت عند إطلاقها معارضتها لهدم البيوت والفساد في الحكم المحلي.",
+      "sources": [
+        "https://br7news.co.il/he/news/news-1788865786",
+        "https://www.gov.il/he/pages/hashutafut-lekulam_iist"
+      ],
+      "basis": "Original reporting of the list’s launch, 8 September 2026",
+      "checked": "2026-10-24"
+    },
+    "די": {
+      "en": "A joint list of Yoaz Hendel’s Reservists and Yaron Zelekha’s Economic Party. It brings together an emphasis on military or civilian service and economic reform.",
+      "he": "רשימה משותפת למילואימניקים של יועז הנדל ולכלכלית של ירון זליכה. מחברת בין דגש על שירות צבאי או אזרחי לבין רפורמות כלכליות.",
+      "ar": "قائمة مشتركة لحزب الاحتياطيين بقيادة يوعاز هندل والحزب الاقتصادي بقيادة يارون زليخا. تجمع بين التركيز على الخدمة العسكرية أو المدنية والإصلاح الاقتصادي.",
+      "sources": [
+        "https://www.idi.org.il/policy/parties-and-elections/parties/miluimniks/",
+        "https://www.gov.il/he/pages/hamiluimnikim-vehakalkalit_list16"
+      ],
+      "basis": "Background on the alliance and its components; not a complete joint programme",
+      "checked": "2026-10-24"
+    },
+    "דרך": {
+      "en": "Gadi Eisenkot’s party. Its plan emphasises service for all, stronger competition in the economy, an independent judiciary and limits on a prime minister’s time in office.",
+      "he": "מפלגתו של גדי איזנקוט. התוכנית מדגישה שירות לכולם, חיזוק התחרות במשק, מערכת משפט עצמאית והגבלת כהונת ראש הממשלה.",
+      "ar": "حزب غادي آيزنكوت. تركّز خطته على الخدمة للجميع وتعزيز المنافسة الاقتصادية واستقلال القضاء وتحديد مدة تولّي رئاسة الحكومة.",
+      "sources": [
+        "https://yasharwitheisenkot.com/agenda_point/",
+        "https://www.gov.il/he/pages/yashar_list_2"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "ה": {
+      "en": "Yeshua Israel Ben David’s party. Its published principles emphasise peace, justice and freedom, alongside transparent government and public participation.",
+      "he": "מפלגתו של ישוע ישראל בן דוד. עקרונותיה המפורסמים מדגישים שלום, צדק וחירות, לצד שלטון שקוף ושיתוף הציבור.",
+      "ar": "حزب يشوع يسرائيل بن دافيد. تؤكد مبادئه المنشورة السلام والعدل والحرية، إلى جانب شفافية الحكم ومشاركة الجمهور.",
+      "sources": [
+        "https://www.ganeden.org.il/",
+        "https://www.gov.il/he/pages/gan-eden_list_8"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "ודם": {
+      "en": "An alliance of Hadash, Taal and Balad. Its published platform emphasises Arab citizens’ equal rights, a Palestinian state, action against crime and stronger public services.",
+      "he": "איחוד של חד״ש, תע״ל ובל״ד. המצע המפורסם מדגיש שוויון זכויות לאזרחים הערבים, מדינה פלסטינית, מאבק בפשיעה וחיזוק שירותים ציבוריים.",
+      "ar": "تحالف يضم الجبهة والعربية للتغيير والتجمع. يؤكد برنامجه المنشور المساواة في حقوق المواطنين العرب وإقامة دولة فلسطينية ومكافحة الجريمة وتعزيز الخدمات العامة.",
+      "sources": [
+        "https://jointlist.org.il/he/platform/",
+        "https://www.gov.il/he/pages/hareshima-hameshutefet_list35"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "ז": {
+      "en": "Semion Grafman’s list has a socioeconomic focus. Its earlier platform advocates lower taxes and living costs; a revised 2026 platform has not been verified.",
+      "he": "רשימתו של סמיון גרפמן מתמקדת בנושאים חברתיים־כלכליים. מצע קודם מציע הורדת מסים ויוקר מחיה; לא אומתה גרסה מעודכנת ל־2026.",
+      "ar": "قائمة سيميون غرافمان ذات توجه اجتماعي اقتصادي. يدعو برنامجها السابق إلى خفض الضرائب وتكاليف المعيشة؛ لم نتحقق من نسخة محدّثة لعام 2026.",
+      "sources": [
+        "https://www.idi.org.il/media/12269/ביטחון-חברתי-מצע.pdf",
+        "https://www.gov.il/he/pages/betach_list25"
+      ],
+      "basis": "Historical platform from the 2019 election; not verified as a 2026 programme",
+      "checked": "2026-10-24"
+    },
+    "זך": {
+      "en": "A Haredi list led by Moti Leitner. It supports Torah study while proposing service for those not studying, stronger core-subject education and wider employment opportunities.",
+      "he": "רשימה חרדית בראשות מוטי לייטנר. תומכת בלימוד תורה ומציעה שירות למי שאינם לומדים, חיזוק לימודי ליבה והרחבת אפשרויות תעסוקה.",
+      "ar": "قائمة حريدية برئاسة موتي لايتنر. تدعم دراسة التوراة وتقترح الخدمة لمن لا يدرسون، وتعزيز المواد الأساسية وفرص العمل.",
+      "sources": [
+        "https://hatzibur-haharedi.org/",
+        "https://www.gov.il/he/pages/tzibur-charedi_list20"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "זץ": {
+      "en": "Ofer Lifshitz’s party combines a biblical worldview with proposals for a constitution, equal rights and more direct public participation in government.",
+      "he": "מפלגתו של עופר ליפשיץ משלבת תפיסה מקראית עם הצעות לחוקה, לשוויון זכויות ולהשתתפות ישירה יותר של הציבור בשלטון.",
+      "ar": "يجمع حزب عوفر ليفشيتس بين رؤية توراتية ومقترحات لدستور ومساواة في الحقوق ومشاركة مباشرة أوسع للجمهور في الحكم.",
+      "sources": [
+        "https://brit-olam.net/",
+        "https://www.gov.il/he/pages/brit-olam_list22"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "ט": {
+      "en": "A joint list headed by Bezalel Smotrich and Moshe Feiglin, bringing together Religious Zionism and Zehut. Jewish national identity is a central theme of its components.",
+      "he": "רשימה משותפת בראשות בצלאל סמוטריץ׳ ומשה פייגלין, המאחדת את הציונות הדתית וזהות. זהות לאומית יהודית היא נושא מרכזי של מרכיביה.",
+      "ar": "قائمة مشتركة برئاسة بتسلئيل سموتريتش وموشيه فيغلين، تضم الصهيونية الدينية وزيهوت. الهوية القومية اليهودية محور أساسي لدى مكوّناتها.",
+      "sources": [
+        "https://zionutdatit.org.il/en/about/",
+        "https://www.gov.il/he/pages/tzionutdatit-zehut_list31"
+      ],
+      "basis": "Component background; registered alliance checked against the CEC",
+      "checked": "2026-10-24"
+    },
+    "י": {
+      "en": "Sharren Haskel’s list, joined by Ale Yarok. Haskel describes its priorities as security and economic recovery; the alliance also brings Ale Yarok’s focus on cannabis policy.",
+      "he": "רשימתה של שרן השכל, שאליה הצטרפה עלה ירוק. השכל מדגישה ביטחון ושיקום הכלכלה; החיבור כולל גם את העיסוק של עלה ירוק במדיניות הקנאביס.",
+      "ar": "قائمة شارين هسكل التي انضم إليها حزب الورقة الخضراء. تؤكد هسكل الأمن والتعافي الاقتصادي، ويضيف التحالف اهتمام الورقة الخضراء بسياسة القنب.",
+      "sources": [
+        "https://www.ynet.co.il/news/elections2026/article/bjpcwrddge",
+        "https://www.youtube.com/watch?v=r06flTQMEG8",
+        "https://www.gov.il/he/pages/israel-tchila_list7"
+      ],
+      "basis": "Original reporting of the alliance; priorities also stated by Haskel to the Knesset Channel",
+      "checked": "2026-10-24"
+    },
+    "יק": {
+      "en": "A Jewish–Christian list drawing on biblical values. Its earlier platform opposes Palestinian statehood and supports immigration rights for Christian relatives of Jews.",
+      "he": "רשימה יהודית־נוצרית השואבת מערכים מקראיים. מצע קודם מתנגד למדינה פלסטינית ותומך בזכויות עלייה לקרובי משפחה נוצרים של יהודים.",
+      "ar": "قائمة يهودية مسيحية تستند إلى قيم توراتية. يعارض برنامجها السابق الدولة الفلسطينية ويدعم حقوق الهجرة إلى إسرائيل لأقارب اليهود المسيحيين.",
+      "sources": [
+        "https://www.timesofisrael.com/everything-you-need-to-know-tois-guide-to-the-37-parties-that-israelis-can-finally-choose-from/",
+        "https://www.gov.il/he/pages/gush-tanachi_list24"
+      ],
+      "basis": "2026 original reporting describing an earlier platform; not a verified new programme",
+      "checked": "2026-10-24"
+    },
+    "ך": {
+      "en": "Ofer Winter’s party. Its principles call for decisive military action, stronger border communities and service-based benefits, including a Gaza emigration plan it describes as voluntary.",
+      "he": "מפלגתו של עופר וינטר. עקרונותיה קוראים להכרעה צבאית, לחיזוק יישובי הגבול ולהטבות לפי שירות, וכוללים תוכנית להגירה מעזה שהיא מתארת כמרצון.",
+      "ar": "حزب عوفر فينتر. تدعو مبادئه إلى حسم عسكري وتعزيز بلدات الحدود ومزايا مرتبطة بالخدمة، وتشمل خطة هجرة من غزة يصفها الحزب بالطوعية.",
+      "sources": [
+        "https://amchaisrael.co.il/foundations",
+        "https://www.gov.il/he/pages/amcha-israel_list6"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "ל": {
+      "en": "Avigdor Liberman’s party advocates separation of religion and state, civil marriage, service for all and a more competitive economy.",
+      "he": "מפלגתו של אביגדור ליברמן תומכת בהפרדת דת ומדינה, בנישואים אזרחיים, בשירות לכולם ובמשק תחרותי יותר.",
+      "ar": "يدعو حزب أفيغدور ليبرمان إلى فصل الدين عن الدولة والزواج المدني والخدمة للجميع واقتصاد أكثر تنافسية.",
+      "sources": [
+        "https://beytenu.org.il/party-platform/",
+        "https://www.gov.il/he/pages/israel-beitenu_list11"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "מחל": {
+      "en": "Benjamin Netanyahu’s national-liberal party. Its longstanding principles combine Jewish national identity with individual freedoms and a competitive market economy.",
+      "he": "מפלגתו הלאומית־ליברלית של בנימין נתניהו. עקרונותיה הוותיקים משלבים זהות לאומית יהודית, חירויות הפרט וכלכלת שוק תחרותית.",
+      "ar": "حزب بنيامين نتنياهو ذو التوجه القومي الليبرالي. تجمع مبادئه المعروفة بين الهوية القومية اليهودية والحريات الفردية واقتصاد السوق التنافسي.",
+      "sources": [
+        "https://www.idi.org.il/policy/parties-and-elections/parties/likud/",
+        "https://www.gov.il/he/pages/halikud-tikvahadasha_iist29"
+      ],
+      "basis": "Longstanding principles; not a verified comprehensive 2026 platform",
+      "checked": "2026-10-24"
+    },
+    "ני": {
+      "en": "Avi Maoz’s party emphasises Orthodox Jewish identity in state institutions, the Chief Rabbinate and traditional family and education policies.",
+      "he": "מפלגתו של אבי מעוז מדגישה זהות יהודית אורתודוקסית במוסדות המדינה, את הרבנות הראשית ומדיניות משפחה וחינוך מסורתית.",
+      "ar": "يؤكد حزب آفي ماعوز الهوية اليهودية الأرثوذكسية في مؤسسات الدولة ودور الحاخامية الرئيسية والسياسات التقليدية للأسرة والتعليم.",
+      "sources": [
+        "https://www.noamlisrael.org.il/",
+        "https://www.gov.il/he/pages/noam_list38"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "נף": {
+      "en": "Naftali Goldman’s list combines Torah-centred values with housing and economic proposals in an earlier programme. A revised 2026 platform has not been verified.",
+      "he": "רשימתו של נפתלי גולדמן משלבת ערכי תורה עם הצעות לדיור ולכלכלה במצע קודם. לא אומתה גרסה מעודכנת ל־2026.",
+      "ar": "تجمع قائمة نفتالي غولدمان بين قيم تتمحور حول التوراة ومقترحات للسكن والاقتصاد في برنامج سابق. لم نتحقق من نسخة محدّثة لعام 2026.",
+      "sources": [
+        "https://eomzone.com/מצע/",
+        "https://www.gov.il/he/pages/shama"
+      ],
+      "basis": "Historical programme; 2026 revision not verified",
+      "checked": "2026-10-24"
+    },
+    "נץ": {
+      "en": "Michael Topchiashvili’s list focuses on personal safety and crime. In replies supplied to The Petek, it advocates longer prison terms and a court for public officials.",
+      "he": "רשימתו של מיכאל טופצ׳יאשווילי מתמקדת בביטחון אישי ובפשיעה. בתשובות שמסרה לאתר הפתק הציעה עונשי מאסר ארוכים יותר ובית משפט לנבחרי ציבור.",
+      "ar": "تركّز قائمة ميخائيل توبتشياشفيلي على الأمن الشخصي والجريمة. وفي ردود قدّمتها لموقع «هبيتك»، تدعو إلى أحكام سجن أطول ومحكمة للمسؤولين العموميين.",
+      "sources": [
+        "https://www.thepetek.com/party/bitachon-ishi",
+        "https://www.gov.il/he/pages/demokratura_list27"
+      ],
+      "basis": "Party-supplied answers reproduced by The Petek, September–October 2026",
+      "checked": "2026-10-24"
+    },
+    "נקי": {
+      "en": "A party focused on changing how government is chosen. It proposes individual regional elections, professionally selected ministers and voting rights linked to a duty to contribute to the state.",
+      "he": "מפלגה המתמקדת בשינוי שיטת בחירת השלטון. מציעה בחירות אישיות ואזוריות, שרים לפי התאמה מקצועית וזכות הצבעה המותנית בחובת תרומה למדינה.",
+      "ar": "حزب يركّز على تغيير طريقة اختيار الحكم. يقترح انتخابات فردية ومناطقية واختيار الوزراء بحسب الكفاءة المهنية وربط حق التصويت بواجب المساهمة في الدولة.",
+      "sources": [
+        "https://hatikun.org.il/מטרות-התיקון/",
+        "https://www.gov.il/he/pages/tikun_list23"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "נר": {
+      "en": "A Haredi list whose central stated aim is full military-draft exemptions for Torah students, without sanctions. Its candidates include rabbis and religious educators.",
+      "he": "רשימה חרדית שמטרתה המוצהרת המרכזית היא פטור מלא מגיוס ללומדי תורה, ללא סנקציות. בין מועמדיה רבנים ואנשי חינוך תורני.",
+      "ar": "قائمة حريدية هدفها المعلن الأساسي إعفاء طلاب التوراة كليًا من التجنيد دون عقوبات. تضم قائمة مرشحيها حاخامات ومعلّمين دينيين.",
+      "sources": [
+        "https://www.13tv.co.il/item/news/politics/politics/antisemitism-905312375/?pid=71474",
+        "https://www.gov.il/he/pages/shachor_list28"
+      ],
+      "basis": "Original reporting of the party’s stated purpose, August 2026",
+      "checked": "2026-10-24"
+    },
+    "עם": {
+      "en": "An Arab-led list headed by Mansour Abbas, with roots in the Islamic movement. Raam focuses on Arab citizens’ rights and living conditions in Arab communities.",
+      "he": "רשימה בהנהגת מנסור עבאס, ששורשיה בתנועה האסלאמית. רע״ם מתמקדת בזכויות האזרחים הערבים ובתנאי החיים ביישובים הערביים.",
+      "ar": "قائمة بقيادة منصور عباس، ذات جذور في الحركة الإسلامية. تركّز القائمة العربية الموحدة على حقوق المواطنين العرب وتحسين ظروف الحياة في البلدات العربية.",
+      "sources": [
+        "https://www.knesset.tv/מפלגות/36614/",
+        "https://www.gov.il/he/pages/raam_list18"
+      ],
+      "basis": "Background from the Knesset Channel; not a verified comprehensive joint 2026 platform",
+      "checked": "2026-10-24"
+    },
+    "פה": {
+      "en": "Alon Giladi’s list previously contested under the name Ani VeAta. Its available platform is from the 2019 election; a current policy programme has not been verified.",
+      "he": "רשימתו של אלון גלעדי התמודדה בעבר בשם אני ואתה. המצע הזמין הוא מבחירות 2019; לא אומתה תוכנית מדיניות עדכנית.",
+      "ar": "سبق لقائمة ألون غيلادي أن خاضت الانتخابات باسم «أنا وأنت». يعود البرنامج المتاح إلى انتخابات 2019؛ لم نتحقق من برنامج سياسات حالي.",
+      "sources": [
+        "https://en.idi.org.il/media/12495/אני-ואתה-מצע.pdf",
+        "https://www.gov.il/he/pages/miflegat-am-israelit_list21"
+      ],
+      "basis": "Historical document title only; PDF body could not be reliably extracted, so policy claims are omitted",
+      "checked": "2026-10-24"
+    },
+    "צדק": {
+      "en": "Eitan Shvili’s list campaigns under a message of love and unity. A detailed current policy programme has not been verified in the sources checked.",
+      "he": "רשימתו של איתן שבילי מציגה מסר של אהבה ואחדות. לא אומתה תוכנית מדיניות עדכנית ומפורטת במקורות שנבדקו.",
+      "ar": "تطرح قائمة إيتان شفيلي رسالة محبة ووحدة. لم نتحقق من برنامج سياسات حالي ومفصّل في المصادر التي فحصناها.",
+      "sources": [
+        "https://www.mako.co.il/tv-avri_and_sherki/articles/Article-df80d373ebd70a1026.htm",
+        "https://www.gov.il/he/pages/sharshar_list3"
+      ],
+      "basis": "Original interview; limited verified policy detail",
+      "checked": "2026-10-24"
+    },
+    "צף": {
+      "en": "The Pirates promote participatory democracy, transparent decisions, privacy and free expression. Their platform also proposes abolishing the electoral threshold and legalising cannabis.",
+      "he": "הפיראטים מקדמים דמוקרטיה השתתפותית, שקיפות, פרטיות וחופש ביטוי. המצע מציע גם לבטל את אחוז החסימה ולהסדיר קנאביס כחוק.",
+      "ar": "يدعو القراصنة إلى الديمقراطية التشاركية وشفافية القرارات والخصوصية وحرية التعبير. ويقترح برنامجهم إلغاء نسبة الحسم وتقنين القنب.",
+      "sources": [
+        "https://piratim.org/wiki/matza/",
+        "https://www.gov.il/he/pages/pirates_list_5"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "ק": {
+      "en": "Elkana Federman’s party emphasises military action, settlement and Israeli sovereignty. He has called for dismantling the Oslo framework and the Palestinian Authority.",
+      "he": "מפלגתו של אלקנה פדרמן מדגישה פעולה צבאית, התיישבות וריבונות ישראלית. פדרמן קרא לביטול מסגרת אוסלו ולפירוק הרשות הפלסטינית.",
+      "ar": "يؤكد حزب إلكانا فيدرمان العمل العسكري والاستيطان والسيادة الإسرائيلية. ودعا فيدرمان إلى إلغاء إطار أوسلو وتفكيك السلطة الفلسطينية.",
+      "sources": [
+        "https://www.israelhayom.co.il/news/geopolitics/article/21328137?amp=1",
+        "https://www.gov.il/he/pages/tekuma_list34"
+      ],
+      "basis": "Original reporting and leader’s public statements, August 2026",
+      "checked": "2026-10-24"
+    },
+    "קה": {
+      "en": "A list headed by Amir Israel Shadmi. Its current policy programme has not been verified; its name alone does not establish its position on women’s rights.",
+      "he": "רשימה בראשות אמיר ישראל שדמי. תוכנית המדיניות העדכנית שלה לא אומתה; שם הרשימה כשלעצמו אינו מעיד על עמדתה בנוגע לזכויות נשים.",
+      "ar": "قائمة برئاسة أمير يسرائيل شادمي. لم نتحقق من برنامج سياساتها الحالي؛ اسم القائمة وحده لا يثبت موقفها من حقوق النساء.",
+      "sources": [
+        "https://www.gov.il/he/pages/candidates-lists-26",
+        "https://www.gov.il/he/pages/kol-ha-nashim_list9"
+      ],
+      "basis": "Current CEC registration verified. Conflicting secondary descriptions were not used to infer a feminist programme; similarly named NGO is not treated as a party source.",
+      "checked": "2026-10-24"
+    },
+    "קך": {
+      "en": "Avital Hai Ofek’s party focuses on electoral and constitutional reform: a constitution, separation of powers and elections for individual representatives.",
+      "he": "מפלגתו של אביטל חי אופק מתמקדת ברפורמה חוקתית ובשיטת הבחירות: חוקה, הפרדת רשויות ובחירה אישית של נציגים.",
+      "ar": "يركّز حزب أفيتال حاي أوفيك على الإصلاح الدستوري والانتخابي: دستور وفصل السلطات وانتخاب ممثلين أفراد.",
+      "sources": [
+        "https://www.gov.il/he/pages/candidates-lists-26",
+        "https://www.gov.il/he/pages/seder-chadash_list15"
+      ],
+      "basis": "Stated objectives in the list’s official registered description; no broader programme inferred",
+      "checked": "2026-10-24"
+    },
+    "קץ": {
+      "en": "Larisa Amir’s list focuses on judicial reform. Its earlier platform combines that aim with traditional Jewish values; a revised 2026 platform has not been verified.",
+      "he": "רשימתה של לריסה עמיר מתמקדת ברפורמה במערכת המשפט. מצע קודם משלב יעד זה עם ערכים יהודיים מסורתיים; לא אומתה גרסה מעודכנת ל־2026.",
+      "ar": "تركّز قائمة لاريسا عمير على إصلاح القضاء. يجمع برنامجها السابق بين هذا الهدف والقيم اليهودية التقليدية؛ لم نتحقق من نسخة محدّثة لعام 2026.",
+      "sources": [
+        "https://www.idi.org.il/media/15982/משפט-צדק.pdf",
+        "https://www.gov.il/he/pages/mishpat-tzedek_list12"
+      ],
+      "basis": "Historical platform; 2026 revision not verified",
+      "checked": "2026-10-24"
+    },
+    "רק": {
+      "en": "Naftali Bennett and Yair Lapid’s joint list. Its published plans emphasise lowering living costs, wider participation in service and work, childcare and women’s representation.",
+      "he": "הרשימה המשותפת של נפתלי בנט ויאיר לפיד. תוכניותיה מדגישות הורדת יוקר המחיה, הרחבת השירות והתעסוקה, טיפול בגיל הרך וייצוג נשים.",
+      "ar": "القائمة المشتركة لنفتالي بينيت ويائير لبيد. تؤكد خططها خفض تكاليف المعيشة وتوسيع المشاركة في الخدمة والعمل ورعاية الطفولة المبكرة وتمثيل النساء.",
+      "sources": [
+        "https://be-yahad.org.il/plans/",
+        "https://www.gov.il/he/pages/beyahad_list1"
+      ],
+      "basis": "Published priorities and background; not an assessment of results",
+      "checked": "2026-10-24"
+    },
+    "שס": {
+      "en": "A Sephardi Haredi party led by Aryeh Deri. Its longstanding priorities combine religious education and Jewish tradition with social support, particularly for disadvantaged communities.",
+      "he": "מפלגה חרדית־ספרדית בראשות אריה דרעי. נושאי הליבה הוותיקים שלה משלבים חינוך דתי ומסורת יהודית עם תמיכה חברתית, בעיקר בקהילות מוחלשות.",
+      "ar": "حزب حريدي سفاردي برئاسة أرييه درعي. تجمع أولوياته المعروفة بين التعليم الديني والتقاليد اليهودية والدعم الاجتماعي، خصوصًا للفئات المحرومة.",
+      "sources": [
+        "https://www.idi.org.il/policy/parties-and-elections/parties/shas/",
+        "https://www.gov.il/he/pages/shas_list19"
+      ],
+      "basis": "Longstanding priorities; not a verified comprehensive 2026 platform",
+      "checked": "2026-10-24"
+    }
+  }
+}
